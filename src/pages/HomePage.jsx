@@ -3,6 +3,7 @@ import { motion } from "framer-motion";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import logo from "../assets/craftmytrail.png";
+import destinationsCards from "../data/destinationsCards";
 
 function Home() {
   const navigate = useNavigate();
@@ -13,6 +14,18 @@ function Home() {
       "_blank"
     );
   };
+  
+  const featuredDestinations = [
+  "gokarna",
+  "pondicherry",
+  "rishikesh",
+  "goa",
+  "munnar",
+  "coorg",
+  ];
+  const featuredCards = destinationsCards.filter((place) =>
+  featuredDestinations.includes(place.slug)
+  );
 
   return (
     <div className="min-h-screen font-[Poppins]">
@@ -88,71 +101,84 @@ function Home() {
 	  {/* ✅ FEATURED DESTINATIONS */}
 	  <section className="py-20 px-6 bg-gray-50 text-center">
 	    <h2 className="text-3xl md:text-4xl font-bold text-[#0A2342] mb-4">
-	      Featured Destinations
+	      Popular Destinations
 	    </h2>
 
-	    <p className="text-gray-600 mb-10">
-	      Discover handpicked destinations with curated itineraries and travel guides.
+	    <p className="text-gray-600 max-w-2xl mx-auto mb-12">
+	      Discover India's most loved destinations with curated itineraries,
+	      stay recommendations, local food guides and travel tips.
 	    </p>
 
-	    <div className="grid md:grid-cols-3 gap-8">
+		<div className="max-w-6xl mx-auto px-6 py-12">
+		        {featuredCards.length === 0 && (
+		          <p className="text-center text-gray-500">
+		            No destinations found
+		          </p>
+		        )}
 
-	      {[
-	        {
-	          name: "Munnar",
-	          image: "https://images.unsplash.com/photo-1637066742971-726bee8d9f56?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bXVubmFyfGVufDB8fDB8fHww",
-	          slug: "munnar",
-	        },
-	        {
-	          name: "Goa",
-	          image: "https://images.unsplash.com/photo-1560179406-1c6c60e0dc76?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8R29hfGVufDB8fDB8fHww",
-	          slug: "goa",
-	        },
-	        {
-	          name: "Coorg",
-	          image: "https://media.istockphoto.com/id/1225793683/photo/mountain-gap-with-river-flowing-and-green-forests.webp?a=1&b=1&s=612x612&w=0&k=20&c=x6rPNAzN-USPyp35XIWhyUmxEYpuuGlnOnYmdh_gI5k=",
-	          slug: "coorg",
-	        },
-			{
-				name: "Gokarna",
-				image: "https://media.istockphoto.com/id/590043276/photo/lonely-coast-and-sea.webp?a=1&b=1&s=612x612&w=0&k=20&c=3NmM9Miz5TNcHpLoZMoVfMkTrGPhH6vQeOV193EP_Dg=",
-				slug: "gokarna",
-		    },
-	      ].map((place) => (
-	        <div
-	          key={place.name}
-	          onClick={() => navigate(`/destination/${place.slug}`)}
-	          className="cursor-pointer bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl hover:-translate-y-2 transition duration-300"
-	        >
-	          
-	          {/* ✅ IMAGE */}
-	          <img
-	            src={place.image}
-	            alt={place.name}
-	            className="w-full h-48 object-cover"
-	          />
+		        <motion.div
+		          initial="hidden"
+		          animate="visible"
+		          variants={{
+		            visible: {
+		              transition: { staggerChildren: 0.15 },
+		            },
+		          }}
+		          className="grid md:grid-cols-2 lg:grid-cols-3 gap-8"
+		        >
+		          {featuredCards.map((place) => (
+		            <motion.div
+		              key={place.slug}
+		              variants={{
+		                hidden: { opacity: 0, y: 40 },
+		                visible: { opacity: 1, y: 0 },
+		              }}
+		              whileHover={{ scale: 1.05 }}
+		              onClick={() =>
+		                navigate(`/destination/${place.slug}`)
+		              }
+		              className="cursor-pointer rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition bg-white"
+		            >
+					<div className= "relative h-56 overflow-hidden">
+					  <img src={place.image} onError={(e) => {
+					      e.target.style.display = "none";
 
-	          {/* ✅ CONTENT */}
-	          <div className="p-5">
-	            <h3 className="text-xl font-semibold text-[#0A2342]">
-	              {place.name}
-	            </h3>
+					      const fallback =
+					        e.target.parentElement.querySelector(".fallback-name");
 
-	            <p className="text-gray-600 text-sm mt-2">
-	              Explore stunning landscapes, hidden gems, and curated travel experiences.
-	            </p>
+					      if (fallback) {
+					        fallback.style.display = "flex";
+					      }
+					    }}
+					  />
 
-	            <button className="mt-4 text-[#F7941D] font-semibold">
-	              View Details →
-	            </button>
-	          </div>
+					  <div
+					  className="fallback-name absolute inset-0 hidden items-center justify-center bg-gradient-to-r from-[#0A2342] to-blue-700 text-white text-3xl font-bold"
+					  >
+					    {place.name}
+					  </div>
 
-	        </div>
-	      ))}
+					  <div className="absolute inset-0 bg-gradient-to-t from-black/70 to-transparent" />
 
+					  <div className="absolute bottom-4 left-4 text-white">
+					    <h3 className="text-xl font-bold">{place.name}</h3>
+					    <p className="text-sm text-gray-200">{place.desc}</p>
+					  </div>
+					</div>
+		            </motion.div>
+		          ))}
+		        </motion.div>
+				</div>
+
+	    <div className="mt-12">
+	      <button
+	        onClick={() => navigate("/destinations")}
+	        className="bg-[#0A2342] text-white px-8 py-3 rounded-full font-semibold hover:bg-[#133b6e] transition duration-300 shadow-lg"
+	      >
+	        Explore More Destinations →
+	      </button>
 	    </div>
 	  </section>
-	  
 
 	  {/* ✅ WHY CHOOSE US */}
 	  <section className="py-20 px-6 bg-gray-50 text-center">
