@@ -1,0 +1,301 @@
+{
+  "title": "Jaisalmer",
+  "hero": "https://images.unsplash.com/photo-1477587458883-47145ed94245",
+
+  "bestTime": "October - March",
+  "recommendedDays": "3 Days",
+  "budget": "₹8,000 - ₹30,000",
+  "state": "Rajasthan",
+
+  "images": [
+    "https://images.unsplash.com/photo-1477587458883-47145ed94245",
+    "https://images.unsplash.com/photo-1548013146-72479768bada",
+    "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  ],
+
+  "description": "Jaisalmer, famously known as the Golden City of India, is a magical desert destination in Rajasthan renowned for its golden sandstone architecture, majestic forts, ornate havelis, desert safaris, camel rides, and breathtaking sunsets over the Thar Desert.",
+
+  "reach": {
+    "airport": {
+      "name": "Jaisalmer Airport",
+      "distance": "13 km",
+      "travelTime": "25 mins"
+    },
+    "railwayStation": {
+      "name": "Jaisalmer Railway Station",
+      "distance": "3 km",
+      "travelTime": "10 mins"
+    },
+    "busStand": {
+      "name": "Jaisalmer Bus Stand",
+      "distance": "1 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Suryagarh Jaisalmer",
+      "rating": "★ 4.9",
+      "type": "Luxury Palace Resort",
+      "priceRange": "₹18,000 - ₹45,000",
+      "distanceFromCenter": "15 km",
+      "googleMaps": "https://maps.google.com/?q=Suryagarh+Jaisalmer",
+      "highlights": [
+        "Luxury Palace Experience",
+        "Desert Activities",
+        "Spa"
+      ]
+    },
+    {
+      "name": "Fort Rajwada",
+      "rating": "★ 4.7",
+      "type": "Heritage Hotel",
+      "priceRange": "₹8,000 - ₹20,000",
+      "distanceFromCenter": "3 km",
+      "googleMaps": "https://maps.google.com/?q=Fort+Rajwada+Jaisalmer",
+      "highlights": [
+        "Royal Architecture",
+        "Swimming Pool",
+        "Traditional Hospitality"
+      ]
+    },
+    {
+      "name": "Hotel Pleasant Haveli",
+      "rating": "★ 4.6",
+      "type": "Boutique Hotel",
+      "priceRange": "₹3,000 - ₹8,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=Hotel+Pleasant+Haveli+Jaisalmer",
+      "highlights": [
+        "Fort View",
+        "Rooftop Restaurant",
+        "Budget Friendly"
+      ]
+    },
+    {
+      "name": "Zostel Jaisalmer",
+      "rating": "★ 4.5",
+      "type": "Hostel",
+      "priceRange": "₹700 - ₹2,500",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Jaisalmer",
+      "highlights": [
+        "Backpacker Friendly",
+        "Community Events",
+        "City Views"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Jaisalmer Fort",
+    "Patwon Ki Haveli",
+    "Salim Singh Ki Haveli",
+    "Nathmal Ki Haveli",
+    "Gadisar Lake",
+    "Sam Sand Dunes",
+    "Kuldhara Village",
+    "Bada Bagh",
+    "Desert National Park",
+    "Tanot Mata Temple"
+  ],
+
+  "food": [
+    {
+      "name": "The Trio",
+      "rating": "★ 4.6",
+      "speciality": "Rajasthani & Indian",
+      "priceRange": "₹400 - ₹1200",
+      "googleMaps": "https://maps.google.com/?q=The+Trio+Jaisalmer",
+      "mustTry": [
+        "Laal Maas",
+        "Dal Baati Churma"
+      ]
+    },
+    {
+      "name": "Jaisal Italy",
+      "rating": "★ 4.5",
+      "speciality": "Italian & Indian",
+      "priceRange": "₹300 - ₹1000",
+      "googleMaps": "https://maps.google.com/?q=Jaisal+Italy+Jaisalmer",
+      "mustTry": [
+        "Wood Fired Pizza",
+        "Pasta"
+      ]
+    },
+    {
+      "name": "Saffron Restaurant",
+      "rating": "★ 4.4",
+      "speciality": "Rajasthani Cuisine",
+      "priceRange": "₹300 - ₹900",
+      "googleMaps": "https://maps.google.com/?q=Saffron+Restaurant+Jaisalmer",
+      "mustTry": [
+        "Ker Sangri",
+        "Gatte Ki Sabzi"
+      ]
+    },
+    {
+      "name": "Cafe The Kaku",
+      "rating": "★ 4.5",
+      "speciality": "Cafe & Rooftop Dining",
+      "priceRange": "₹200 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Cafe+The+Kaku+Jaisalmer",
+      "mustTry": [
+        "Masala Chai",
+        "Sandwiches"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Auto Rickshaw",
+    "Taxi",
+    "Rental Bike",
+    "Camel Safari",
+    "Jeep Safari"
+  ],
+
+  "packing": [
+    "Sunglasses",
+    "Cap",
+    "Sunscreen",
+    "Comfortable Shoes",
+    "Power Bank",
+    "Light Jacket (Winter Nights)"
+  ],
+
+  "tips": [
+    "Visit forts and monuments early morning.",
+    "Carry sufficient water during desert excursions.",
+    "Book desert camps in advance during peak season.",
+    "Do not miss the sunset at Sam Sand Dunes.",
+    "Carry warm clothes for winter nights."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Golden City Heritage Tour",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Jaisalmer Fort",
+          "description": "Explore the living fort and its ancient temples, shops, and streets.",
+          "googleMaps": "https://maps.google.com/?q=Jaisalmer+Fort"
+        },
+        {
+          "time": "11:30 AM",
+          "place": "Patwon Ki Haveli",
+          "description": "Admire the intricate carvings and architecture of Jaisalmer's most famous haveli.",
+          "googleMaps": "https://maps.google.com/?q=Patwon+Ki+Haveli"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy authentic Rajasthani cuisine.",
+          "googleMaps": "https://maps.google.com/?q=The+Trio+Jaisalmer"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Salim Singh Ki Haveli",
+          "description": "Visit the uniquely designed haveli famous for its peacock-shaped roof.",
+          "googleMaps": "https://maps.google.com/?q=Salim+Singh+Ki+Haveli"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Gadisar Lake",
+          "description": "Enjoy boating and a beautiful desert sunset.",
+          "googleMaps": "https://maps.google.com/?q=Gadisar+Lake"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Desert Safari Adventure",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Kuldhara Village",
+          "description": "Explore the mysterious abandoned village near Jaisalmer.",
+          "googleMaps": "https://maps.google.com/?q=Kuldhara+Village"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Bada Bagh",
+          "description": "Visit royal cenotaphs with scenic desert surroundings.",
+          "googleMaps": "https://maps.google.com/?q=Bada+Bagh+Jaisalmer"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Sam Sand Dunes",
+          "description": "Begin your desert experience with dune exploration.",
+          "googleMaps": "https://maps.google.com/?q=Sam+Sand+Dunes"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Camel Safari",
+          "description": "Experience camel riding through the golden dunes during sunset.",
+          "googleMaps": "https://maps.google.com/?q=Sam+Sand+Dunes"
+        },
+        {
+          "time": "07:30 PM",
+          "place": "Desert Camp",
+          "description": "Enjoy cultural performances, folk music, and traditional dinner.",
+          "googleMaps": "https://maps.google.com/?q=Sam+Sand+Dunes+Camp"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Nature & Departure",
+      "activities": [
+        {
+          "time": "07:00 AM",
+          "place": "Desert Sunrise",
+          "description": "Witness a beautiful sunrise over the Thar Desert.",
+          "googleMaps": "https://maps.google.com/?q=Sam+Sand+Dunes"
+        },
+        {
+          "time": "10:00 AM",
+          "place": "Desert National Park",
+          "description": "Explore the unique wildlife and landscape of the desert ecosystem.",
+          "googleMaps": "https://maps.google.com/?q=Desert+National+Park+Jaisalmer"
+        },
+        {
+          "time": "12:30 PM",
+          "place": "Shopping",
+          "description": "Purchase handicrafts, leather items, textiles, and souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Jaisalmer+Market"
+        },
+        {
+          "time": "02:30 PM",
+          "place": "Lunch",
+          "description": "Enjoy a final Rajasthani meal before departure.",
+          "googleMaps": "https://maps.google.com/?q=Saffron+Restaurant+Jaisalmer"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Departure",
+          "description": "Proceed to airport or railway station.",
+          "googleMaps": "https://maps.google.com/?q=Jaisalmer+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "The highlight of Jaisalmer is experiencing the golden sunset over Sam Sand Dunes, followed by a traditional desert camp evening filled with Rajasthani folk music, dance, and authentic local cuisine."
+}

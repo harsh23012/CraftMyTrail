@@ -1,0 +1,354 @@
+{
+  "title": "Shimla",
+  "hero": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+
+  "bestTime": "March - June, December - February",
+  "recommendedDays": "3-4 Days",
+  "budget": "₹8,000 - ₹25,000",
+  "state": "Himachal Pradesh",
+
+  "images": [
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  ],
+
+  "description": "Shimla, the capital of Himachal Pradesh, is one of India's most iconic hill stations. Once the summer capital of British India, Shimla is known for its colonial architecture, scenic mountain landscapes, pine forests, toy train journeys, bustling markets, historic buildings, and pleasant weather throughout the year.",
+
+  "reach": {
+    "airport": {
+      "name": "Shimla Airport",
+      "distance": "22 km",
+      "travelTime": "45 mins"
+    },
+    "railwayStation": {
+      "name": "Shimla Railway Station",
+      "distance": "2 km",
+      "travelTime": "10 mins"
+    },
+    "busStand": {
+      "name": "ISBT Tutikandi",
+      "distance": "5 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "The Oberoi Cecil",
+      "rating": "★ 4.9",
+      "type": "Luxury Heritage Hotel",
+      "priceRange": "₹15,000 - ₹35,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=The+Oberoi+Cecil+Shimla",
+      "highlights": [
+        "Colonial Heritage",
+        "Luxury Spa",
+        "Mountain Views"
+      ]
+    },
+    {
+      "name": "Wildflower Hall",
+      "rating": "★ 4.9",
+      "type": "Luxury Resort",
+      "priceRange": "₹25,000 - ₹60,000",
+      "distanceFromCenter": "13 km",
+      "googleMaps": "https://maps.google.com/?q=Wildflower+Hall+Shimla",
+      "highlights": [
+        "Forest Retreat",
+        "Infinity Pool",
+        "Luxury Experience"
+      ]
+    },
+    {
+      "name": "Clarkes Hotel",
+      "rating": "★ 4.6",
+      "type": "Heritage Hotel",
+      "priceRange": "₹6,000 - ₹15,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=Clarkes+Hotel+Shimla",
+      "highlights": [
+        "Mall Road Access",
+        "Historic Property",
+        "Comfortable Stay"
+      ]
+    },
+    {
+      "name": "Zostel Shimla",
+      "rating": "★ 4.5",
+      "type": "Hostel",
+      "priceRange": "₹800 - ₹2,500",
+      "distanceFromCenter": "4 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Shimla",
+      "highlights": [
+        "Backpacker Friendly",
+        "Mountain Views",
+        "Community Events"
+      ]
+    }
+  ],
+
+  "explore": [
+    "The Ridge",
+    "Mall Road",
+    "Christ Church",
+    "Jakhoo Temple",
+    "Jakhoo Ropeway",
+    "Kufri",
+    "Green Valley",
+    "Viceregal Lodge",
+    "Annandale",
+    "Kali Bari Temple",
+    "Lakkar Bazaar",
+    "Mashobra"
+  ],
+
+  "food": [
+    {
+      "name": "Cafe Sol",
+      "rating": "★ 4.6",
+      "speciality": "Cafe & Continental",
+      "priceRange": "₹300 - ₹1000",
+      "googleMaps": "https://maps.google.com/?q=Cafe+Sol+Shimla",
+      "mustTry": [
+        "Pizza",
+        "Coffee"
+      ]
+    },
+    {
+      "name": "Wake & Bake",
+      "rating": "★ 4.7",
+      "speciality": "Bakery & Cafe",
+      "priceRange": "₹250 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Wake+and+Bake+Shimla",
+      "mustTry": [
+        "Pancakes",
+        "Hot Chocolate"
+      ]
+    },
+    {
+      "name": "Himachali Rasoi",
+      "rating": "★ 4.6",
+      "speciality": "Traditional Himachali Cuisine",
+      "priceRange": "₹200 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Himachali+Rasoi+Shimla",
+      "mustTry": [
+        "Siddu",
+        "Madra"
+      ]
+    },
+    {
+      "name": "Ashiana & Goofa",
+      "rating": "★ 4.5",
+      "speciality": "North Indian",
+      "priceRange": "₹300 - ₹900",
+      "googleMaps": "https://maps.google.com/?q=Ashiana+Shimla",
+      "mustTry": [
+        "Himachali Thali",
+        "Paneer Curry"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Walking",
+    "Taxi",
+    "Local Bus",
+    "Rental Bike",
+    "Ropeway"
+  ],
+
+  "packing": [
+    "Warm Jacket",
+    "Comfortable Walking Shoes",
+    "Woolen Clothes",
+    "Power Bank",
+    "Camera",
+    "Sunglasses",
+    "Umbrella"
+  ],
+
+  "tips": [
+    "Carry warm clothes throughout the year.",
+    "Book the Kalka-Shimla Toy Train in advance.",
+    "Visit Kufri early in the morning.",
+    "Wear comfortable shoes for steep walks.",
+    "Try authentic Himachali cuisine during your stay.",
+    "Keep some cash for local markets."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Colonial Heritage Walk",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "The Ridge",
+          "description": "Begin your trip at Shimla's iconic open plaza with panoramic mountain views.",
+          "googleMaps": "https://maps.google.com/?q=The+Ridge+Shimla"
+        },
+        {
+          "time": "10:00 AM",
+          "place": "Christ Church",
+          "description": "Visit one of India's oldest churches built in neo-Gothic style.",
+          "googleMaps": "https://maps.google.com/?q=Christ+Church+Shimla"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Mall Road",
+          "description": "Explore cafes, shops, and colonial-era buildings.",
+          "googleMaps": "https://maps.google.com/?q=Mall+Road+Shimla"
+        },
+        {
+          "time": "01:30 PM",
+          "place": "Lunch",
+          "description": "Taste authentic Himachali cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Himachali+Rasoi+Shimla"
+        },
+        {
+          "time": "03:30 PM",
+          "place": "Viceregal Lodge",
+          "description": "Explore the historic British-era residence.",
+          "googleMaps": "https://maps.google.com/?q=Viceregal+Lodge+Shimla"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Lakkar Bazaar",
+          "description": "Shop for wooden handicrafts and local souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Lakkar+Bazaar+Shimla"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Temples & Scenic Landscapes",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Jakhoo Temple",
+          "description": "Visit the famous Hanuman temple located on Shimla's highest hill.",
+          "googleMaps": "https://maps.google.com/?q=Jakhoo+Temple"
+        },
+        {
+          "time": "09:30 AM",
+          "place": "Jakhoo Ropeway",
+          "description": "Enjoy aerial views of Shimla and surrounding mountains.",
+          "googleMaps": "https://maps.google.com/?q=Jakhoo+Ropeway"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Green Valley",
+          "description": "Capture stunning photographs of forest-covered valleys.",
+          "googleMaps": "https://maps.google.com/?q=Green+Valley+Shimla"
+        },
+        {
+          "time": "01:30 PM",
+          "place": "Lunch",
+          "description": "Enjoy local North Indian cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Ashiana+Shimla"
+        },
+        {
+          "time": "03:30 PM",
+          "place": "Annandale",
+          "description": "Relax amidst beautiful open meadows and pine forests.",
+          "googleMaps": "https://maps.google.com/?q=Annandale+Shimla"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Mall Road Evening Walk",
+          "description": "Experience the lively atmosphere of Shimla after sunset.",
+          "googleMaps": "https://maps.google.com/?q=Mall+Road+Shimla"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Kufri Excursion",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Kufri",
+          "description": "Visit the famous hill destination known for snow activities and scenic views.",
+          "googleMaps": "https://maps.google.com/?q=Kufri"
+        },
+        {
+          "time": "10:30 AM",
+          "place": "Himalayan Nature Park",
+          "description": "Explore native Himalayan wildlife and landscapes.",
+          "googleMaps": "https://maps.google.com/?q=Himalayan+Nature+Park+Kufri"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy a meal with panoramic mountain views.",
+          "googleMaps": "https://maps.google.com/?q=Cafe+Sol+Shimla"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Mashobra",
+          "description": "Discover a peaceful hill village surrounded by forests and orchards.",
+          "googleMaps": "https://maps.google.com/?q=Mashobra"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Return to Shimla",
+          "description": "Relax and enjoy the cool mountain weather.",
+          "googleMaps": "https://maps.google.com/?q=Shimla"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 4",
+      "title": "Toy Train & Departure",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Kalka-Shimla Toy Train",
+          "description": "Experience the UNESCO-listed mountain railway journey.",
+          "googleMaps": "https://maps.google.com/?q=Shimla+Railway+Station"
+        },
+        {
+          "time": "11:30 AM",
+          "place": "Kali Bari Temple",
+          "description": "Visit the sacred temple dedicated to Goddess Kali.",
+          "googleMaps": "https://maps.google.com/?q=Kali+Bari+Temple+Shimla"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy local delicacies before departure.",
+          "googleMaps": "https://maps.google.com/?q=Wake+and+Bake+Shimla"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Shopping",
+          "description": "Purchase woolens, handicrafts, jams, and local products.",
+          "googleMaps": "https://maps.google.com/?q=Lakkar+Bazaar+Shimla"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Departure",
+          "description": "Proceed to airport, railway station, or onward destination.",
+          "googleMaps": "https://maps.google.com/?q=Shimla+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "Shimla is best known for its colonial heritage, toy train rides, scenic mountain landscapes, and vibrant Mall Road. A combination of The Ridge, Kufri, Jakhoo Temple, and the Kalka-Shimla Railway perfectly captures the charm of this Himalayan hill station."
+}

@@ -1,0 +1,294 @@
+{
+  "title": "Rishikesh",
+  "hero": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+
+  "bestTime": "September - April",
+  "recommendedDays": "3-4 Days",
+  "budget": "₹6,000 - ₹20,000",
+  "state": "Uttarakhand",
+
+  "images": [
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  ],
+
+  "description": "Rishikesh, known as the 'Yoga Capital of the World', is a serene Himalayan town situated on the banks of the holy River Ganga. Famous for yoga retreats, meditation centers, river rafting, adventure sports, spiritual ashrams, and iconic suspension bridges, Rishikesh attracts spiritual seekers and adventure enthusiasts from around the globe.",
+
+  "reach": {
+    "airport": {
+      "name": "Jolly Grant Airport, Dehradun",
+      "distance": "20 km",
+      "travelTime": "45 mins"
+    },
+    "railwayStation": {
+      "name": "Rishikesh Railway Station",
+      "distance": "3 km",
+      "travelTime": "10 mins"
+    },
+    "busStand": {
+      "name": "Rishikesh Bus Stand",
+      "distance": "2 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Aloha On The Ganges",
+      "rating": "★ 4.8",
+      "type": "Luxury Riverside Resort",
+      "priceRange": "₹8,000 - ₹18,000",
+      "distanceFromCenter": "5 km",
+      "googleMaps": "https://maps.google.com/?q=Aloha+On+The+Ganges+Rishikesh",
+      "highlights": [
+        "Ganga View",
+        "Yoga Sessions",
+        "Infinity Pool"
+      ]
+    },
+    {
+      "name": "Taj Rishikesh Resort & Spa",
+      "rating": "★ 4.9",
+      "type": "Luxury Resort",
+      "priceRange": "₹18,000 - ₹40,000",
+      "distanceFromCenter": "30 km",
+      "googleMaps": "https://maps.google.com/?q=Taj+Rishikesh+Resort",
+      "highlights": [
+        "Riverside Location",
+        "Spa",
+        "Luxury Experience"
+      ]
+    },
+    {
+      "name": "Ganga Kinare",
+      "rating": "★ 4.7",
+      "type": "Boutique Hotel",
+      "priceRange": "₹6,000 - ₹12,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Ganga+Kinare+Rishikesh",
+      "highlights": [
+        "Private Ghat",
+        "Ganga Aarti",
+        "Wellness Activities"
+      ]
+    },
+    {
+      "name": "Zostel Rishikesh",
+      "rating": "★ 4.5",
+      "type": "Hostel",
+      "priceRange": "₹700 - ₹2,500",
+      "distanceFromCenter": "4 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Rishikesh",
+      "highlights": [
+        "Backpacker Friendly",
+        "River View",
+        "Community Events"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Lakshman Jhula",
+    "Ram Jhula",
+    "Triveni Ghat",
+    "Parmarth Niketan",
+    "The Beatles Ashram",
+    "Neer Garh Waterfall",
+    "Shivpuri",
+    "Vashishta Cave",
+    "Gita Bhawan",
+    "Kunjapuri Temple"
+  ],
+
+  "food": [
+    {
+      "name": "Chotiwala",
+      "rating": "★ 4.5",
+      "speciality": "North Indian",
+      "priceRange": "₹200 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Chotiwala+Rishikesh",
+      "mustTry": [
+        "Thali",
+        "Paneer Dishes"
+      ]
+    },
+    {
+      "name": "Little Buddha Cafe",
+      "rating": "★ 4.6",
+      "speciality": "Cafe & Continental",
+      "priceRange": "₹300 - ₹900",
+      "googleMaps": "https://maps.google.com/?q=Little+Buddha+Cafe+Rishikesh",
+      "mustTry": [
+        "Pancakes",
+        "Coffee"
+      ]
+    },
+    {
+      "name": "Bistro Nirvana",
+      "rating": "★ 4.7",
+      "speciality": "Multi Cuisine",
+      "priceRange": "₹400 - ₹1200",
+      "googleMaps": "https://maps.google.com/?q=Bistro+Nirvana+Rishikesh",
+      "mustTry": [
+        "Pizza",
+        "Pasta"
+      ]
+    },
+    {
+      "name": "Freedom Cafe",
+      "rating": "★ 4.5",
+      "speciality": "Healthy Food",
+      "priceRange": "₹250 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Freedom+Cafe+Rishikesh",
+      "mustTry": [
+        "Smoothie Bowl",
+        "Vegetarian Platters"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Auto Rickshaw",
+    "Taxi",
+    "Rental Scooter",
+    "Local Bus",
+    "Walking"
+  ],
+
+  "packing": [
+    "Comfortable Walking Shoes",
+    "Light Jacket",
+    "Water Bottle",
+    "Power Bank",
+    "Sunscreen",
+    "Camera",
+    "Sportswear"
+  ],
+
+  "tips": [
+    "Attend the evening Ganga Aarti at Parmarth Niketan.",
+    "Book rafting activities through certified operators.",
+    "Wear comfortable clothes for yoga and adventure activities.",
+    "Carry cash for local markets and small vendors.",
+    "Visit popular attractions early to avoid crowds."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Spiritual Rishikesh",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Lakshman Jhula",
+          "description": "Walk across the iconic suspension bridge over the Ganga.",
+          "googleMaps": "https://maps.google.com/?q=Lakshman+Jhula"
+        },
+        {
+          "time": "10:00 AM",
+          "place": "Ram Jhula",
+          "description": "Explore nearby temples, shops, and river views.",
+          "googleMaps": "https://maps.google.com/?q=Ram+Jhula"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy riverside dining and local cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Little+Buddha+Cafe+Rishikesh"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "The Beatles Ashram",
+          "description": "Visit the historic meditation center where The Beatles stayed.",
+          "googleMaps": "https://maps.google.com/?q=Beatles+Ashram+Rishikesh"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Parmarth Niketan Ganga Aarti",
+          "description": "Witness the famous evening Ganga Aarti on the riverbank.",
+          "googleMaps": "https://maps.google.com/?q=Parmarth+Niketan"
+        }
+      ]
+    },
+    {
+      "day": "Day 2",
+      "title": "Adventure & Nature",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "River Rafting at Shivpuri",
+          "description": "Experience thrilling white-water rafting on the Ganga.",
+          "googleMaps": "https://maps.google.com/?q=Shivpuri+Rishikesh"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Lunch",
+          "description": "Relax after rafting and enjoy local food.",
+          "googleMaps": "https://maps.google.com/?q=Bistro+Nirvana+Rishikesh"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Neer Garh Waterfall",
+          "description": "Enjoy a short trek to the scenic waterfall.",
+          "googleMaps": "https://maps.google.com/?q=Neer+Garh+Waterfall"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Cafe Hopping",
+          "description": "Explore the vibrant café culture of Tapovan.",
+          "googleMaps": "https://maps.google.com/?q=Tapovan+Rishikesh"
+        }
+      ]
+    },
+    {
+      "day": "Day 3",
+      "title": "Yoga & Departure",
+      "activities": [
+        {
+          "time": "06:30 AM",
+          "place": "Yoga Session",
+          "description": "Attend a yoga and meditation class overlooking the Ganga.",
+          "googleMaps": "https://maps.google.com/?q=Yoga+Rishikesh"
+        },
+        {
+          "time": "09:30 AM",
+          "place": "Vashishta Cave",
+          "description": "Visit the peaceful meditation cave on the riverbank.",
+          "googleMaps": "https://maps.google.com/?q=Vashishta+Cave"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Triveni Ghat",
+          "description": "Explore one of Rishikesh's most sacred ghats.",
+          "googleMaps": "https://maps.google.com/?q=Triveni+Ghat"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Shopping",
+          "description": "Buy spiritual books, Rudraksha beads, handicrafts, and souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Rishikesh+Market"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Departure",
+          "description": "Proceed to airport, railway station, or onward destination.",
+          "googleMaps": "https://maps.google.com/?q=Rishikesh+Railway+Station"
+        }
+      ]
+    }
+  ],
+
+  "note": "Rishikesh offers a perfect balance of spirituality and adventure. The highlights include Ganga Aarti at Parmarth Niketan, river rafting in Shivpuri, yoga by the Ganges, iconic suspension bridges, and stunning Himalayan scenery."
+}

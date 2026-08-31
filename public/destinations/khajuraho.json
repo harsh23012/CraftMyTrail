@@ -1,0 +1,295 @@
+{
+  "title": "Khajuraho",
+  "hero": "https://images.unsplash.com/photo-1524499982521-1ffd58dd89ea",
+
+  "bestTime": "October - March",
+  "recommendedDays": "2-3 Days",
+  "budget": "₹6,000 - ₹20,000",
+  "state": "Madhya Pradesh",
+
+  "images": [
+    "https://images.unsplash.com/photo-1524499982521-1ffd58dd89ea",
+    "https://images.unsplash.com/photo-1548013146-72479768bada",
+    "https://images.unsplash.com/photo-1477587458883-47145ed94245",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb"
+  ],
+
+  "description": "Khajuraho is a UNESCO World Heritage Site renowned for its magnificent temple architecture and intricate stone carvings built by the Chandela Dynasty between the 9th and 12th centuries. The town is famous for its beautifully preserved temples, rich history, cultural heritage, dance festival, and stunning sculptures showcasing various aspects of life, spirituality, and art.",
+
+  "reach": {
+    "airport": {
+      "name": "Khajuraho Airport",
+      "distance": "4 km",
+      "travelTime": "10 mins"
+    },
+    "railwayStation": {
+      "name": "Khajuraho Railway Station",
+      "distance": "6 km",
+      "travelTime": "15 mins"
+    },
+    "busStand": {
+      "name": "Khajuraho Bus Stand",
+      "distance": "1 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "The Lalit Temple View",
+      "rating": "★ 4.8",
+      "type": "Luxury Resort",
+      "priceRange": "₹8,000 - ₹20,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=The+Lalit+Temple+View+Khajuraho",
+      "highlights": [
+        "Temple Views",
+        "Luxury Spa",
+        "Swimming Pool"
+      ]
+    },
+    {
+      "name": "Ramada Khajuraho",
+      "rating": "★ 4.6",
+      "type": "Premium Hotel",
+      "priceRange": "₹5,000 - ₹12,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=Ramada+Khajuraho",
+      "highlights": [
+        "Central Location",
+        "Pool",
+        "Family Friendly"
+      ]
+    },
+    {
+      "name": "Hotel Chandela",
+      "rating": "★ 4.5",
+      "type": "Heritage Hotel",
+      "priceRange": "₹4,000 - ₹10,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Hotel+Chandela+Khajuraho",
+      "highlights": [
+        "Traditional Architecture",
+        "Garden View",
+        "Peaceful Stay"
+      ]
+    },
+    {
+      "name": "Zostel Khajuraho",
+      "rating": "★ 4.4",
+      "type": "Hostel",
+      "priceRange": "₹700 - ₹2,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Khajuraho",
+      "highlights": [
+        "Budget Friendly",
+        "Backpacker Hub",
+        "Community Events"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Western Group of Temples",
+    "Lakshmana Temple",
+    "Kandariya Mahadeva Temple",
+    "Chitragupta Temple",
+    "Eastern Group of Temples",
+    "Javari Temple",
+    "Dulhadev Temple",
+    "Khajuraho Archaeological Museum",
+    "Raneh Falls",
+    "Panna National Park"
+  ],
+
+  "food": [
+    {
+      "name": "Raja Cafe",
+      "rating": "★ 4.6",
+      "speciality": "Indian & Continental",
+      "priceRange": "₹250 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Raja+Cafe+Khajuraho",
+      "mustTry": [
+        "Thali",
+        "Banana Pancake"
+      ]
+    },
+    {
+      "name": "Mediterraneo",
+      "rating": "★ 4.7",
+      "speciality": "Italian & Indian",
+      "priceRange": "₹400 - ₹1000",
+      "googleMaps": "https://maps.google.com/?q=Mediterraneo+Khajuraho",
+      "mustTry": [
+        "Pizza",
+        "Pasta"
+      ]
+    },
+    {
+      "name": "Guru Kripa Restaurant",
+      "rating": "★ 4.4",
+      "speciality": "North Indian",
+      "priceRange": "₹200 - ₹600",
+      "googleMaps": "https://maps.google.com/?q=Guru+Kripa+Khajuraho",
+      "mustTry": [
+        "Paneer Tikka",
+        "Dal Fry"
+      ]
+    },
+    {
+      "name": "Blue Sky Restaurant",
+      "rating": "★ 4.3",
+      "speciality": "Indian Cuisine",
+      "priceRange": "₹150 - ₹500",
+      "googleMaps": "https://maps.google.com/?q=Blue+Sky+Restaurant+Khajuraho",
+      "mustTry": [
+        "Veg Thali",
+        "Masala Tea"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Auto Rickshaw",
+    "Taxi",
+    "Rental Bicycle",
+    "Rental Scooter",
+    "Private Cab"
+  ],
+
+  "packing": [
+    "Comfortable Walking Shoes",
+    "Cap",
+    "Sunglasses",
+    "Camera",
+    "Power Bank",
+    "Water Bottle"
+  ],
+
+  "tips": [
+    "Visit the Western Group of Temples early morning.",
+    "Hire a guide to understand the history and architecture.",
+    "Carry water while exploring temple complexes.",
+    "Attend the evening Sound and Light Show.",
+    "Combine your trip with Panna National Park."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "UNESCO Heritage Exploration",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Western Group of Temples",
+          "description": "Explore the most famous temples of Khajuraho and their magnificent sculptures.",
+          "googleMaps": "https://maps.google.com/?q=Western+Group+of+Temples+Khajuraho"
+        },
+        {
+          "time": "10:30 AM",
+          "place": "Kandariya Mahadeva Temple",
+          "description": "Visit the largest and most impressive temple in Khajuraho.",
+          "googleMaps": "https://maps.google.com/?q=Kandariya+Mahadeva+Temple"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy local and international cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Raja+Cafe+Khajuraho"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Lakshmana Temple",
+          "description": "Admire exquisite carvings and architectural beauty.",
+          "googleMaps": "https://maps.google.com/?q=Lakshmana+Temple+Khajuraho"
+        },
+        {
+          "time": "06:30 PM",
+          "place": "Sound & Light Show",
+          "description": "Learn about Khajuraho's history through an immersive evening show.",
+          "googleMaps": "https://maps.google.com/?q=Western+Group+of+Temples"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Temples & Natural Beauty",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Eastern Group of Temples",
+          "description": "Explore Jain temples and lesser-known architectural masterpieces.",
+          "googleMaps": "https://maps.google.com/?q=Eastern+Group+of+Temples+Khajuraho"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Khajuraho Archaeological Museum",
+          "description": "Discover ancient sculptures and artifacts from the region.",
+          "googleMaps": "https://maps.google.com/?q=Khajuraho+Museum"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Taste authentic Indian cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Guru+Kripa+Restaurant+Khajuraho"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Raneh Falls",
+          "description": "Visit the spectacular canyon and waterfall formed by volcanic rocks.",
+          "googleMaps": "https://maps.google.com/?q=Raneh+Falls"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Sunset Point",
+          "description": "Enjoy scenic views of the surrounding landscape.",
+          "googleMaps": "https://maps.google.com/?q=Raneh+Falls"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Wildlife & Departure",
+      "activities": [
+        {
+          "time": "06:30 AM",
+          "place": "Panna National Park",
+          "description": "Go on a wildlife safari and spot tigers, leopards, and deer.",
+          "googleMaps": "https://maps.google.com/?q=Panna+National+Park"
+        },
+        {
+          "time": "11:30 AM",
+          "place": "Temple Photography Walk",
+          "description": "Capture beautiful temple architecture and sculptures.",
+          "googleMaps": "https://maps.google.com/?q=Khajuraho+Temples"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Shopping",
+          "description": "Buy handicrafts, tribal art, and local souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Khajuraho+Market"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Departure",
+          "description": "Proceed to airport or railway station for onward journey.",
+          "googleMaps": "https://maps.google.com/?q=Khajuraho+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "Khajuraho is not just about its famous sculptures. The temples represent extraordinary craftsmanship, spirituality, mythology, music, dance, and daily life of medieval India, making it one of the country's most remarkable cultural destinations."
+}

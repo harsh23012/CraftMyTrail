@@ -1,0 +1,318 @@
+{
+  "title": "Leh Ladakh",
+  "hero": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+
+  "bestTime": "May - September",
+  "recommendedDays": "5-7 Days",
+  "budget": "₹20,000 - ₹60,000",
+  "state": "Ladakh",
+
+  "images": [
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  ],
+
+  "description": "Leh Ladakh is one of India's most spectacular travel destinations, known for its snow-capped mountains, crystal-clear lakes, high-altitude passes, Buddhist monasteries, rugged landscapes, and thrilling road trips. Nestled in the Himalayas, Ladakh offers a perfect blend of adventure, spirituality, and natural beauty.",
+
+  "reach": {
+    "airport": {
+      "name": "Kushok Bakula Rimpochee Airport, Leh",
+      "distance": "4 km",
+      "travelTime": "10 mins"
+    },
+    "railwayStation": {
+      "name": "Jammu Tawi Railway Station",
+      "distance": "700 km",
+      "travelTime": "2 Days Road Journey"
+    },
+    "busStand": {
+      "name": "Leh Bus Stand",
+      "distance": "1 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "The Grand Dragon Ladakh",
+      "rating": "★ 4.8",
+      "type": "Luxury Hotel",
+      "priceRange": "₹10,000 - ₹25,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=The+Grand+Dragon+Ladakh",
+      "highlights": [
+        "Mountain Views",
+        "Luxury Rooms",
+        "Premium Service"
+      ]
+    },
+    {
+      "name": "Ladakh Sarai Resort",
+      "rating": "★ 4.7",
+      "type": "Resort",
+      "priceRange": "₹8,000 - ₹18,000",
+      "distanceFromCenter": "7 km",
+      "googleMaps": "https://maps.google.com/?q=Ladakh+Sarai+Resort",
+      "highlights": [
+        "Valley View",
+        "Traditional Ladakhi Style",
+        "Nature Stay"
+      ]
+    },
+    {
+      "name": "Hotel Singge Palace",
+      "rating": "★ 4.5",
+      "type": "Premium Hotel",
+      "priceRange": "₹4,000 - ₹10,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=Hotel+Singge+Palace+Leh",
+      "highlights": [
+        "Central Location",
+        "Comfort Stay",
+        "Good Food"
+      ]
+    },
+    {
+      "name": "Zostel Leh",
+      "rating": "★ 4.6",
+      "type": "Hostel",
+      "priceRange": "₹800 - ₹2,500",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Leh",
+      "highlights": [
+        "Backpacker Friendly",
+        "Community Events",
+        "Mountain Views"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Pangong Lake",
+    "Nubra Valley",
+    "Khardung La Pass",
+    "Magnetic Hill",
+    "Shanti Stupa",
+    "Leh Palace",
+    "Thiksey Monastery",
+    "Hemis Monastery",
+    "Tso Moriri Lake",
+    "Hall of Fame Museum"
+  ],
+
+  "food": [
+    {
+      "name": "The Tibetan Kitchen",
+      "rating": "★ 4.7",
+      "speciality": "Tibetan & Ladakhi",
+      "priceRange": "₹300 - ₹900",
+      "googleMaps": "https://maps.google.com/?q=Tibetan+Kitchen+Leh",
+      "mustTry": [
+        "Momos",
+        "Thukpa"
+      ]
+    },
+    {
+      "name": "Bon Appetit",
+      "rating": "★ 4.6",
+      "speciality": "Multi Cuisine",
+      "priceRange": "₹500 - ₹1200",
+      "googleMaps": "https://maps.google.com/?q=Bon+Appetit+Leh",
+      "mustTry": [
+        "Wood Fired Pizza",
+        "Pasta"
+      ]
+    },
+    {
+      "name": "Lamayuru Restaurant",
+      "rating": "★ 4.5",
+      "speciality": "Ladakhi Cuisine",
+      "priceRange": "₹250 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Lamayuru+Restaurant+Leh",
+      "mustTry": [
+        "Skyu",
+        "Butter Tea"
+      ]
+    },
+    {
+      "name": "Gesmo Restaurant",
+      "rating": "★ 4.4",
+      "speciality": "Bakery & Café",
+      "priceRange": "₹200 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Gesmo+Restaurant+Leh",
+      "mustTry": [
+        "Apricot Cake",
+        "Coffee"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Rental Bike",
+    "Taxi",
+    "Shared Taxi",
+    "Private Cab",
+    "Local Bus"
+  ],
+
+  "packing": [
+    "Heavy Jacket",
+    "Thermal Wear",
+    "Sunglasses",
+    "Sunscreen",
+    "Power Bank",
+    "Comfortable Trekking Shoes",
+    "Personal Medicines"
+  ],
+
+  "tips": [
+    "Spend the first day acclimatizing to the altitude.",
+    "Drink plenty of water and avoid heavy physical activity on arrival.",
+    "Carry cash as ATMs may not be available everywhere.",
+    "Keep government ID proofs for permits.",
+    "Always carry warm clothing, even during summer."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Acclimatization",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Arrival in Leh",
+          "description": "Check into hotel and rest to acclimatize to the high altitude.",
+          "googleMaps": "https://maps.google.com/?q=Leh"
+        },
+        {
+          "time": "04:00 PM",
+          "place": "Shanti Stupa",
+          "description": "Enjoy panoramic views of Leh city and surrounding mountains.",
+          "googleMaps": "https://maps.google.com/?q=Shanti+Stupa"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Leh Market",
+          "description": "Explore local shops, cafés and handicrafts.",
+          "googleMaps": "https://maps.google.com/?q=Leh+Market"
+        }
+      ]
+    },
+    {
+      "day": "Day 2",
+      "title": "Monasteries & Local Attractions",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Hall of Fame Museum",
+          "description": "Learn about Ladakh's history and Indian Army contributions.",
+          "googleMaps": "https://maps.google.com/?q=Hall+of+Fame+Leh"
+        },
+        {
+          "time": "10:00 AM",
+          "place": "Magnetic Hill",
+          "description": "Experience the famous gravity-defying optical illusion.",
+          "googleMaps": "https://maps.google.com/?q=Magnetic+Hill"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Thiksey Monastery",
+          "description": "Visit one of the most beautiful monasteries in Ladakh.",
+          "googleMaps": "https://maps.google.com/?q=Thiksey+Monastery"
+        },
+        {
+          "time": "04:00 PM",
+          "place": "Leh Palace",
+          "description": "Explore the historic palace overlooking Leh.",
+          "googleMaps": "https://maps.google.com/?q=Leh+Palace"
+        }
+      ]
+    },
+    {
+      "day": "Day 3",
+      "title": "Nubra Valley Adventure",
+      "activities": [
+        {
+          "time": "07:00 AM",
+          "place": "Khardung La Pass",
+          "description": "Drive through one of the world's highest motorable roads.",
+          "googleMaps": "https://maps.google.com/?q=Khardung+La"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Nubra Valley",
+          "description": "Enjoy desert landscapes and scenic Himalayan views.",
+          "googleMaps": "https://maps.google.com/?q=Nubra+Valley"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Hunder Sand Dunes",
+          "description": "Ride double-humped Bactrian camels at sunset.",
+          "googleMaps": "https://maps.google.com/?q=Hunder+Sand+Dunes"
+        }
+      ]
+    },
+    {
+      "day": "Day 4",
+      "title": "Pangong Lake Excursion",
+      "activities": [
+        {
+          "time": "07:00 AM",
+          "place": "Pangong Lake",
+          "description": "Visit the world-famous high-altitude blue lake.",
+          "googleMaps": "https://maps.google.com/?q=Pangong+Lake"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Photography & Exploration",
+          "description": "Capture the changing colors of Pangong Lake.",
+          "googleMaps": "https://maps.google.com/?q=Pangong+Lake"
+        },
+        {
+          "time": "07:00 PM",
+          "place": "Lakeside Camp",
+          "description": "Experience a memorable night under the stars.",
+          "googleMaps": "https://maps.google.com/?q=Pangong+Lake"
+        }
+      ]
+    },
+    {
+      "day": "Day 5",
+      "title": "Return & Departure",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Return to Leh",
+          "description": "Drive back through scenic mountain roads.",
+          "googleMaps": "https://maps.google.com/?q=Leh"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Shopping",
+          "description": "Buy Pashmina products, apricots and Ladakhi souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Leh+Market"
+        },
+        {
+          "time": "04:00 PM",
+          "place": "Departure",
+          "description": "Proceed to Kushok Bakula Rimpochee Airport.",
+          "googleMaps": "https://maps.google.com/?q=Leh+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "Leh Ladakh is a dream destination for road trip enthusiasts and nature lovers. The highlights include Pangong Lake, Nubra Valley, Khardung La Pass, and the unique blend of Himalayan landscapes and Buddhist culture. Acclimatization is essential for a safe and enjoyable trip."
+}

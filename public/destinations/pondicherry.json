@@ -1,0 +1,339 @@
+{
+  "title": "Pondicherry",
+  "hero": "https://images.unsplash.com/photo-1587474260584-136574528ed5",
+
+  "bestTime": "October - March",
+  "recommendedDays": "3-4 Days",
+  "budget": "₹6,000 - ₹25,000",
+  "state": "Puducherry",
+
+  "description": "Pondicherry, officially known as Puducherry, is a beautiful coastal town on the southeastern coast of India. Renowned for its French colonial architecture, charming boulevards, spiritual centers, serene beaches, vibrant cafes, and unique blend of Indian and French cultures, Pondicherry offers a relaxing and culturally rich travel experience.",
+
+  "reach": {
+    "airport": {
+      "name": "Puducherry Airport",
+      "distance": "6 km",
+      "travelTime": "20 mins"
+    },
+    "railwayStation": {
+      "name": "Puducherry Railway Station",
+      "distance": "2 km",
+      "travelTime": "10 mins"
+    },
+    "busStand": {
+      "name": "Puducherry New Bus Stand",
+      "distance": "3 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "The Promenade",
+      "rating": "★ 4.7",
+      "type": "Luxury Beachfront Hotel",
+      "priceRange": "₹8,000 - ₹20,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=The+Promenade+Pondicherry",
+      "highlights": [
+        "Beachfront Location",
+        "Infinity Pool",
+        "Luxury Dining"
+      ]
+    },
+    {
+      "name": "Le Pondy",
+      "rating": "★ 4.6",
+      "type": "Luxury Resort",
+      "priceRange": "₹9,000 - ₹25,000",
+      "distanceFromCenter": "12 km",
+      "googleMaps": "https://maps.google.com/?q=Le+Pondy+Pondicherry",
+      "highlights": [
+        "Private Beach",
+        "Lagoon Views",
+        "Spa Facilities"
+      ]
+    },
+    {
+      "name": "Accord Puducherry",
+      "rating": "★ 4.5",
+      "type": "Premium Hotel",
+      "priceRange": "₹5,000 - ₹12,000",
+      "distanceFromCenter": "3 km",
+      "googleMaps": "https://maps.google.com/?q=Accord+Puducherry",
+      "highlights": [
+        "Modern Amenities",
+        "Family Friendly",
+        "Swimming Pool"
+      ]
+    },
+    {
+      "name": "Villa Shanti",
+      "rating": "★ 4.6",
+      "type": "Boutique Heritage Hotel",
+      "priceRange": "₹6,000 - ₹14,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=Villa+Shanti+Pondicherry",
+      "highlights": [
+        "French Architecture",
+        "Central Location",
+        "Fine Dining"
+      ]
+    },
+    {
+      "name": "Micasa Hostel",
+      "rating": "★ 4.5",
+      "type": "Hostel",
+      "priceRange": "₹700 - ₹2,500",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Micasa+Hostel+Pondicherry",
+      "highlights": [
+        "Backpacker Friendly",
+        "Community Events",
+        "Budget Stay"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Promenade Beach",
+    "Rock Beach",
+    "Paradise Beach",
+    "Serenity Beach",
+    "Auroville",
+    "Matrimandir",
+    "Sri Aurobindo Ashram",
+    "French Quarter",
+    "Basilica of the Sacred Heart of Jesus",
+    "Immaculate Conception Cathedral",
+    "Pondicherry Museum",
+    "Botanical Garden",
+    "Manakula Vinayagar Temple",
+    "Chunnambar Boat House",
+    "Old Lighthouse",
+    "Bharathi Park",
+    "Jawahar Toy Museum",
+    "Arikamedu",
+    "Veerampattinam Beach",
+    "Goubert Market"
+  ],
+
+  "food": [
+    {
+      "name": "Cafe des Arts",
+      "rating": "★ 4.6",
+      "speciality": "French Cafe",
+      "priceRange": "₹300 - ₹1000",
+      "googleMaps": "https://maps.google.com/?q=Cafe+des+Arts+Pondicherry",
+      "mustTry": [
+        "Croissants",
+        "French Breakfast"
+      ]
+    },
+    {
+      "name": "Coromandel Cafe",
+      "rating": "★ 4.7",
+      "speciality": "Fusion Cuisine",
+      "priceRange": "₹500 - ₹1500",
+      "googleMaps": "https://maps.google.com/?q=Coromandel+Cafe+Pondicherry",
+      "mustTry": [
+        "Seafood Platter",
+        "Wood Fired Pizza"
+      ]
+    },
+    {
+      "name": "Villa Shanti Restaurant",
+      "rating": "★ 4.6",
+      "speciality": "French & Indian",
+      "priceRange": "₹500 - ₹1500",
+      "googleMaps": "https://maps.google.com/?q=Villa+Shanti+Restaurant+Pondicherry",
+      "mustTry": [
+        "Grilled Fish",
+        "Crepes"
+      ]
+    },
+    {
+      "name": "Baker Street",
+      "rating": "★ 4.5",
+      "speciality": "Bakery & Cafe",
+      "priceRange": "₹150 - ₹600",
+      "googleMaps": "https://maps.google.com/?q=Baker+Street+Pondicherry",
+      "mustTry": [
+        "Pastries",
+        "Baguettes"
+      ]
+    },
+    {
+      "name": "Le Dupleix",
+      "rating": "★ 4.5",
+      "speciality": "French Fine Dining",
+      "priceRange": "₹700 - ₹1800",
+      "googleMaps": "https://maps.google.com/?q=Le+Dupleix+Pondicherry",
+      "mustTry": [
+        "Prawn Curry",
+        "French Desserts"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Rental Scooter",
+    "Taxi",
+    "Auto Rickshaw",
+    "Bicycle",
+    "Local Bus",
+    "Walking"
+  ],
+
+  "packing": [
+    "Light Cotton Clothes",
+    "Comfortable Walking Shoes",
+    "Sunglasses",
+    "Sunscreen",
+    "Hat",
+    "Umbrella",
+    "Power Bank",
+    "Camera",
+    "Beach Wear"
+  ],
+
+  "tips": [
+    "Rent a scooter for convenient city exploration.",
+    "Visit Promenade Beach during sunrise.",
+    "Maintain silence while visiting Sri Aurobindo Ashram.",
+    "Carry sunscreen as temperatures can be high.",
+    "Explore White Town on foot for the best experience.",
+    "Try French bakeries and authentic cafes.",
+    "Visit Auroville early to avoid crowds."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "French Heritage & City Exploration",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Promenade Beach",
+          "description": "Enjoy sunrise and a peaceful walk along the promenade.",
+          "googleMaps": "https://maps.google.com/?q=Promenade+Beach+Pondicherry"
+        },
+        {
+          "time": "10:00 AM",
+          "place": "French Quarter",
+          "description": "Explore colorful colonial streets and heritage buildings.",
+          "googleMaps": "https://maps.google.com/?q=French+Quarter+Pondicherry"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Manakula Vinayagar Temple",
+          "description": "Visit one of Pondicherry's most popular temples.",
+          "googleMaps": "https://maps.google.com/?q=Manakula+Vinayagar+Temple"
+        },
+        {
+          "time": "01:30 PM",
+          "place": "Lunch",
+          "description": "Enjoy French-inspired cuisine at Cafe des Arts.",
+          "googleMaps": "https://maps.google.com/?q=Cafe+des+Arts+Pondicherry"
+        },
+        {
+          "time": "03:30 PM",
+          "place": "Pondicherry Museum",
+          "description": "Learn about the region's history and cultural heritage.",
+          "googleMaps": "https://maps.google.com/?q=Pondicherry+Museum"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Rock Beach",
+          "description": "Relax by the sea and enjoy the evening atmosphere.",
+          "googleMaps": "https://maps.google.com/?q=Rock+Beach+Pondicherry"
+        }
+      ]
+    },
+    {
+      "day": "Day 2",
+      "title": "Spiritual & Auroville Experience",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Sri Aurobindo Ashram",
+          "description": "Experience peace and meditation at the famous ashram.",
+          "googleMaps": "https://maps.google.com/?q=Sri+Aurobindo+Ashram"
+        },
+        {
+          "time": "10:00 AM",
+          "place": "Auroville",
+          "description": "Explore the international township dedicated to human unity.",
+          "googleMaps": "https://maps.google.com/?q=Auroville"
+        },
+        {
+          "time": "11:30 AM",
+          "place": "Matrimandir",
+          "description": "Visit the iconic golden meditation center.",
+          "googleMaps": "https://maps.google.com/?q=Matrimandir+Auroville"
+        },
+        {
+          "time": "01:30 PM",
+          "place": "Lunch",
+          "description": "Enjoy healthy organic food in Auroville.",
+          "googleMaps": "https://maps.google.com/?q=Auroville+Bakery"
+        },
+        {
+          "time": "03:30 PM",
+          "place": "Serenity Beach",
+          "description": "Spend a relaxing afternoon by the beach.",
+          "googleMaps": "https://maps.google.com/?q=Serenity+Beach+Pondicherry"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "White Town",
+          "description": "Explore cafes, boutiques and colonial-era buildings.",
+          "googleMaps": "https://maps.google.com/?q=White+Town+Pondicherry"
+        }
+      ]
+    },
+    {
+      "day": "Day 3",
+      "title": "Beaches, Nature & Shopping",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Chunnambar Boat House",
+          "description": "Take a scenic boat ride through backwaters.",
+          "googleMaps": "https://maps.google.com/?q=Chunnambar+Boat+House"
+        },
+        {
+          "time": "09:30 AM",
+          "place": "Paradise Beach",
+          "description": "Relax on one of the cleanest beaches near Pondicherry.",
+          "googleMaps": "https://maps.google.com/?q=Paradise+Beach+Pondicherry"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Botanical Garden",
+          "description": "Explore lush greenery and exotic plant collections.",
+          "googleMaps": "https://maps.google.com/?q=Botanical+Garden+Pondicherry"
+        },
+        {
+          "time": "01:30 PM",
+          "place": "Lunch",
+          "description": "Dine at Villa Shanti and enjoy French-Indian cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Villa+Shanti+Pondicherry"
+        },
+        {
+          "time": "03:30 PM",
+          "place": "Goubert Market",
+          "description": "Shop for handicrafts, spices and local products.",
+          "googleMaps": "https://maps.google.com/?q=Goubert+Market+Pondicherry"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Departure",
+          "description": "Proceed to the railway station, airport or onward destination.",
+          "googleMaps": "https://maps.google.com/?q=Puducherry+Railway+Station"
+        }
+      ]
+    }
+  ],
+
+  "note": "Pondicherry is famous for its French colonial heritage, peaceful beaches, spiritual atmosphere, heritage cafes and colorful streets. Watching the sunrise at Promenade Beach, exploring White Town, and visiting Matrimandir in Auroville are must-have experiences."
+}

@@ -1,0 +1,342 @@
+{
+  "title": "Udaipur",
+  "hero": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
+
+  "bestTime": "October - March",
+  "recommendedDays": "3-4 Days",
+  "budget": "₹7,000 - ₹30,000",
+  "state": "Rajasthan",
+
+  "images": [
+    "https://images.unsplash.com/photo-1516483638261-f4dbaf036963",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+  ],
+
+  "description": "Udaipur, famously known as the 'City of Lakes', is one of India's most romantic and beautiful destinations. Surrounded by the Aravalli Hills, the city is renowned for its magnificent palaces, serene lakes, heritage hotels, colorful bazaars, rich Rajput history, and breathtaking sunsets.",
+
+  "reach": {
+    "airport": {
+      "name": "Maharana Pratap Airport",
+      "distance": "22 km",
+      "travelTime": "40 mins"
+    },
+    "railwayStation": {
+      "name": "Udaipur City Railway Station",
+      "distance": "3 km",
+      "travelTime": "10 mins"
+    },
+    "busStand": {
+      "name": "Udaipur Bus Stand",
+      "distance": "2 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "The Oberoi Udaivilas",
+      "rating": "★ 4.9",
+      "type": "Luxury Palace Resort",
+      "priceRange": "₹30,000 - ₹80,000",
+      "distanceFromCenter": "4 km",
+      "googleMaps": "https://maps.google.com/?q=The+Oberoi+Udaivilas+Udaipur",
+      "highlights": [
+        "Lake Pichola View",
+        "Luxury Spa",
+        "Royal Architecture"
+      ]
+    },
+    {
+      "name": "Taj Lake Palace",
+      "rating": "★ 4.9",
+      "type": "Luxury Heritage Hotel",
+      "priceRange": "₹25,000 - ₹70,000",
+      "distanceFromCenter": "Lake Pichola",
+      "googleMaps": "https://maps.google.com/?q=Taj+Lake+Palace+Udaipur",
+      "highlights": [
+        "Floating Palace",
+        "Lake Views",
+        "Royal Experience"
+      ]
+    },
+    {
+      "name": "Trident Udaipur",
+      "rating": "★ 4.7",
+      "type": "Premium Hotel",
+      "priceRange": "₹8,000 - ₹18,000",
+      "distanceFromCenter": "3 km",
+      "googleMaps": "https://maps.google.com/?q=Trident+Udaipur",
+      "highlights": [
+        "Lake Access",
+        "Family Friendly",
+        "Garden Views"
+      ]
+    },
+    {
+      "name": "Zostel Udaipur",
+      "rating": "★ 4.6",
+      "type": "Hostel",
+      "priceRange": "₹700 - ₹2,500",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Udaipur",
+      "highlights": [
+        "Backpacker Friendly",
+        "Rooftop View",
+        "Community Events"
+      ]
+    }
+  ],
+
+  "explore": [
+    "City Palace",
+    "Lake Pichola",
+    "Jag Mandir",
+    "Jagdish Temple",
+    "Fateh Sagar Lake",
+    "Saheliyon Ki Bari",
+    "Sajjangarh Monsoon Palace",
+    "Bagore Ki Haveli",
+    "Karni Mata Ropeway",
+    "Vintage Car Museum",
+    "Shilpgram",
+    "Gulab Bagh"
+  ],
+
+  "food": [
+    {
+      "name": "Ambrai Restaurant",
+      "rating": "★ 4.8",
+      "speciality": "Rajasthani & North Indian",
+      "priceRange": "₹500 - ₹1500",
+      "googleMaps": "https://maps.google.com/?q=Ambrai+Restaurant+Udaipur",
+      "mustTry": [
+        "Laal Maas",
+        "Dal Baati Churma"
+      ]
+    },
+    {
+      "name": "Upre by 1559 AD",
+      "rating": "★ 4.7",
+      "speciality": "Rooftop Dining",
+      "priceRange": "₹600 - ₹1800",
+      "googleMaps": "https://maps.google.com/?q=Upre+1559+AD+Udaipur",
+      "mustTry": [
+        "Paneer Tikka",
+        "Rajasthani Thali"
+      ]
+    },
+    {
+      "name": "Natraj Dining Hall",
+      "rating": "★ 4.6",
+      "speciality": "Traditional Thali",
+      "priceRange": "₹250 - ₹600",
+      "googleMaps": "https://maps.google.com/?q=Natraj+Dining+Hall+Udaipur",
+      "mustTry": [
+        "Rajasthani Thali",
+        "Churma"
+      ]
+    },
+    {
+      "name": "Jheel's Ginger Coffee Bar",
+      "rating": "★ 4.5",
+      "speciality": "Cafe",
+      "priceRange": "₹200 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Jheels+Ginger+Coffee+Bar+Udaipur",
+      "mustTry": [
+        "Coffee",
+        "Pancakes"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Auto Rickshaw",
+    "Taxi",
+    "App-Based Cabs",
+    "Rental Scooter",
+    "Boat Services"
+  ],
+
+  "packing": [
+    "Comfortable Walking Shoes",
+    "Sunglasses",
+    "Sunscreen",
+    "Camera",
+    "Power Bank",
+    "Light Cotton Clothes",
+    "Hat"
+  ],
+
+  "tips": [
+    "Take a sunset boat ride on Lake Pichola.",
+    "Visit City Palace early to avoid crowds.",
+    "Carry sunscreen throughout the year.",
+    "Attend Bagore Ki Haveli cultural show in the evening.",
+    "Try authentic Rajasthani cuisine during your stay.",
+    "Book lake-view hotels well in advance during peak season."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Royal Heritage Exploration",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "City Palace",
+          "description": "Explore Rajasthan's largest palace complex overlooking Lake Pichola.",
+          "googleMaps": "https://maps.google.com/?q=City+Palace+Udaipur"
+        },
+        {
+          "time": "11:30 AM",
+          "place": "Jagdish Temple",
+          "description": "Visit the beautifully carved 17th-century Hindu temple.",
+          "googleMaps": "https://maps.google.com/?q=Jagdish+Temple+Udaipur"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy authentic Rajasthani cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Natraj+Dining+Hall+Udaipur"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Bagore Ki Haveli",
+          "description": "Explore the historic haveli and museum.",
+          "googleMaps": "https://maps.google.com/?q=Bagore+Ki+Haveli"
+        },
+        {
+          "time": "07:00 PM",
+          "place": "Bagore Ki Haveli Cultural Show",
+          "description": "Witness traditional Rajasthani folk dance and music performances.",
+          "googleMaps": "https://maps.google.com/?q=Bagore+Ki+Haveli"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Lakes & Sunset Views",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Lake Pichola",
+          "description": "Enjoy a scenic boat ride across Udaipur's most famous lake.",
+          "googleMaps": "https://maps.google.com/?q=Lake+Pichola"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Jag Mandir",
+          "description": "Visit the beautiful island palace in Lake Pichola.",
+          "googleMaps": "https://maps.google.com/?q=Jag+Mandir"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch at Ambrai",
+          "description": "Enjoy lakeside dining with City Palace views.",
+          "googleMaps": "https://maps.google.com/?q=Ambrai+Restaurant+Udaipur"
+        },
+        {
+          "time": "03:30 PM",
+          "place": "Fateh Sagar Lake",
+          "description": "Relax by the picturesque lake and enjoy local snacks.",
+          "googleMaps": "https://maps.google.com/?q=Fateh+Sagar+Lake"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Karni Mata Ropeway",
+          "description": "Take the ropeway for stunning sunset views over Udaipur.",
+          "googleMaps": "https://maps.google.com/?q=Karni+Mata+Ropeway"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Gardens & Culture",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Saheliyon Ki Bari",
+          "description": "Explore the royal garden built for the queen's companions.",
+          "googleMaps": "https://maps.google.com/?q=Saheliyon+Ki+Bari"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Vintage Car Museum",
+          "description": "View rare vintage vehicles from the Mewar royal collection.",
+          "googleMaps": "https://maps.google.com/?q=Vintage+Car+Museum+Udaipur"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy rooftop dining overlooking the city.",
+          "googleMaps": "https://maps.google.com/?q=Upre+1559+AD+Udaipur"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Shilpgram",
+          "description": "Explore traditional arts, crafts, and village culture of Rajasthan.",
+          "googleMaps": "https://maps.google.com/?q=Shilpgram+Udaipur"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Gulab Bagh",
+          "description": "Enjoy an evening walk in one of Rajasthan's largest gardens.",
+          "googleMaps": "https://maps.google.com/?q=Gulab+Bagh+Udaipur"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 4",
+      "title": "Monsoon Palace & Departure",
+      "activities": [
+        {
+          "time": "08:30 AM",
+          "place": "Sajjangarh Monsoon Palace",
+          "description": "Visit the iconic hilltop palace offering panoramic views of Udaipur.",
+          "googleMaps": "https://maps.google.com/?q=Sajjangarh+Monsoon+Palace"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Jheel's Ginger Coffee Bar",
+          "description": "Relax with coffee and beautiful lake views.",
+          "googleMaps": "https://maps.google.com/?q=Jheels+Ginger+Coffee+Bar+Udaipur"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Shopping",
+          "description": "Purchase miniature paintings, handicrafts, jewelry, and textiles.",
+          "googleMaps": "https://maps.google.com/?q=Hathi+Pol+Bazaar+Udaipur"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Local Market Exploration",
+          "description": "Explore traditional bazaars and souvenir shops.",
+          "googleMaps": "https://maps.google.com/?q=Bapu+Bazaar+Udaipur"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Departure",
+          "description": "Proceed to airport, railway station, or onward destination.",
+          "googleMaps": "https://maps.google.com/?q=Maharana+Pratap+Airport+Udaipur"
+        }
+      ]
+    }
+  ],
+
+  "note": "Udaipur is celebrated for its majestic palaces, tranquil lakes, romantic sunsets, and royal Rajput heritage. A sunset boat ride on Lake Pichola and panoramic views from the Monsoon Palace are must-have experiences when visiting the City of Lakes."
+}

@@ -1,0 +1,324 @@
+{
+  "title": "Manali",
+  "hero": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+
+  "bestTime": "October - June",
+  "recommendedDays": "4-5 Days",
+  "budget": "₹8,000 - ₹30,000",
+  "state": "Himachal Pradesh",
+
+  "images": [
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  ],
+
+  "description": "Manali is one of India's most popular hill stations, located in the Beas River Valley of Himachal Pradesh. Surrounded by snow-capped mountains, pine forests, waterfalls, and adventure activities, Manali is famous for its scenic beauty, trekking trails, river rafting, skiing, and vibrant café culture.",
+
+  "reach": {
+    "airport": {
+      "name": "Bhuntar Airport",
+      "distance": "50 km",
+      "travelTime": "1.5 hrs"
+    },
+    "railwayStation": {
+      "name": "Joginder Nagar Railway Station",
+      "distance": "145 km",
+      "travelTime": "4 hrs"
+    },
+    "busStand": {
+      "name": "Manali Bus Stand",
+      "distance": "1 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "The Himalayan",
+      "rating": "★ 4.8",
+      "type": "Luxury Resort",
+      "priceRange": "₹12,000 - ₹30,000",
+      "distanceFromCenter": "3 km",
+      "googleMaps": "https://maps.google.com/?q=The+Himalayan+Manali",
+      "highlights": [
+        "Castle Style Architecture",
+        "Mountain Views",
+        "Luxury Pool"
+      ]
+    },
+    {
+      "name": "Span Resort & Spa",
+      "rating": "★ 4.7",
+      "type": "Premium Resort",
+      "priceRange": "₹10,000 - ₹25,000",
+      "distanceFromCenter": "8 km",
+      "googleMaps": "https://maps.google.com/?q=Span+Resort+Manali",
+      "highlights": [
+        "Riverside Stay",
+        "Spa",
+        "Luxury Experience"
+      ]
+    },
+    {
+      "name": "Snow Valley Resort",
+      "rating": "★ 4.5",
+      "type": "Hotel",
+      "priceRange": "₹4,000 - ₹10,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Snow+Valley+Resort+Manali",
+      "highlights": [
+        "Valley Views",
+        "Family Friendly",
+        "Good Location"
+      ]
+    },
+    {
+      "name": "Zostel Manali",
+      "rating": "★ 4.6",
+      "type": "Hostel",
+      "priceRange": "₹800 - ₹2,500",
+      "distanceFromCenter": "4 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Manali",
+      "highlights": [
+        "Backpacker Friendly",
+        "Mountain View",
+        "Community Events"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Solang Valley",
+    "Rohtang Pass",
+    "Hadimba Temple",
+    "Vashisht Hot Springs",
+    "Old Manali",
+    "Jogini Waterfall",
+    "Mall Road",
+    "Manu Temple",
+    "Nehru Kund",
+    "Atal Tunnel"
+  ],
+
+  "food": [
+    {
+      "name": "Johnson's Cafe",
+      "rating": "★ 4.7",
+      "speciality": "Continental & Himachali",
+      "priceRange": "₹400 - ₹1200",
+      "googleMaps": "https://maps.google.com/?q=Johnsons+Cafe+Manali",
+      "mustTry": [
+        "Trout Fish",
+        "Brownie"
+      ]
+    },
+    {
+      "name": "Cafe 1947",
+      "rating": "★ 4.6",
+      "speciality": "Italian & Cafe",
+      "priceRange": "₹300 - ₹1000",
+      "googleMaps": "https://maps.google.com/?q=Cafe+1947+Manali",
+      "mustTry": [
+        "Pizza",
+        "Coffee"
+      ]
+    },
+    {
+      "name": "The Lazy Dog",
+      "rating": "★ 4.5",
+      "speciality": "Multi Cuisine",
+      "priceRange": "₹400 - ₹1200",
+      "googleMaps": "https://maps.google.com/?q=The+Lazy+Dog+Manali",
+      "mustTry": [
+        "Pasta",
+        "Burgers"
+      ]
+    },
+    {
+      "name": "Chopsticks",
+      "rating": "★ 4.4",
+      "speciality": "Chinese & Tibetan",
+      "priceRange": "₹250 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Chopsticks+Manali",
+      "mustTry": [
+        "Momos",
+        "Thukpa"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Taxi",
+    "Rental Bike",
+    "Local Bus",
+    "Private Cab",
+    "Shared Cabs"
+  ],
+
+  "packing": [
+    "Warm Jacket",
+    "Trekking Shoes",
+    "Gloves",
+    "Sunglasses",
+    "Power Bank",
+    "Camera",
+    "Sunscreen"
+  ],
+
+  "tips": [
+    "Acclimatize properly before visiting high-altitude areas.",
+    "Book Rohtang permits in advance during peak season.",
+    "Carry warm clothing even during summer.",
+    "Start sightseeing early to avoid traffic.",
+    "Keep cash for local shops and cafes."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Manali Local Sightseeing",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Hadimba Temple",
+          "description": "Visit the ancient temple surrounded by cedar forests.",
+          "googleMaps": "https://maps.google.com/?q=Hadimba+Temple"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Manu Temple",
+          "description": "Explore the historic temple dedicated to Sage Manu.",
+          "googleMaps": "https://maps.google.com/?q=Manu+Temple+Manali"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch at Johnson's Cafe",
+          "description": "Enjoy delicious food with mountain views.",
+          "googleMaps": "https://maps.google.com/?q=Johnsons+Cafe+Manali"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Mall Road",
+          "description": "Shop for local handicrafts, woollens and souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Mall+Road+Manali"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Old Manali",
+          "description": "Explore cafes, local culture and riverside views.",
+          "googleMaps": "https://maps.google.com/?q=Old+Manali"
+        }
+      ]
+    },
+    {
+      "day": "Day 2",
+      "title": "Adventure at Solang Valley",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Solang Valley",
+          "description": "Enjoy paragliding, ziplining, ATV rides and snow activities.",
+          "googleMaps": "https://maps.google.com/?q=Solang+Valley"
+        },
+        {
+          "time": "12:30 PM",
+          "place": "Lunch",
+          "description": "Enjoy local Himachali cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Solang+Valley+Restaurants"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Atal Tunnel",
+          "description": "Drive through one of the world's longest highway tunnels.",
+          "googleMaps": "https://maps.google.com/?q=Atal+Tunnel"
+        },
+        {
+          "time": "04:30 PM",
+          "place": "Sissu",
+          "description": "Visit the picturesque Himalayan village beyond the tunnel.",
+          "googleMaps": "https://maps.google.com/?q=Sissu+Himachal"
+        }
+      ]
+    },
+    {
+      "day": "Day 3",
+      "title": "Waterfalls & Hot Springs",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Jogini Waterfall Trek",
+          "description": "Take a scenic trek to one of Manali's most beautiful waterfalls.",
+          "googleMaps": "https://maps.google.com/?q=Jogini+Waterfall"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Vashisht Hot Springs",
+          "description": "Relax in natural sulfur hot water springs.",
+          "googleMaps": "https://maps.google.com/?q=Vashisht+Hot+Springs"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy local food in Vashisht village.",
+          "googleMaps": "https://maps.google.com/?q=Vashisht+Village"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Nehru Kund",
+          "description": "Visit the natural spring and mountain viewpoint.",
+          "googleMaps": "https://maps.google.com/?q=Nehru+Kund"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Cafe 1947",
+          "description": "Spend a relaxed evening by the river.",
+          "googleMaps": "https://maps.google.com/?q=Cafe+1947+Manali"
+        }
+      ]
+    },
+    {
+      "day": "Day 4",
+      "title": "Rohtang Excursion & Departure",
+      "activities": [
+        {
+          "time": "07:00 AM",
+          "place": "Rohtang Pass",
+          "description": "Experience breathtaking snow-covered landscapes and mountain views.",
+          "googleMaps": "https://maps.google.com/?q=Rohtang+Pass"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Photography Stop",
+          "description": "Capture panoramic Himalayan scenery.",
+          "googleMaps": "https://maps.google.com/?q=Rohtang+Pass"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Shopping",
+          "description": "Buy woollens, handicrafts and souvenirs from Mall Road.",
+          "googleMaps": "https://maps.google.com/?q=Mall+Road+Manali"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Departure",
+          "description": "Proceed to airport or onward destination.",
+          "googleMaps": "https://maps.google.com/?q=Bhuntar+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "Manali offers the perfect mix of adventure, nature, and relaxation. Solang Valley, Rohtang Pass, Old Manali cafes, and the scenic beauty of the Beas River make it one of the most loved destinations in the Himalayas."
+}

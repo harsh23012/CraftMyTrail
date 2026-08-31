@@ -1,0 +1,331 @@
+{
+  "title": "Wayanad",
+  "hero": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+
+  "bestTime": "October - May",
+  "recommendedDays": "4 Days",
+  "budget": "₹7,000 - ₹25,000",
+  "state": "Kerala",
+
+  "images": [
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  ],
+
+  "description": "Wayanad is a picturesque hill district in Kerala nestled within the Western Ghats. Known for mist-covered mountains, lush forests, waterfalls, wildlife sanctuaries, ancient caves, and spice plantations, Wayanad is a perfect destination for nature lovers, trekkers, photographers, and adventure enthusiasts.",
+
+  "reach": {
+    "airport": {
+      "name": "Kannur International Airport",
+      "distance": "95 km",
+      "travelTime": "2.5 hrs"
+    },
+    "railwayStation": {
+      "name": "Kozhikode Railway Station",
+      "distance": "85 km",
+      "travelTime": "2.5 hrs"
+    },
+    "busStand": {
+      "name": "Kalpetta Bus Stand",
+      "distance": "1 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Banasura Hill Resort",
+      "rating": "★ 4.8",
+      "type": "Luxury Eco Resort",
+      "priceRange": "₹8,000 - ₹20,000",
+      "distanceFromCenter": "25 km",
+      "googleMaps": "https://maps.google.com/?q=Banasura+Hill+Resort+Wayanad",
+      "highlights": [
+        "Mountain Views",
+        "Eco-Friendly Stay",
+        "Nature Trails"
+      ]
+    },
+    {
+      "name": "Vythiri Village Resort",
+      "rating": "★ 4.7",
+      "type": "Premium Resort",
+      "priceRange": "₹7,000 - ₹18,000",
+      "distanceFromCenter": "12 km",
+      "googleMaps": "https://maps.google.com/?q=Vythiri+Village+Wayanad",
+      "highlights": [
+        "Infinity Pool",
+        "Forest Views",
+        "Luxury Experience"
+      ]
+    },
+    {
+      "name": "The Windflower Resort & Spa",
+      "rating": "★ 4.6",
+      "type": "Resort",
+      "priceRange": "₹6,000 - ₹15,000",
+      "distanceFromCenter": "15 km",
+      "googleMaps": "https://maps.google.com/?q=Windflower+Resort+Wayanad",
+      "highlights": [
+        "Spa",
+        "Valley Views",
+        "Nature Retreat"
+      ]
+    },
+    {
+      "name": "Zostel Wayanad",
+      "rating": "★ 4.5",
+      "type": "Hostel",
+      "priceRange": "₹700 - ₹2,500",
+      "distanceFromCenter": "10 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Wayanad",
+      "highlights": [
+        "Backpacker Friendly",
+        "Hill Views",
+        "Community Activities"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Edakkal Caves",
+    "Chembra Peak",
+    "Banasura Sagar Dam",
+    "Banasura Hill",
+    "Soochipara Waterfalls",
+    "Meenmutty Waterfalls",
+    "Pookode Lake",
+    "Wayanad Wildlife Sanctuary",
+    "Kuruvadweep",
+    "Thirunelli Temple",
+    "Karlad Lake",
+    "Lakkidi View Point",
+    "Phantom Rock"
+  ],
+
+  "food": [
+    {
+      "name": "Wilton Restaurant",
+      "rating": "★ 4.6",
+      "speciality": "Kerala Cuisine",
+      "priceRange": "₹200 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Wilton+Restaurant+Kalpetta",
+      "mustTry": ["Kerala Meals", "Malabar Chicken Curry"]
+    },
+    {
+      "name": "1980's A Nostalgic Restaurant",
+      "rating": "★ 4.5",
+      "speciality": "South Indian",
+      "priceRange": "₹250 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=1980s+Restaurant+Wayanad",
+      "mustTry": ["Appam", "Fish Curry"]
+    },
+    {
+      "name": "The Coffee Grove",
+      "rating": "★ 4.5",
+      "speciality": "Cafe",
+      "priceRange": "₹300 - ₹900",
+      "googleMaps": "https://maps.google.com/?q=Coffee+Grove+Wayanad",
+      "mustTry": ["Coffee", "Sandwiches"]
+    },
+    {
+      "name": "Udupi Restaurant",
+      "rating": "★ 4.4",
+      "speciality": "Vegetarian",
+      "priceRange": "₹100 - ₹500",
+      "googleMaps": "https://maps.google.com/?q=Udupi+Restaurant+Kalpetta",
+      "mustTry": ["Masala Dosa", "Filter Coffee"]
+    }
+  ],
+
+  "transport": [
+    "Taxi",
+    "Rental Bike",
+    "Private Cab",
+    "Local Bus",
+    "Auto Rickshaw"
+  ],
+
+  "packing": [
+    "Trekking Shoes",
+    "Rain Jacket",
+    "Light Woollens",
+    "Power Bank",
+    "Camera",
+    "Sunscreen",
+    "Water Bottle"
+  ],
+
+  "tips": [
+    "Start treks early in the morning.",
+    "Carry rain protection throughout the year.",
+    "Book wildlife safari permits in advance.",
+    "Wear comfortable trekking shoes.",
+    "Respect forest and wildlife regulations.",
+    "Keep cash for smaller local establishments."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Nature & Lakes",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Pookode Lake",
+          "description": "Enjoy boating and scenic views surrounded by forests.",
+          "googleMaps": "https://maps.google.com/?q=Pookode+Lake"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Lakkidi View Point",
+          "description": "Capture panoramic views of the Western Ghats.",
+          "googleMaps": "https://maps.google.com/?q=Lakkidi+View+Point"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy authentic Kerala cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Wilton+Restaurant+Kalpetta"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Karlad Lake",
+          "description": "Experience kayaking and adventure activities.",
+          "googleMaps": "https://maps.google.com/?q=Karlad+Lake"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Kalpetta Town",
+          "description": "Explore local markets and cafes.",
+          "googleMaps": "https://maps.google.com/?q=Kalpetta"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Trekking & Waterfalls",
+      "activities": [
+        {
+          "time": "06:00 AM",
+          "place": "Chembra Peak",
+          "description": "Trek to Wayanad's highest peak and visit the famous heart-shaped lake.",
+          "googleMaps": "https://maps.google.com/?q=Chembra+Peak"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Relax after trekking with local Kerala dishes.",
+          "googleMaps": "https://maps.google.com/?q=1980s+Restaurant+Wayanad"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Soochipara Waterfalls",
+          "description": "Visit a spectacular three-tier waterfall.",
+          "googleMaps": "https://maps.google.com/?q=Soochipara+Waterfalls"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Meenmutty Waterfalls",
+          "description": "Enjoy views of one of Kerala's largest waterfalls.",
+          "googleMaps": "https://maps.google.com/?q=Meenmutty+Waterfalls"
+        },
+        {
+          "time": "07:00 PM",
+          "place": "Campfire & Resort Evening",
+          "description": "Relax amid the peaceful surroundings of Wayanad.",
+          "googleMaps": "https://maps.google.com/?q=Wayanad"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "History & Wildlife",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Edakkal Caves",
+          "description": "Explore prehistoric cave carvings and ancient inscriptions.",
+          "googleMaps": "https://maps.google.com/?q=Edakkal+Caves"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Phantom Rock",
+          "description": "Visit the naturally formed rock structure resembling a skull.",
+          "googleMaps": "https://maps.google.com/?q=Phantom+Rock+Wayanad"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy local delicacies.",
+          "googleMaps": "https://maps.google.com/?q=Coffee+Grove+Wayanad"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Wayanad Wildlife Sanctuary",
+          "description": "Spot elephants, deer and other wildlife during a safari.",
+          "googleMaps": "https://maps.google.com/?q=Wayanad+Wildlife+Sanctuary"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Resort Leisure Time",
+          "description": "Enjoy the cool weather and plantation surroundings.",
+          "googleMaps": "https://maps.google.com/?q=Wayanad"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 4",
+      "title": "Dams, Temples & Departure",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Kuruvadweep",
+          "description": "Explore the river island known for rich biodiversity.",
+          "googleMaps": "https://maps.google.com/?q=Kuruvadweep"
+        },
+        {
+          "time": "10:30 AM",
+          "place": "Banasura Sagar Dam",
+          "description": "Visit India's largest earthen dam and enjoy boating activities.",
+          "googleMaps": "https://maps.google.com/?q=Banasura+Sagar+Dam"
+        },
+        {
+          "time": "12:30 PM",
+          "place": "Thirunelli Temple",
+          "description": "Visit the ancient temple surrounded by Brahmagiri Hills.",
+          "googleMaps": "https://maps.google.com/?q=Thirunelli+Temple"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Shopping",
+          "description": "Buy spices, coffee, tea, honey and local handicrafts.",
+          "googleMaps": "https://maps.google.com/?q=Kalpetta+Market"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Departure",
+          "description": "Proceed to airport, railway station or onward destination.",
+          "googleMaps": "https://maps.google.com/?q=Kannur+International+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "Wayanad is one of Kerala's most beautiful hill destinations, known for misty mountains, waterfalls, rich wildlife, trekking trails, spice plantations, ancient caves, and serene lakes. Chembra Peak, Edakkal Caves, Banasura Sagar Dam and the lush landscapes of the Western Ghats are must-visit highlights."
+}

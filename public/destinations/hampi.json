@@ -1,0 +1,320 @@
+{
+  "title": "Hampi",
+  "hero": "https://images.unsplash.com/photo-1524499982521-1ffd58dd89ea",
+
+  "bestTime": "October - February",
+  "recommendedDays": "3 Days",
+  "budget": "₹6,000 - ₹20,000",
+  "state": "Karnataka",
+
+  "images": [
+    "https://images.unsplash.com/photo-1524499982521-1ffd58dd89ea",
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86"
+  ],
+
+  "description": "Hampi, a UNESCO World Heritage Site, was once the flourishing capital of the Vijayanagara Empire. Today, it is one of India's most extraordinary heritage destinations, famous for majestic temples, giant granite boulders, ancient ruins, riverside landscapes, and breathtaking sunrise and sunset viewpoints.",
+
+  "reach": {
+    "airport": {
+      "name": "Jindal Vijaynagar Airport",
+      "distance": "35 km",
+      "travelTime": "45 mins"
+    },
+    "railwayStation": {
+      "name": "Hosapete Junction",
+      "distance": "13 km",
+      "travelTime": "25 mins"
+    },
+    "busStand": {
+      "name": "Hampi Bus Stand",
+      "distance": "0 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Evolve Back Hampi",
+      "rating": "★ 4.9",
+      "type": "Luxury Resort",
+      "priceRange": "₹18,000 - ₹45,000",
+      "distanceFromCenter": "27 km",
+      "googleMaps": "https://maps.google.com/?q=Evolve+Back+Hampi",
+      "highlights": [
+        "Luxury Villas",
+        "Infinity Pool",
+        "Spa & Wellness"
+      ]
+    },
+    {
+      "name": "Heritage Resort Hampi",
+      "rating": "★ 4.7",
+      "type": "Premium Resort",
+      "priceRange": "₹7,000 - ₹18,000",
+      "distanceFromCenter": "4 km",
+      "googleMaps": "https://maps.google.com/?q=Heritage+Resort+Hampi",
+      "highlights": [
+        "Swimming Pool",
+        "Garden View",
+        "Family Friendly"
+      ]
+    },
+    {
+      "name": "Clarks Inn Hampi",
+      "rating": "★ 4.4",
+      "type": "Hotel",
+      "priceRange": "₹3,500 - ₹8,000",
+      "distanceFromCenter": "8 km",
+      "googleMaps": "https://maps.google.com/?q=Clarks+Inn+Hampi",
+      "highlights": [
+        "Modern Rooms",
+        "Restaurant",
+        "Budget Friendly"
+      ]
+    },
+    {
+      "name": "Zostel Hampi",
+      "rating": "★ 4.6",
+      "type": "Hostel",
+      "priceRange": "₹800 - ₹2,500",
+      "distanceFromCenter": "5 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Hampi",
+      "highlights": [
+        "Backpacker Friendly",
+        "River View",
+        "Community Events"
+      ]
+    },
+    {
+      "name": "Shanthi Guest House",
+      "rating": "★ 4.3",
+      "type": "Guest House",
+      "priceRange": "₹1,500 - ₹5,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=Shanthi+Guest+House+Hampi",
+      "highlights": [
+        "Near Virupaksha Temple",
+        "Local Experience",
+        "Affordable"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Virupaksha Temple",
+    "Vittala Temple",
+    "Stone Chariot",
+    "Matanga Hill",
+    "Hemakuta Hill",
+    "Lotus Mahal",
+    "Elephant Stables",
+    "Queen's Bath",
+    "Achyutaraya Temple",
+    "Hampi Bazaar",
+    "Lakshmi Narasimha Temple",
+    "Tungabhadra River"
+  ],
+
+  "food": [
+    {
+      "name": "Mango Tree Restaurant",
+      "rating": "★ 4.7",
+      "speciality": "Indian & International",
+      "priceRange": "₹250 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Mango+Tree+Restaurant+Hampi",
+      "mustTry": [
+        "Banana Pancake",
+        "South Indian Thali"
+      ]
+    },
+    {
+      "name": "Laughing Buddha Café",
+      "rating": "★ 4.5",
+      "speciality": "Continental",
+      "priceRange": "₹250 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Laughing+Buddha+Cafe+Hampi",
+      "mustTry": [
+        "Coffee",
+        "Pasta"
+      ]
+    },
+    {
+      "name": "Gopi Guesthouse Restaurant",
+      "rating": "★ 4.4",
+      "speciality": "Indian & Café",
+      "priceRange": "₹200 - ₹600",
+      "googleMaps": "https://maps.google.com/?q=Gopi+Restaurant+Hampi",
+      "mustTry": [
+        "Veg Meals",
+        "Fresh Juice"
+      ]
+    },
+    {
+      "name": "The Goan Corner",
+      "rating": "★ 4.6",
+      "speciality": "Multi-Cuisine",
+      "priceRange": "₹300 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=The+Goan+Corner+Hampi",
+      "mustTry": [
+        "Pizza",
+        "Lemon Cake"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Rental Scooters",
+    "Auto Rickshaw",
+    "Taxi",
+    "Bicycle",
+    "Coracle Boat"
+  ],
+
+  "packing": [
+    "Comfortable Walking Shoes",
+    "Sunglasses",
+    "Cap",
+    "Water Bottle",
+    "Power Bank",
+    "Camera"
+  ],
+
+  "tips": [
+    "Start sightseeing early to avoid afternoon heat.",
+    "Rent a scooter to cover attractions efficiently.",
+    "Wear comfortable footwear for exploring ruins.",
+    "Carry water and sunscreen throughout the day.",
+    "Don't miss sunrise and sunset viewpoints."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Ancient Temples & Sunset Views",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Virupaksha Temple",
+          "description": "Begin your Hampi exploration at the city's oldest active temple.",
+          "googleMaps": "https://maps.google.com/?q=Virupaksha+Temple+Hampi"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Hampi Bazaar",
+          "description": "Walk through the historic marketplace of the Vijayanagara Empire.",
+          "googleMaps": "https://maps.google.com/?q=Hampi+Bazaar"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy local cuisine at Mango Tree Restaurant.",
+          "googleMaps": "https://maps.google.com/?q=Mango+Tree+Restaurant+Hampi"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Hemakuta Hill",
+          "description": "Explore ancient shrines and enjoy panoramic views.",
+          "googleMaps": "https://maps.google.com/?q=Hemakuta+Hill+Hampi"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Matanga Hill",
+          "description": "Witness one of the most famous sunsets in Hampi.",
+          "googleMaps": "https://maps.google.com/?q=Matanga+Hill+Hampi"
+        }
+      ]
+    },
+    {
+      "day": "Day 2",
+      "title": "Royal Enclosure & UNESCO Heritage",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Vittala Temple",
+          "description": "Visit Hampi's most iconic temple known for its musical pillars.",
+          "googleMaps": "https://maps.google.com/?q=Vittala+Temple+Hampi"
+        },
+        {
+          "time": "09:30 AM",
+          "place": "Stone Chariot",
+          "description": "Admire the famous stone chariot, a symbol of Karnataka tourism.",
+          "googleMaps": "https://maps.google.com/?q=Stone+Chariot+Hampi"
+        },
+        {
+          "time": "11:30 AM",
+          "place": "Queen's Bath",
+          "description": "Explore the royal bathing complex of the empire.",
+          "googleMaps": "https://maps.google.com/?q=Queens+Bath+Hampi"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Lotus Mahal",
+          "description": "Admire the elegant Indo-Islamic architecture.",
+          "googleMaps": "https://maps.google.com/?q=Lotus+Mahal+Hampi"
+        },
+        {
+          "time": "03:30 PM",
+          "place": "Elephant Stables",
+          "description": "Visit the grand chambers built for royal elephants.",
+          "googleMaps": "https://maps.google.com/?q=Elephant+Stables+Hampi"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Lakshmi Narasimha Temple",
+          "description": "See the massive monolithic Narasimha statue.",
+          "googleMaps": "https://maps.google.com/?q=Lakshmi+Narasimha+Temple+Hampi"
+        }
+      ]
+    },
+    {
+      "day": "Day 3",
+      "title": "Riverside Exploration & Departure",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Tungabhadra River",
+          "description": "Enjoy a peaceful morning by the river and take photographs.",
+          "googleMaps": "https://maps.google.com/?q=Tungabhadra+River+Hampi"
+        },
+        {
+          "time": "10:00 AM",
+          "place": "Coracle Ride",
+          "description": "Experience a traditional round boat ride on the river.",
+          "googleMaps": "https://maps.google.com/?q=Coracle+Ride+Hampi"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Achyutaraya Temple",
+          "description": "Explore one of the most architecturally impressive temples.",
+          "googleMaps": "https://maps.google.com/?q=Achyutaraya+Temple+Hampi"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Shopping",
+          "description": "Buy local handicrafts, paintings, and souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Hampi+Bazaar"
+        },
+        {
+          "time": "04:00 PM",
+          "place": "Departure",
+          "description": "Proceed to Hosapete railway station or airport.",
+          "googleMaps": "https://maps.google.com/?q=Hosapete+Junction"
+        }
+      ]
+    }
+  ],
+
+  "note": "The magic of Hampi lies in exploring its ancient ruins during sunrise and sunset. Matanga Hill offers breathtaking views of the boulder-strewn landscape and the remnants of the grand Vijayanagara Empire."
+}

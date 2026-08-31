@@ -1,0 +1,319 @@
+{
+  "title": "Dharamshala",
+  "hero": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+
+  "bestTime": "March - June, September - November",
+  "recommendedDays": "3-4 Days",
+  "budget": "₹8,000 - ₹25,000",
+  "state": "Himachal Pradesh",
+
+  "images": [
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  ],
+
+  "description": "Dharamshala is a picturesque hill station nestled in the Kangra Valley of Himachal Pradesh. Surrounded by the majestic Dhauladhar mountain range, it is famous for Tibetan culture, monasteries, scenic landscapes, trekking trails, waterfalls, and its status as the residence of the Dalai Lama.",
+
+  "reach": {
+    "airport": {
+      "name": "Kangra Airport (Gaggal Airport)",
+      "distance": "14 km",
+      "travelTime": "30 mins"
+    },
+    "railwayStation": {
+      "name": "Pathankot Railway Station",
+      "distance": "90 km",
+      "travelTime": "3 hrs"
+    },
+    "busStand": {
+      "name": "Dharamshala Bus Stand",
+      "distance": "0 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Hyatt Regency Dharamshala",
+      "rating": "★ 4.8",
+      "type": "Luxury Resort",
+      "priceRange": "₹12,000 - ₹30,000",
+      "distanceFromCenter": "5 km",
+      "googleMaps": "https://maps.google.com/?q=Hyatt+Regency+Dharamshala",
+      "highlights": [
+        "Mountain Views",
+        "Luxury Spa",
+        "Infinity Pool"
+      ]
+    },
+    {
+      "name": "Fortune Park Moksha",
+      "rating": "★ 4.6",
+      "type": "Premium Hotel",
+      "priceRange": "₹7,000 - ₹15,000",
+      "distanceFromCenter": "4 km",
+      "googleMaps": "https://maps.google.com/?q=Fortune+Park+Moksha+Dharamshala",
+      "highlights": [
+        "Ropeway Access",
+        "Spa",
+        "Family Friendly"
+      ]
+    },
+    {
+      "name": "The Pavilion",
+      "rating": "★ 4.5",
+      "type": "Boutique Hotel",
+      "priceRange": "₹4,000 - ₹10,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=The+Pavilion+Dharamshala",
+      "highlights": [
+        "Central Location",
+        "Mountain View",
+        "Comfort Stay"
+      ]
+    },
+    {
+      "name": "Zostel McLeodganj",
+      "rating": "★ 4.5",
+      "type": "Hostel",
+      "priceRange": "₹800 - ₹2,500",
+      "distanceFromCenter": "3 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+McLeodganj",
+      "highlights": [
+        "Backpacker Friendly",
+        "Community Events",
+        "Valley Views"
+      ]
+    },
+    {
+      "name": "Triund Homestay",
+      "rating": "★ 4.3",
+      "type": "Homestay",
+      "priceRange": "₹2,000 - ₹5,000",
+      "distanceFromCenter": "4 km",
+      "googleMaps": "https://maps.google.com/?q=Triund+Homestay+McLeodganj",
+      "highlights": [
+        "Local Experience",
+        "Himalayan Views",
+        "Budget Friendly"
+      ]
+    }
+  ],
+
+  "explore": [
+    "McLeod Ganj",
+    "Namgyal Monastery",
+    "Tsuglagkhang Complex",
+    "Bhagsu Waterfall",
+    "Bhagsunag Temple",
+    "Dal Lake",
+    "Naddi View Point",
+    "Triund Trek",
+    "St. John in the Wilderness Church",
+    "Dharamkot"
+  ],
+
+  "food": [
+    {
+      "name": "Tibet Kitchen",
+      "rating": "★ 4.7",
+      "speciality": "Tibetan Cuisine",
+      "priceRange": "₹300 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Tibet+Kitchen+McLeodganj",
+      "mustTry": [
+        "Momos",
+        "Thukpa"
+      ]
+    },
+    {
+      "name": "Jimmy's Italian Kitchen",
+      "rating": "★ 4.6",
+      "speciality": "Italian & Continental",
+      "priceRange": "₹400 - ₹1200",
+      "googleMaps": "https://maps.google.com/?q=Jimmys+Italian+Kitchen+McLeodganj",
+      "mustTry": [
+        "Pizza",
+        "Pasta"
+      ]
+    },
+    {
+      "name": "Moonpeak Espresso",
+      "rating": "★ 4.5",
+      "speciality": "Cafe",
+      "priceRange": "₹200 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Moonpeak+Espresso+McLeodganj",
+      "mustTry": [
+        "Coffee",
+        "Brownies"
+      ]
+    },
+    {
+      "name": "Lung Ta Japanese Restaurant",
+      "rating": "★ 4.4",
+      "speciality": "Japanese & Tibetan",
+      "priceRange": "₹300 - ₹900",
+      "googleMaps": "https://maps.google.com/?q=Lung+Ta+Restaurant+McLeodganj",
+      "mustTry": [
+        "Ramen",
+        "Momos"
+      ]
+    },
+    {
+      "name": "Illiterati Café",
+      "rating": "★ 4.7",
+      "speciality": "Café & Continental",
+      "priceRange": "₹400 - ₹1000",
+      "googleMaps": "https://maps.google.com/?q=Illiterati+Cafe+Dharamshala",
+      "mustTry": [
+        "Coffee",
+        "Cheesecake"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Taxi",
+    "Shared Cabs",
+    "Local Buses",
+    "Rental Scooters",
+    "Private Tour Vehicles"
+  ],
+
+  "packing": [
+    "Warm Jacket",
+    "Trekking Shoes",
+    "Power Bank",
+    "Rain Jacket",
+    "Camera",
+    "Water Bottle"
+  ],
+
+  "tips": [
+    "Start Triund Trek early in the morning.",
+    "Carry warm clothes even during summer evenings.",
+    "Respect local Tibetan culture and monasteries.",
+    "Keep cash for small cafes and local shops.",
+    "Visit viewpoints during sunrise or sunset."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "McLeod Ganj & Tibetan Culture",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Arrival in Dharamshala",
+          "description": "Check into hotel and enjoy views of the Dhauladhar range.",
+          "googleMaps": "https://maps.google.com/?q=Dharamshala"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Tsuglagkhang Complex",
+          "description": "Visit the Dalai Lama's temple and cultural center.",
+          "googleMaps": "https://maps.google.com/?q=Tsuglagkhang+Complex"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch at Tibet Kitchen",
+          "description": "Enjoy authentic Tibetan cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Tibet+Kitchen+McLeodganj"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Namgyal Monastery",
+          "description": "Experience peaceful Buddhist traditions and architecture.",
+          "googleMaps": "https://maps.google.com/?q=Namgyal+Monastery"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "McLeod Ganj Market",
+          "description": "Shop for Tibetan handicrafts and souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=McLeod+Ganj+Market"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Nature & Waterfalls",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Bhagsunag Temple",
+          "description": "Visit the ancient temple dedicated to Lord Shiva.",
+          "googleMaps": "https://maps.google.com/?q=Bhagsunag+Temple"
+        },
+        {
+          "time": "09:30 AM",
+          "place": "Bhagsu Waterfall",
+          "description": "Enjoy the scenic waterfall surrounded by mountains.",
+          "googleMaps": "https://maps.google.com/?q=Bhagsu+Waterfall"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Relax at a mountain-view café.",
+          "googleMaps": "https://maps.google.com/?q=Illiterati+Cafe+Dharamshala"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Dal Lake",
+          "description": "Explore the serene lake surrounded by deodar forests.",
+          "googleMaps": "https://maps.google.com/?q=Dal+Lake+Dharamshala"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Naddi View Point",
+          "description": "Witness a stunning sunset over the Himalayas.",
+          "googleMaps": "https://maps.google.com/?q=Naddi+View+Point"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Triund Trek & Departure",
+      "activities": [
+        {
+          "time": "06:00 AM",
+          "place": "Triund Trek",
+          "description": "Embark on one of the most popular Himalayan treks with spectacular views.",
+          "googleMaps": "https://maps.google.com/?q=Triund"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Triund Top",
+          "description": "Enjoy panoramic views of the Dhauladhar mountains.",
+          "googleMaps": "https://maps.google.com/?q=Triund"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Return to McLeod Ganj",
+          "description": "Descend from the trek and relax.",
+          "googleMaps": "https://maps.google.com/?q=McLeod+Ganj"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Departure",
+          "description": "Proceed towards airport or onward destination.",
+          "googleMaps": "https://maps.google.com/?q=Kangra+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "For the best Dharamshala experience, combine Tibetan culture, monastery visits, local cafés, scenic viewpoints, and the iconic Triund trek for unforgettable Himalayan memories."
+}

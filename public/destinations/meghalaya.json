@@ -1,0 +1,317 @@
+{
+  "title": "Meghalaya",
+  "hero": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+
+  "bestTime": "October - April",
+  "recommendedDays": "5 Days",
+  "budget": "₹12,000 - ₹35,000",
+  "state": "Meghalaya",
+
+  "images": [
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  ],
+
+  "description": "Meghalaya, meaning 'Abode of Clouds', is one of India's most beautiful northeastern states. Known for living root bridges, crystal-clear rivers, massive waterfalls, caves, lush green hills, and unique tribal culture, Meghalaya offers a perfect blend of nature, adventure, and serenity.",
+
+  "reach": {
+    "airport": {
+      "name": "Shillong Airport",
+      "distance": "30 km",
+      "travelTime": "1 hr"
+    },
+    "railwayStation": {
+      "name": "Guwahati Railway Station",
+      "distance": "100 km",
+      "travelTime": "3 hrs"
+    },
+    "busStand": {
+      "name": "Shillong Bus Stand",
+      "distance": "2 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Ri Kynjai Resort",
+      "rating": "★ 4.8",
+      "type": "Luxury Lakeside Resort",
+      "priceRange": "₹10,000 - ₹25,000",
+      "distanceFromCenter": "12 km",
+      "googleMaps": "https://maps.google.com/?q=Ri+Kynjai+Resort+Shillong",
+      "highlights": [
+        "Umiam Lake View",
+        "Traditional Khasi Architecture",
+        "Spa"
+      ]
+    },
+    {
+      "name": "Courtyard by Marriott Shillong",
+      "rating": "★ 4.7",
+      "type": "Luxury Hotel",
+      "priceRange": "₹8,000 - ₹18,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=Courtyard+Shillong",
+      "highlights": [
+        "City Center",
+        "Premium Stay",
+        "Mountain Views"
+      ]
+    },
+    {
+      "name": "Polo Towers Shillong",
+      "rating": "★ 4.5",
+      "type": "Premium Hotel",
+      "priceRange": "₹5,000 - ₹12,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Hotel+Polo+Towers+Shillong",
+      "highlights": [
+        "Central Location",
+        "Good Food",
+        "Comfort Stay"
+      ]
+    },
+    {
+      "name": "Zostel Shillong",
+      "rating": "★ 4.6",
+      "type": "Hostel",
+      "priceRange": "₹700 - ₹2,500",
+      "distanceFromCenter": "3 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Shillong",
+      "highlights": [
+        "Backpacker Friendly",
+        "Mountain Views",
+        "Community Events"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Shillong Peak",
+    "Elephant Falls",
+    "Umiam Lake",
+    "Cherrapunji",
+    "Nohkalikai Falls",
+    "Double Decker Living Root Bridge",
+    "Mawlynnong Village",
+    "Dawki River",
+    "Mawsmai Cave",
+    "Laitlum Canyons"
+  ],
+
+  "food": [
+    {
+      "name": "Trattoria",
+      "rating": "★ 4.6",
+      "speciality": "Authentic Khasi Cuisine",
+      "priceRange": "₹200 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Trattoria+Shillong",
+      "mustTry": [
+        "Jadoh",
+        "Dohneiiong"
+      ]
+    },
+    {
+      "name": "Cafe Shillong",
+      "rating": "★ 4.5",
+      "speciality": "Cafe & Continental",
+      "priceRange": "₹300 - ₹900",
+      "googleMaps": "https://maps.google.com/?q=Cafe+Shillong",
+      "mustTry": [
+        "Coffee",
+        "Pasta"
+      ]
+    },
+    {
+      "name": "Dylan's Café",
+      "rating": "★ 4.5",
+      "speciality": "Cafe",
+      "priceRange": "₹250 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Dylans+Cafe+Shillong",
+      "mustTry": [
+        "Burger",
+        "Milkshake"
+      ]
+    },
+    {
+      "name": "City Hut Family Dhaba",
+      "rating": "★ 4.4",
+      "speciality": "Indian Cuisine",
+      "priceRange": "₹250 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=City+Hut+Shillong",
+      "mustTry": [
+        "Chicken Curry",
+        "Thali"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Shared Taxi",
+    "Private Cab",
+    "Local Taxi",
+    "Rental Bike",
+    "Tourist Vehicle"
+  ],
+
+  "packing": [
+    "Rain Jacket",
+    "Comfortable Trekking Shoes",
+    "Power Bank",
+    "Camera",
+    "Light Jacket",
+    "Water Bottle"
+  ],
+
+  "tips": [
+    "Carry rain gear throughout the year.",
+    "Start sightseeing early for clearer views.",
+    "Wear comfortable shoes for trekking and root bridge hikes.",
+    "Keep cash for remote villages.",
+    "Respect local Khasi traditions and customs."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Shillong Exploration",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Umiam Lake",
+          "description": "Enjoy boating and scenic views at Meghalaya's largest lake.",
+          "googleMaps": "https://maps.google.com/?q=Umiam+Lake"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Elephant Falls",
+          "description": "Visit Shillong's famous three-tier waterfall.",
+          "googleMaps": "https://maps.google.com/?q=Elephant+Falls"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Shillong Peak",
+          "description": "Enjoy panoramic views of Shillong city and surrounding hills.",
+          "googleMaps": "https://maps.google.com/?q=Shillong+Peak"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Police Bazaar",
+          "description": "Shopping and local food exploration.",
+          "googleMaps": "https://maps.google.com/?q=Police+Bazaar+Shillong"
+        }
+      ]
+    },
+    {
+      "day": "Day 2",
+      "title": "Cherrapunji Adventure",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Nohkalikai Falls",
+          "description": "Visit India's tallest plunge waterfall.",
+          "googleMaps": "https://maps.google.com/?q=Nohkalikai+Falls"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Mawsmai Cave",
+          "description": "Explore limestone caves and natural rock formations.",
+          "googleMaps": "https://maps.google.com/?q=Mawsmai+Cave"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Seven Sisters Falls",
+          "description": "Witness one of Meghalaya's most iconic waterfalls.",
+          "googleMaps": "https://maps.google.com/?q=Seven+Sisters+Falls"
+        }
+      ]
+    },
+    {
+      "day": "Day 3",
+      "title": "Living Root Bridge Trek",
+      "activities": [
+        {
+          "time": "07:00 AM",
+          "place": "Nongriat Village",
+          "description": "Begin the famous trek to the Double Decker Living Root Bridge.",
+          "googleMaps": "https://maps.google.com/?q=Double+Decker+Living+Root+Bridge"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Double Decker Root Bridge",
+          "description": "Explore Meghalaya's world-famous living root bridge.",
+          "googleMaps": "https://maps.google.com/?q=Double+Decker+Living+Root+Bridge"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Rainbow Falls",
+          "description": "Continue trekking to the stunning Rainbow Falls.",
+          "googleMaps": "https://maps.google.com/?q=Rainbow+Falls+Nongriat"
+        }
+      ]
+    },
+    {
+      "day": "Day 4",
+      "title": "Dawki & Mawlynnong",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Dawki River",
+          "description": "Enjoy boating on the crystal-clear Umngot River.",
+          "googleMaps": "https://maps.google.com/?q=Dawki+River"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "India-Bangladesh Border",
+          "description": "Visit the international border crossing point.",
+          "googleMaps": "https://maps.google.com/?q=Dawki+Border"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Mawlynnong",
+          "description": "Explore Asia's cleanest village.",
+          "googleMaps": "https://maps.google.com/?q=Mawlynnong"
+        }
+      ]
+    },
+    {
+      "day": "Day 5",
+      "title": "Laitlum & Departure",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Laitlum Canyons",
+          "description": "Witness dramatic canyon views and breathtaking landscapes.",
+          "googleMaps": "https://maps.google.com/?q=Laitlum+Canyons"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Shopping",
+          "description": "Buy local handicrafts, spices, and souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Police+Bazaar+Shillong"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Departure",
+          "description": "Proceed towards Shillong Airport or Guwahati.",
+          "googleMaps": "https://maps.google.com/?q=Shillong+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "Meghalaya is a paradise for nature lovers. The highlights include the crystal-clear Dawki River, living root bridges, majestic waterfalls, caves, and the unforgettable beauty of Cherrapunji and Shillong."
+}

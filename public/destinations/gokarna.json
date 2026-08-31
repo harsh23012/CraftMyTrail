@@ -1,0 +1,325 @@
+{
+  "title": "Gokarna",
+  "hero": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+
+  "bestTime": "October - March",
+  "recommendedDays": "3 Days",
+  "budget": "₹6,000 - ₹20,000",
+  "state": "Karnataka",
+
+  "images": [
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "https://images.unsplash.com/photo-1519046904884-53103b34b206",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1511497584788-876760111969"
+  ],
+
+  "description": "Gokarna is a serene coastal town in Karnataka known for its pristine beaches, spiritual significance, laid-back atmosphere, beach treks, breathtaking sunsets, and vibrant café culture. Often referred to as a quieter alternative to Goa, Gokarna perfectly blends spirituality, adventure, and relaxation.",
+
+  "reach": {
+    "airport": {
+      "name": "Dabolim Airport (Goa)",
+      "distance": "140 km",
+      "travelTime": "3.5 hrs"
+    },
+    "railwayStation": {
+      "name": "Gokarna Road Railway Station",
+      "distance": "10 km",
+      "travelTime": "20 mins"
+    },
+    "busStand": {
+      "name": "Gokarna Bus Stand",
+      "distance": "0 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Kahani Paradise",
+      "rating": "★ 4.8",
+      "type": "Luxury Beach Resort",
+      "priceRange": "₹12,000 - ₹30,000",
+      "distanceFromCenter": "8 km",
+      "googleMaps": "https://maps.google.com/?q=Kahani+Paradise+Gokarna",
+      "highlights": [
+        "Sea View",
+        "Infinity Pool",
+        "Luxury Villas"
+      ]
+    },
+    {
+      "name": "SwaSwara Resort",
+      "rating": "★ 4.9",
+      "type": "Luxury Wellness Resort",
+      "priceRange": "₹18,000 - ₹40,000",
+      "distanceFromCenter": "5 km",
+      "googleMaps": "https://maps.google.com/?q=SwaSwara+Gokarna",
+      "highlights": [
+        "Private Beach",
+        "Yoga Retreat",
+        "Ayurvedic Spa"
+      ]
+    },
+    {
+      "name": "Namaste Café Stay",
+      "rating": "★ 4.5",
+      "type": "Beachfront Stay",
+      "priceRange": "₹3,000 - ₹8,000",
+      "distanceFromCenter": "4 km",
+      "googleMaps": "https://maps.google.com/?q=Namaste+Cafe+Gokarna",
+      "highlights": [
+        "Beach Access",
+        "Café Nearby",
+        "Sunset Views"
+      ]
+    },
+    {
+      "name": "Zostel Gokarna",
+      "rating": "★ 4.6",
+      "type": "Hostel",
+      "priceRange": "₹800 - ₹2,500",
+      "distanceFromCenter": "3 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Gokarna",
+      "highlights": [
+        "Backpacker Friendly",
+        "Community Events",
+        "Budget Stay"
+      ]
+    },
+    {
+      "name": "Aryana Guest House",
+      "rating": "★ 4.4",
+      "type": "Guest House",
+      "priceRange": "₹1,500 - ₹4,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Aryana+Guest+House+Gokarna",
+      "highlights": [
+        "Budget Friendly",
+        "Near Beach",
+        "Comfortable Stay"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Om Beach",
+    "Kudle Beach",
+    "Half Moon Beach",
+    "Paradise Beach",
+    "Gokarna Main Beach",
+    "Mahabaleshwar Temple",
+    "Mirjan Fort",
+    "Yana Caves",
+    "Shiva Cave",
+    "Sunset Point"
+  ],
+
+  "food": [
+    {
+      "name": "Namaste Café",
+      "rating": "★ 4.6",
+      "speciality": "Continental & Seafood",
+      "priceRange": "₹300 - ₹1000",
+      "googleMaps": "https://maps.google.com/?q=Namaste+Cafe+Gokarna",
+      "mustTry": [
+        "Seafood Platter",
+        "Pasta"
+      ]
+    },
+    {
+      "name": "Prema Restaurant",
+      "rating": "★ 4.5",
+      "speciality": "Indian & Italian",
+      "priceRange": "₹250 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Prema+Restaurant+Gokarna",
+      "mustTry": [
+        "Wood Fired Pizza",
+        "Veg Thali"
+      ]
+    },
+    {
+      "name": "Mantra Café",
+      "rating": "★ 4.4",
+      "speciality": "Café & Continental",
+      "priceRange": "₹200 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Mantra+Cafe+Gokarna",
+      "mustTry": [
+        "Smoothie Bowl",
+        "Coffee"
+      ]
+    },
+    {
+      "name": "Pai Restaurant",
+      "rating": "★ 4.3",
+      "speciality": "South Indian",
+      "priceRange": "₹150 - ₹500",
+      "googleMaps": "https://maps.google.com/?q=Pai+Restaurant+Gokarna",
+      "mustTry": [
+        "Masala Dosa",
+        "Filter Coffee"
+      ]
+    },
+    {
+      "name": "Sunset Café",
+      "rating": "★ 4.5",
+      "speciality": "Beachside Dining",
+      "priceRange": "₹250 - ₹900",
+      "googleMaps": "https://maps.google.com/?q=Sunset+Cafe+Gokarna",
+      "mustTry": [
+        "Seafood Curry",
+        "Fresh Juice"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Auto Rickshaw",
+    "Rental Scooters",
+    "Taxi",
+    "Local Bus",
+    "Boat Transfers"
+  ],
+
+  "packing": [
+    "Beach Wear",
+    "Flip Flops",
+    "Sunscreen",
+    "Sunglasses",
+    "Power Bank",
+    "Light Cotton Clothes"
+  ],
+
+  "tips": [
+    "Carry cash as many beach shacks may not accept cards.",
+    "Start beach treks early morning or evening.",
+    "Avoid littering on beaches.",
+    "Book stays in advance during New Year and long weekends.",
+    "Carry enough water during beach hikes."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Beaches & Sunset Views",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Arrival in Gokarna",
+          "description": "Check into your stay and freshen up.",
+          "googleMaps": "https://maps.google.com/?q=Gokarna"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Gokarna Main Beach",
+          "description": "Relax and enjoy the coastal atmosphere.",
+          "googleMaps": "https://maps.google.com/?q=Gokarna+Main+Beach"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch at Namaste Café",
+          "description": "Enjoy delicious meals overlooking the sea.",
+          "googleMaps": "https://maps.google.com/?q=Namaste+Cafe+Gokarna"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Om Beach",
+          "description": "Visit Gokarna's most iconic beach shaped like Om.",
+          "googleMaps": "https://maps.google.com/?q=Om+Beach+Gokarna"
+        },
+        {
+          "time": "05:45 PM",
+          "place": "Sunset Point",
+          "description": "Witness a spectacular Arabian Sea sunset.",
+          "googleMaps": "https://maps.google.com/?q=Sunset+Point+Gokarna"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Beach Trek & Adventure",
+      "activities": [
+        {
+          "time": "07:00 AM",
+          "place": "Kudle Beach",
+          "description": "Start the day with a peaceful beach walk and breakfast.",
+          "googleMaps": "https://maps.google.com/?q=Kudle+Beach"
+        },
+        {
+          "time": "09:00 AM",
+          "place": "Beach Trek",
+          "description": "Trek through Kudle Beach, Om Beach, Half Moon Beach and Paradise Beach.",
+          "googleMaps": "https://maps.google.com/?q=Half+Moon+Beach+Gokarna"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Paradise Beach",
+          "description": "Relax in crystal-clear waters and enjoy the secluded shoreline.",
+          "googleMaps": "https://maps.google.com/?q=Paradise+Beach+Gokarna"
+        },
+        {
+          "time": "04:00 PM",
+          "place": "Boat Ride",
+          "description": "Return via a scenic boat ride across the coastline.",
+          "googleMaps": "https://maps.google.com/?q=Om+Beach+Gokarna"
+        },
+        {
+          "time": "07:00 PM",
+          "place": "Beachside Dinner",
+          "description": "Enjoy seafood and live music by the beach.",
+          "googleMaps": "https://maps.google.com/?q=Namaste+Cafe+Gokarna"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Culture & Departure",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Mahabaleshwar Temple",
+          "description": "Visit the ancient temple dedicated to Lord Shiva.",
+          "googleMaps": "https://maps.google.com/?q=Mahabaleshwar+Temple+Gokarna"
+        },
+        {
+          "time": "10:00 AM",
+          "place": "Shiva Cave",
+          "description": "Explore the hidden cave near Kudle Beach.",
+          "googleMaps": "https://maps.google.com/?q=Shiva+Cave+Gokarna"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Mirjan Fort",
+          "description": "Discover the historic fort surrounded by lush greenery.",
+          "googleMaps": "https://maps.google.com/?q=Mirjan+Fort"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Lunch",
+          "description": "Taste local Karnataka cuisine before departure.",
+          "googleMaps": "https://maps.google.com/?q=Pai+Restaurant+Gokarna"
+        },
+        {
+          "time": "04:00 PM",
+          "place": "Departure",
+          "description": "Proceed to railway station or airport.",
+          "googleMaps": "https://maps.google.com/?q=Gokarna+Road+Railway+Station"
+        }
+      ]
+    }
+  ],
+
+  "note": "The most memorable Gokarna experience is the beach trek connecting Kudle, Om, Half Moon and Paradise Beach. Plan it during early morning or sunset hours for breathtaking coastal views."
+}

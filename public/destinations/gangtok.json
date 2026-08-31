@@ -1,0 +1,350 @@
+{
+  "title": "Gangtok",
+  "hero": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+
+  "bestTime": "March - June, September - December",
+  "recommendedDays": "4-5 Days",
+  "budget": "₹10,000 - ₹30,000",
+  "state": "Sikkim",
+
+  "images": [
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  ],
+
+  "description": "Gangtok, the capital of Sikkim, is a picturesque Himalayan destination known for stunning views of Mount Kanchenjunga, Buddhist monasteries, vibrant culture, adventure sports, and pristine natural beauty. The city combines modern amenities with traditional charm and serves as the gateway to many of Sikkim's attractions.",
+
+  "reach": {
+    "airport": {
+      "name": "Pakyong Airport",
+      "distance": "30 km",
+      "travelTime": "1 hr"
+    },
+    "railwayStation": {
+      "name": "New Jalpaiguri Railway Station",
+      "distance": "120 km",
+      "travelTime": "4 hrs"
+    },
+    "busStand": {
+      "name": "Gangtok Bus Stand",
+      "distance": "0 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Mayfair Spa Resort & Casino",
+      "rating": "★ 4.8",
+      "type": "Luxury Resort",
+      "priceRange": "₹12,000 - ₹30,000",
+      "distanceFromCenter": "5 km",
+      "googleMaps": "https://maps.google.com/?q=Mayfair+Spa+Resort+Gangtok",
+      "highlights": [
+        "Luxury Spa",
+        "Casino",
+        "Mountain View"
+      ]
+    },
+    {
+      "name": "The Elgin Nor-Khill",
+      "rating": "★ 4.7",
+      "type": "Heritage Hotel",
+      "priceRange": "₹8,000 - ₹20,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=Elgin+Nor+Khill+Gangtok",
+      "highlights": [
+        "Heritage Property",
+        "Kanchenjunga View",
+        "Premium Stay"
+      ]
+    },
+    {
+      "name": "Summit Golden Crescent",
+      "rating": "★ 4.5",
+      "type": "Boutique Hotel",
+      "priceRange": "₹4,000 - ₹10,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Summit+Golden+Crescent+Gangtok",
+      "highlights": [
+        "Valley View",
+        "Family Friendly",
+        "Central Location"
+      ]
+    },
+    {
+      "name": "Zostel Gangtok",
+      "rating": "★ 4.4",
+      "type": "Hostel",
+      "priceRange": "₹800 - ₹2,500",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Gangtok",
+      "highlights": [
+        "Backpacker Friendly",
+        "Social Events",
+        "Mountain View"
+      ]
+    },
+    {
+      "name": "Yangthang Heritage",
+      "rating": "★ 4.3",
+      "type": "Hotel",
+      "priceRange": "₹3,000 - ₹8,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=Yangthang+Heritage+Gangtok",
+      "highlights": [
+        "Good Location",
+        "City View",
+        "Comfort Stay"
+      ]
+    }
+  ],
+
+  "explore": [
+    "MG Marg",
+    "Tsomgo Lake",
+    "Nathula Pass",
+    "Baba Harbhajan Singh Mandir",
+    "Rumtek Monastery",
+    "Tashi View Point",
+    "Hanuman Tok",
+    "Ganesh Tok",
+    "Namgyal Institute of Tibetology",
+    "Banjhakri Falls"
+  ],
+
+  "food": [
+    {
+      "name": "Taste of Tibet",
+      "rating": "★ 4.7",
+      "speciality": "Tibetan Cuisine",
+      "priceRange": "₹300 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Taste+of+Tibet+Gangtok",
+      "mustTry": [
+        "Momos",
+        "Thukpa"
+      ]
+    },
+    {
+      "name": "Nimtho",
+      "rating": "★ 4.6",
+      "speciality": "Traditional Sikkimese",
+      "priceRange": "₹300 - ₹900",
+      "googleMaps": "https://maps.google.com/?q=Nimtho+Gangtok",
+      "mustTry": [
+        "Phagshapa",
+        "Gundruk Soup"
+      ]
+    },
+    {
+      "name": "Baker's Café",
+      "rating": "★ 4.5",
+      "speciality": "Bakery & Café",
+      "priceRange": "₹200 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Bakers+Cafe+Gangtok",
+      "mustTry": [
+        "Cheesecake",
+        "Coffee"
+      ]
+    },
+    {
+      "name": "Roll House",
+      "rating": "★ 4.4",
+      "speciality": "Snacks & Fast Food",
+      "priceRange": "₹100 - ₹400",
+      "googleMaps": "https://maps.google.com/?q=Roll+House+Gangtok",
+      "mustTry": [
+        "Chicken Roll",
+        "Veg Roll"
+      ]
+    },
+    {
+      "name": "Shuffle Momos",
+      "rating": "★ 4.5",
+      "speciality": "Momos",
+      "priceRange": "₹150 - ₹500",
+      "googleMaps": "https://maps.google.com/?q=Shuffle+Momos+Gangtok",
+      "mustTry": [
+        "Steamed Momos",
+        "Fried Momos"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Shared Taxi",
+    "Private Cab",
+    "Local Taxi",
+    "Rental Bike",
+    "Sightseeing Vehicles"
+  ],
+
+  "packing": [
+    "Warm Jacket",
+    "Comfortable Walking Shoes",
+    "Power Bank",
+    "Sunglasses",
+    "Camera",
+    "Rain Jacket"
+  ],
+
+  "tips": [
+    "Carry valid ID for Nathula Pass permits.",
+    "Start early for Tsomgo Lake and Nathula excursions.",
+    "Keep warm clothing throughout the year.",
+    "Drink plenty of water to adapt to the altitude.",
+    "Book permits in advance during peak season."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Gangtok City Exploration",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Arrival in Gangtok",
+          "description": "Check into hotel and relax amidst Himalayan views.",
+          "googleMaps": "https://maps.google.com/?q=Gangtok"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "MG Marg",
+          "description": "Explore Gangtok's vibrant pedestrian street and shopping area.",
+          "googleMaps": "https://maps.google.com/?q=MG+Marg+Gangtok"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch at Taste of Tibet",
+          "description": "Enjoy authentic Tibetan cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Taste+of+Tibet+Gangtok"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Namgyal Institute of Tibetology",
+          "description": "Discover Tibetan culture, history, and artifacts.",
+          "googleMaps": "https://maps.google.com/?q=Namgyal+Institute+of+Tibetology"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Banjhakri Falls",
+          "description": "Relax amid beautiful waterfalls and landscaped gardens.",
+          "googleMaps": "https://maps.google.com/?q=Banjhakri+Falls"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Tsomgo Lake & Nathula Pass",
+      "activities": [
+        {
+          "time": "07:00 AM",
+          "place": "Tsomgo Lake",
+          "description": "Visit the high-altitude glacial lake surrounded by mountains.",
+          "googleMaps": "https://maps.google.com/?q=Tsomgo+Lake"
+        },
+        {
+          "time": "10:30 AM",
+          "place": "Baba Harbhajan Singh Mandir",
+          "description": "Explore the famous shrine dedicated to Baba Harbhajan Singh.",
+          "googleMaps": "https://maps.google.com/?q=Baba+Mandir+Sikkim"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Nathula Pass",
+          "description": "Visit the historic Indo-China border pass.",
+          "googleMaps": "https://maps.google.com/?q=Nathula+Pass"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Return to Gangtok",
+          "description": "Enjoy scenic mountain views during the return journey.",
+          "googleMaps": "https://maps.google.com/?q=Gangtok"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Monasteries & Viewpoints",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Rumtek Monastery",
+          "description": "Visit one of the most significant monasteries in Sikkim.",
+          "googleMaps": "https://maps.google.com/?q=Rumtek+Monastery"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Hanuman Tok",
+          "description": "Enjoy panoramic views of Kanchenjunga.",
+          "googleMaps": "https://maps.google.com/?q=Hanuman+Tok"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Taste traditional Sikkimese cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Nimtho+Gangtok"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Ganesh Tok",
+          "description": "Visit the famous hilltop temple and viewpoint.",
+          "googleMaps": "https://maps.google.com/?q=Ganesh+Tok"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Tashi View Point",
+          "description": "Witness sunset views over the Himalayas.",
+          "googleMaps": "https://maps.google.com/?q=Tashi+View+Point"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 4",
+      "title": "Shopping & Departure",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Local Market Visit",
+          "description": "Shop for handicrafts, woollens, and souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=MG+Marg+Gangtok"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Café Hopping",
+          "description": "Explore charming mountain cafés.",
+          "googleMaps": "https://maps.google.com/?q=Bakers+Cafe+Gangtok"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy a final Sikkimese meal before departure.",
+          "googleMaps": "https://maps.google.com/?q=Nimtho+Gangtok"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Departure",
+          "description": "Proceed towards airport or railway station.",
+          "googleMaps": "https://maps.google.com/?q=Pakyong+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "The highlight of Gangtok is witnessing the majestic Kanchenjunga from its viewpoints and experiencing the breathtaking journey to Tsomgo Lake and Nathula Pass. Carry warm clothes and your original ID proof for permits."
+}

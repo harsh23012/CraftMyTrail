@@ -1,0 +1,373 @@
+{
+  "title": "Srinagar",
+  "hero": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+
+  "bestTime": "March - October",
+  "recommendedDays": "4-5 Days",
+  "budget": "₹10,000 - ₹35,000",
+  "state": "Jammu & Kashmir",
+
+  "images": [
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  ],
+
+  "description": "Srinagar, the summer capital of Jammu & Kashmir, is renowned for its pristine lakes, Mughal gardens, traditional houseboats, vibrant culture, and snow-capped Himalayan backdrop. Known as 'Paradise on Earth', Srinagar offers breathtaking natural beauty, rich heritage, and unforgettable Kashmiri hospitality.",
+
+  "reach": {
+    "airport": {
+      "name": "Srinagar International Airport",
+      "distance": "12 km",
+      "travelTime": "30 mins"
+    },
+    "railwayStation": {
+      "name": "Srinagar (Nowgam) Railway Station",
+      "distance": "10 km",
+      "travelTime": "25 mins"
+    },
+    "busStand": {
+      "name": "Srinagar General Bus Stand",
+      "distance": "5 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "The Lalit Grand Palace",
+      "rating": "★ 4.8",
+      "type": "Luxury Heritage Hotel",
+      "priceRange": "₹12,000 - ₹30,000",
+      "distanceFromCenter": "5 km",
+      "googleMaps": "https://maps.google.com/?q=The+Lalit+Grand+Palace+Srinagar",
+      "highlights": [
+        "Dal Lake Views",
+        "Heritage Property",
+        "Luxury Experience"
+      ]
+    },
+    {
+      "name": "Vivanta Dal View",
+      "rating": "★ 4.8",
+      "type": "Luxury Hotel",
+      "priceRange": "₹10,000 - ₹28,000",
+      "distanceFromCenter": "8 km",
+      "googleMaps": "https://maps.google.com/?q=Vivanta+Dal+View+Srinagar",
+      "highlights": [
+        "Panoramic Views",
+        "Premium Dining",
+        "Mountain Setting"
+      ]
+    },
+    {
+      "name": "New Jacquline Heritage Houseboat",
+      "rating": "★ 4.6",
+      "type": "Houseboat",
+      "priceRange": "₹3,500 - ₹8,000",
+      "distanceFromCenter": "Dal Lake",
+      "googleMaps": "https://maps.google.com/?q=Dal+Lake+Srinagar",
+      "highlights": [
+        "Traditional Houseboat",
+        "Lake View",
+        "Authentic Kashmiri Stay"
+      ]
+    },
+    {
+      "name": "Zostel Srinagar",
+      "rating": "★ 4.5",
+      "type": "Hostel",
+      "priceRange": "₹800 - ₹2,500",
+      "distanceFromCenter": "6 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Srinagar",
+      "highlights": [
+        "Budget Friendly",
+        "Backpacker Community",
+        "Mountain Views"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Dal Lake",
+    "Nigeen Lake",
+    "Shalimar Bagh",
+    "Nishat Bagh",
+    "Chashme Shahi",
+    "Pari Mahal",
+    "Shankaracharya Temple",
+    "Hazratbal Shrine",
+    "Indira Gandhi Memorial Tulip Garden",
+    "Lal Chowk",
+    "Badamwari Garden",
+    "Floating Market"
+  ],
+
+  "food": [
+    {
+      "name": "Ahdoos",
+      "rating": "★ 4.7",
+      "speciality": "Kashmiri Cuisine",
+      "priceRange": "₹400 - ₹1200",
+      "googleMaps": "https://maps.google.com/?q=Ahdoos+Srinagar",
+      "mustTry": [
+        "Rogan Josh",
+        "Gushtaba"
+      ]
+    },
+    {
+      "name": "Mughal Darbar",
+      "rating": "★ 4.6",
+      "speciality": "Wazwan Cuisine",
+      "priceRange": "₹400 - ₹1000",
+      "googleMaps": "https://maps.google.com/?q=Mughal+Darbar+Srinagar",
+      "mustTry": [
+        "Rista",
+        "Wazwan Platter"
+      ]
+    },
+    {
+      "name": "Stream Restaurant",
+      "rating": "★ 4.5",
+      "speciality": "Multi Cuisine",
+      "priceRange": "₹300 - ₹900",
+      "googleMaps": "https://maps.google.com/?q=Stream+Restaurant+Srinagar",
+      "mustTry": [
+        "Kashmiri Pulao",
+        "Kebabs"
+      ]
+    },
+    {
+      "name": "Lhasa Restaurant",
+      "rating": "★ 4.4",
+      "speciality": "Tibetan & Kashmiri",
+      "priceRange": "₹250 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Lhasa+Restaurant+Srinagar",
+      "mustTry": [
+        "Momos",
+        "Thukpa"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Shikara",
+    "Taxi",
+    "Auto Rickshaw",
+    "Private Cab",
+    "Local Bus"
+  ],
+
+  "packing": [
+    "Warm Jacket",
+    "Comfortable Shoes",
+    "Camera",
+    "Sunglasses",
+    "Power Bank",
+    "Woolen Clothes",
+    "Personal Medicines"
+  ],
+
+  "tips": [
+    "Book a houseboat stay for a unique experience.",
+    "Take a Shikara ride during sunrise or sunset.",
+    "Carry warm clothing even during summer evenings.",
+    "Purchase authentic Pashmina and handicrafts from certified shops.",
+    "Visit Mughal gardens early in the morning.",
+    "Try traditional Kashmiri Wazwan cuisine."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Dal Lake & Srinagar City",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Dal Lake",
+          "description": "Enjoy a traditional Shikara ride across the iconic lake.",
+          "googleMaps": "https://maps.google.com/?q=Dal+Lake+Srinagar"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Floating Market",
+          "description": "Explore the unique floating vegetable market.",
+          "googleMaps": "https://maps.google.com/?q=Floating+Market+Dal+Lake"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Taste authentic Kashmiri cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Ahdoos+Srinagar"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Shankaracharya Temple",
+          "description": "Visit the ancient hilltop temple with panoramic views.",
+          "googleMaps": "https://maps.google.com/?q=Shankaracharya+Temple"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Nigeen Lake",
+          "description": "Enjoy peaceful lakeside views and photography.",
+          "googleMaps": "https://maps.google.com/?q=Nigeen+Lake"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Mughal Gardens Trail",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Shalimar Bagh",
+          "description": "Explore Srinagar's most famous Mughal garden.",
+          "googleMaps": "https://maps.google.com/?q=Shalimar+Bagh"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Nishat Bagh",
+          "description": "Admire terraced gardens overlooking Dal Lake.",
+          "googleMaps": "https://maps.google.com/?q=Nishat+Bagh"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy traditional Wazwan dishes.",
+          "googleMaps": "https://maps.google.com/?q=Mughal+Darbar+Srinagar"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Chashme Shahi",
+          "description": "Visit the historic royal spring garden.",
+          "googleMaps": "https://maps.google.com/?q=Chashme+Shahi"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Pari Mahal",
+          "description": "Enjoy breathtaking sunset views over Dal Lake.",
+          "googleMaps": "https://maps.google.com/?q=Pari+Mahal"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Culture & Local Experiences",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Hazratbal Shrine",
+          "description": "Visit one of Kashmir's most sacred shrines.",
+          "googleMaps": "https://maps.google.com/?q=Hazratbal+Shrine"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Indira Gandhi Memorial Tulip Garden",
+          "description": "Visit Asia's largest tulip garden. Best experienced during the annual tulip bloom between March and April.",
+          "googleMaps": "https://maps.google.com/?q=Indira+Gandhi+Memorial+Tulip+Garden"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy Kashmiri specialties and local tea.",
+          "googleMaps": "https://maps.google.com/?q=Stream+Restaurant+Srinagar"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Lal Chowk",
+          "description": "Shop for saffron, dry fruits, carpets, and Pashmina shawls.",
+          "googleMaps": "https://maps.google.com/?q=Lal+Chowk+Srinagar"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Houseboat Evening",
+          "description": "Relax and enjoy traditional Kashmiri hospitality.",
+          "googleMaps": "https://maps.google.com/?q=Dal+Lake+Srinagar"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 4",
+      "title": "Gulmarg Excursion",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Gulmarg",
+          "description": "Visit the famous hill station surrounded by Himalayan peaks.",
+          "googleMaps": "https://maps.google.com/?q=Gulmarg"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Gulmarg Gondola",
+          "description": "Experience one of the world's highest cable car rides.",
+          "googleMaps": "https://maps.google.com/?q=Gulmarg+Gondola"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy mountain views and local cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Gulmarg+Restaurants"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Return to Srinagar",
+          "description": "Enjoy the scenic drive back through Kashmir Valley.",
+          "googleMaps": "https://maps.google.com/?q=Srinagar"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 5",
+      "title": "Departure & Shopping",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Morning Shikara Ride",
+          "description": "Enjoy a final peaceful sunrise ride across Dal Lake.",
+          "googleMaps": "https://maps.google.com/?q=Dal+Lake+Srinagar"
+        },
+        {
+          "time": "09:30 AM",
+          "place": "Badamwari Garden",
+          "description": "Take a relaxing morning walk amidst beautiful landscapes.",
+          "googleMaps": "https://maps.google.com/?q=Badamwari+Garden"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Shopping",
+          "description": "Buy authentic Kashmiri handicrafts, saffron, and dry fruits.",
+          "googleMaps": "https://maps.google.com/?q=Lal+Chowk+Srinagar"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy a final Kashmiri meal before departure.",
+          "googleMaps": "https://maps.google.com/?q=Ahdoos+Srinagar"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Departure",
+          "description": "Proceed to Srinagar International Airport for your onward journey.",
+          "googleMaps": "https://maps.google.com/?q=Srinagar+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "Srinagar is famous for Dal Lake, traditional houseboats, Mughal gardens, Kashmiri cuisine, vibrant markets, and breathtaking Himalayan scenery. A sunrise Shikara ride and an overnight houseboat stay provide the most authentic Srinagar experience."
+}

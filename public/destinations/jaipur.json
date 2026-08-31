@@ -1,0 +1,308 @@
+{
+  "title": "Jaipur",
+  "hero": "https://images.unsplash.com/photo-1477587458883-47145ed94245",
+
+  "bestTime": "October - March",
+  "recommendedDays": "3 Days",
+  "budget": "₹8,000 - ₹25,000",
+  "state": "Rajasthan",
+
+  "images": [
+    "https://images.unsplash.com/photo-1477587458883-47145ed94245",
+    "https://images.unsplash.com/photo-1599661046827-dacde697654f",
+    "https://images.unsplash.com/photo-1524492412937-b28074a5d7da",
+    "https://images.unsplash.com/photo-1548013146-72479768bada",
+    "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+  ],
+
+  "description": "Jaipur, the capital of Rajasthan and part of India's Golden Triangle, is famously known as the Pink City. Renowned for magnificent palaces, royal forts, vibrant bazaars, colorful culture, traditional cuisine, and rich Rajput heritage, Jaipur offers a perfect blend of history, architecture, and modern hospitality.",
+
+  "reach": {
+    "airport": {
+      "name": "Jaipur International Airport",
+      "distance": "12 km",
+      "travelTime": "30 mins"
+    },
+    "railwayStation": {
+      "name": "Jaipur Junction",
+      "distance": "4 km",
+      "travelTime": "15 mins"
+    },
+    "busStand": {
+      "name": "Sindhi Camp Bus Stand",
+      "distance": "3 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Rambagh Palace",
+      "rating": "★ 4.9",
+      "type": "Luxury Heritage Hotel",
+      "priceRange": "₹25,000 - ₹80,000",
+      "distanceFromCenter": "6 km",
+      "googleMaps": "https://maps.google.com/?q=Rambagh+Palace+Jaipur",
+      "highlights": [
+        "Royal Palace Stay",
+        "Luxury Spa",
+        "Heritage Experience"
+      ]
+    },
+    {
+      "name": "Fairmont Jaipur",
+      "rating": "★ 4.8",
+      "type": "Luxury Resort",
+      "priceRange": "₹12,000 - ₹35,000",
+      "distanceFromCenter": "18 km",
+      "googleMaps": "https://maps.google.com/?q=Fairmont+Jaipur",
+      "highlights": [
+        "Palace Architecture",
+        "Swimming Pool",
+        "Fine Dining"
+      ]
+    },
+    {
+      "name": "Hilton Jaipur",
+      "rating": "★ 4.6",
+      "type": "Premium Hotel",
+      "priceRange": "₹6,000 - ₹15,000",
+      "distanceFromCenter": "4 km",
+      "googleMaps": "https://maps.google.com/?q=Hilton+Jaipur",
+      "highlights": [
+        "City Center",
+        "Rooftop Dining",
+        "Luxury Rooms"
+      ]
+    },
+    {
+      "name": "Zostel Jaipur",
+      "rating": "★ 4.5",
+      "type": "Hostel",
+      "priceRange": "₹800 - ₹2,500",
+      "distanceFromCenter": "3 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Jaipur",
+      "highlights": [
+        "Backpacker Friendly",
+        "Community Events",
+        "Budget Stay"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Amber Fort",
+    "City Palace",
+    "Hawa Mahal",
+    "Jantar Mantar",
+    "Nahargarh Fort",
+    "Jaigarh Fort",
+    "Jal Mahal",
+    "Albert Hall Museum",
+    "Birla Mandir",
+    "Patrika Gate"
+  ],
+
+  "food": [
+    {
+      "name": "Laxmi Misthan Bhandar (LMB)",
+      "rating": "★ 4.5",
+      "speciality": "Rajasthani Cuisine",
+      "priceRange": "₹200 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=LMB+Jaipur",
+      "mustTry": [
+        "Dal Baati Churma",
+        "Ghewar"
+      ]
+    },
+    {
+      "name": "Rawat Mishthan Bhandar",
+      "rating": "★ 4.5",
+      "speciality": "Traditional Snacks",
+      "priceRange": "₹100 - ₹400",
+      "googleMaps": "https://maps.google.com/?q=Rawat+Mishthan+Bhandar+Jaipur",
+      "mustTry": [
+        "Pyaaz Kachori",
+        "Mawa Kachori"
+      ]
+    },
+    {
+      "name": "1135 AD",
+      "rating": "★ 4.7",
+      "speciality": "Royal Dining",
+      "priceRange": "₹1500 - ₹3500",
+      "googleMaps": "https://maps.google.com/?q=1135+AD+Amber+Fort",
+      "mustTry": [
+        "Laal Maas",
+        "Rajasthani Thali"
+      ]
+    },
+    {
+      "name": "Tapri Central",
+      "rating": "★ 4.6",
+      "speciality": "Cafe & Tea",
+      "priceRange": "₹200 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Tapri+Central+Jaipur",
+      "mustTry": [
+        "Masala Chai",
+        "Cheese Toast"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Auto Rickshaw",
+    "Metro",
+    "Taxi",
+    "App-Based Cabs",
+    "Rental Scooters",
+    "Tourist Buses"
+  ],
+
+  "packing": [
+    "Comfortable Walking Shoes",
+    "Sunglasses",
+    "Cap",
+    "Power Bank",
+    "Camera",
+    "Light Jacket (Winter)"
+  ],
+
+  "tips": [
+    "Visit forts early morning to avoid crowds and heat.",
+    "Carry water while exploring Jaipur's monuments.",
+    "Bargain while shopping in local markets.",
+    "Try authentic Rajasthani cuisine.",
+    "Visit Nahargarh Fort during sunset."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Royal Heritage Tour",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Amber Fort",
+          "description": "Explore Jaipur's grand fort known for its intricate architecture and royal history.",
+          "googleMaps": "https://maps.google.com/?q=Amber+Fort+Jaipur"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Jaigarh Fort",
+          "description": "Visit the fort housing the world's largest cannon on wheels.",
+          "googleMaps": "https://maps.google.com/?q=Jaigarh+Fort"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy authentic Rajasthani cuisine.",
+          "googleMaps": "https://maps.google.com/?q=1135+AD+Amber+Fort"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Jal Mahal",
+          "description": "Admire the beautiful water palace situated in Man Sagar Lake.",
+          "googleMaps": "https://maps.google.com/?q=Jal+Mahal+Jaipur"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Nahargarh Fort",
+          "description": "Witness breathtaking sunset views overlooking Jaipur city.",
+          "googleMaps": "https://maps.google.com/?q=Nahargarh+Fort"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Pink City Exploration",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Hawa Mahal",
+          "description": "Visit Jaipur's iconic Palace of Winds.",
+          "googleMaps": "https://maps.google.com/?q=Hawa+Mahal"
+        },
+        {
+          "time": "10:30 AM",
+          "place": "City Palace",
+          "description": "Explore royal courtyards, museums, and palatial architecture.",
+          "googleMaps": "https://maps.google.com/?q=City+Palace+Jaipur"
+        },
+        {
+          "time": "12:30 PM",
+          "place": "Jantar Mantar",
+          "description": "Discover the UNESCO World Heritage astronomical observatory.",
+          "googleMaps": "https://maps.google.com/?q=Jantar+Mantar+Jaipur"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Lunch",
+          "description": "Taste Jaipur's famous local dishes.",
+          "googleMaps": "https://maps.google.com/?q=LMB+Jaipur"
+        },
+        {
+          "time": "04:00 PM",
+          "place": "Johari Bazaar",
+          "description": "Shop for jewelry, handicrafts, and traditional textiles.",
+          "googleMaps": "https://maps.google.com/?q=Johari+Bazaar+Jaipur"
+        },
+        {
+          "time": "07:00 PM",
+          "place": "Albert Hall Museum",
+          "description": "Enjoy the illuminated museum and its heritage collections.",
+          "googleMaps": "https://maps.google.com/?q=Albert+Hall+Museum+Jaipur"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Culture & Departure",
+      "activities": [
+        {
+          "time": "08:30 AM",
+          "place": "Birla Mandir",
+          "description": "Visit the beautiful white marble temple.",
+          "googleMaps": "https://maps.google.com/?q=Birla+Mandir+Jaipur"
+        },
+        {
+          "time": "10:30 AM",
+          "place": "Patrika Gate",
+          "description": "Capture photos at Jaipur's colorful architectural landmark.",
+          "googleMaps": "https://maps.google.com/?q=Patrika+Gate"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Rawat Mishthan Bhandar",
+          "description": "Taste Jaipur's famous Pyaaz Kachori and sweets.",
+          "googleMaps": "https://maps.google.com/?q=Rawat+Mishthan+Bhandar+Jaipur"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Bapu Bazaar",
+          "description": "Shop for Mojaris, textiles, handicrafts, and souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Bapu+Bazaar+Jaipur"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Departure",
+          "description": "Proceed to Jaipur Airport or Railway Station.",
+          "googleMaps": "https://maps.google.com/?q=Jaipur+International+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "The true charm of Jaipur lies in experiencing its royal heritage, colorful bazaars, magnificent forts, and authentic Rajasthani cuisine. Don't miss the sunset from Nahargarh Fort and morning views of Amber Fort."
+}

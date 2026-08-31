@@ -1,0 +1,342 @@
+{
+  "title": "Varanasi",
+  "hero": "https://images.unsplash.com/photo-1561361058-c24cec3c9a7b",
+
+  "bestTime": "October - March",
+  "recommendedDays": "3-4 Days",
+  "budget": "₹5,000 - ₹20,000",
+  "state": "Uttar Pradesh",
+
+  "images": [
+    "https://images.unsplash.com/photo-1561361058-c24cec3c9a7b",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+  ],
+
+  "description": "Varanasi, also known as Kashi or Banaras, is one of the world's oldest continuously inhabited cities and the spiritual capital of India. Situated on the banks of the sacred River Ganga, Varanasi is famous for its ancient temples, ghats, evening Ganga Aarti, cultural heritage, classical music, silk weaving traditions, and deep spiritual significance.",
+
+  "reach": {
+    "airport": {
+      "name": "Lal Bahadur Shastri International Airport",
+      "distance": "26 km",
+      "travelTime": "45 mins"
+    },
+    "railwayStation": {
+      "name": "Varanasi Junction",
+      "distance": "5 km",
+      "travelTime": "15 mins"
+    },
+    "busStand": {
+      "name": "Varanasi Bus Stand",
+      "distance": "4 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "BrijRama Palace",
+      "rating": "★ 4.8",
+      "type": "Luxury Heritage Hotel",
+      "priceRange": "₹12,000 - ₹30,000",
+      "distanceFromCenter": "Dashashwamedh Ghat",
+      "googleMaps": "https://maps.google.com/?q=BrijRama+Palace+Varanasi",
+      "highlights": [
+        "Ganga View",
+        "Heritage Property",
+        "Luxury Experience"
+      ]
+    },
+    {
+      "name": "Taj Ganges",
+      "rating": "★ 4.7",
+      "type": "Luxury Hotel",
+      "priceRange": "₹8,000 - ₹20,000",
+      "distanceFromCenter": "5 km",
+      "googleMaps": "https://maps.google.com/?q=Taj+Ganges+Varanasi",
+      "highlights": [
+        "Premium Amenities",
+        "Garden Views",
+        "Central Location"
+      ]
+    },
+    {
+      "name": "Hotel Alka",
+      "rating": "★ 4.5",
+      "type": "Riverside Hotel",
+      "priceRange": "₹2,000 - ₹6,000",
+      "distanceFromCenter": "Near Ganga Ghats",
+      "googleMaps": "https://maps.google.com/?q=Hotel+Alka+Varanasi",
+      "highlights": [
+        "River View",
+        "Budget Friendly",
+        "Close to Ghats"
+      ]
+    },
+    {
+      "name": "Zostel Varanasi",
+      "rating": "★ 4.5",
+      "type": "Hostel",
+      "priceRange": "₹700 - ₹2,500",
+      "distanceFromCenter": "4 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Varanasi",
+      "highlights": [
+        "Backpacker Friendly",
+        "Community Events",
+        "Affordable Stay"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Dashashwamedh Ghat",
+    "Assi Ghat",
+    "Kashi Vishwanath Temple",
+    "Manikarnika Ghat",
+    "Sarnath",
+    "Ramnagar Fort",
+    "Banaras Hindu University",
+    "Tulsi Manas Mandir",
+    "Durga Temple",
+    "Bharat Mata Temple",
+    "Alamgir Mosque",
+    "Ganga River Cruise"
+  ],
+
+  "food": [
+    {
+      "name": "Kashi Chat Bhandar",
+      "rating": "★ 4.7",
+      "speciality": "Street Food",
+      "priceRange": "₹100 - ₹300",
+      "googleMaps": "https://maps.google.com/?q=Kashi+Chat+Bhandar",
+      "mustTry": [
+        "Tamatar Chaat",
+        "Basket Chaat"
+      ]
+    },
+    {
+      "name": "Baati Chokha",
+      "rating": "★ 4.6",
+      "speciality": "Traditional Cuisine",
+      "priceRange": "₹200 - ₹600",
+      "googleMaps": "https://maps.google.com/?q=Baati+Chokha+Varanasi",
+      "mustTry": [
+        "Litti Chokha",
+        "Dal Baati"
+      ]
+    },
+    {
+      "name": "Pizzeria Vaatika Cafe",
+      "rating": "★ 4.5",
+      "speciality": "Cafe",
+      "priceRange": "₹300 - ₹900",
+      "googleMaps": "https://maps.google.com/?q=Pizzeria+Vaatika+Cafe+Varanasi",
+      "mustTry": [
+        "Pizza",
+        "Apple Pie"
+      ]
+    },
+    {
+      "name": "Blue Lassi Shop",
+      "rating": "★ 4.8",
+      "speciality": "Lassi",
+      "priceRange": "₹50 - ₹200",
+      "googleMaps": "https://maps.google.com/?q=Blue+Lassi+Shop+Varanasi",
+      "mustTry": [
+        "Mango Lassi",
+        "Mixed Fruit Lassi"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Auto Rickshaw",
+    "Cycle Rickshaw",
+    "Boat",
+    "Taxi",
+    "Walking"
+  ],
+
+  "packing": [
+    "Comfortable Walking Shoes",
+    "Light Cotton Clothes",
+    "Power Bank",
+    "Camera",
+    "Sunscreen",
+    "Water Bottle",
+    "Traditional Wear for Temple Visits"
+  ],
+
+  "tips": [
+    "Attend the Ganga Aarti at Dashashwamedh Ghat.",
+    "Take an early morning boat ride on the Ganges.",
+    "Respect local customs and temple dress codes.",
+    "Keep cash handy for local markets and street vendors.",
+    "Try authentic Banarasi paan and street food.",
+    "Visit temples early morning to avoid crowds."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Ghats & Spiritual Experience",
+      "activities": [
+        {
+          "time": "05:30 AM",
+          "place": "Sunrise Boat Ride",
+          "description": "Witness the magical sunrise over the Ganges and the city's iconic ghats.",
+          "googleMaps": "https://maps.google.com/?q=Dashashwamedh+Ghat"
+        },
+        {
+          "time": "08:00 AM",
+          "place": "Assi Ghat",
+          "description": "Explore one of Varanasi's most vibrant and culturally significant ghats.",
+          "googleMaps": "https://maps.google.com/?q=Assi+Ghat"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Kashi Vishwanath Temple",
+          "description": "Visit one of the most sacred Hindu temples dedicated to Lord Shiva.",
+          "googleMaps": "https://maps.google.com/?q=Kashi+Vishwanath+Temple"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy authentic Banarasi cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Baati+Chokha+Varanasi"
+        },
+        {
+          "time": "06:30 PM",
+          "place": "Ganga Aarti",
+          "description": "Experience the world-famous evening prayer ceremony at Dashashwamedh Ghat.",
+          "googleMaps": "https://maps.google.com/?q=Dashashwamedh+Ghat"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "History & Heritage",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Sarnath",
+          "description": "Visit the sacred Buddhist site where Buddha gave his first sermon.",
+          "googleMaps": "https://maps.google.com/?q=Sarnath"
+        },
+        {
+          "time": "11:30 AM",
+          "place": "Dhamek Stupa",
+          "description": "Explore one of Buddhism's most important monuments.",
+          "googleMaps": "https://maps.google.com/?q=Dhamek+Stupa"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy local delicacies and traditional flavors.",
+          "googleMaps": "https://maps.google.com/?q=Baati+Chokha+Varanasi"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Ramnagar Fort",
+          "description": "Discover the former royal residence and museum.",
+          "googleMaps": "https://maps.google.com/?q=Ramnagar+Fort"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Banarasi Market Walk",
+          "description": "Shop for silk sarees, handicrafts, and souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Godowlia+Market+Varanasi"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Culture & Temples",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Banaras Hindu University",
+          "description": "Explore one of India's most prestigious universities.",
+          "googleMaps": "https://maps.google.com/?q=Banaras+Hindu+University"
+        },
+        {
+          "time": "10:00 AM",
+          "place": "New Vishwanath Temple",
+          "description": "Visit the magnificent temple located within the university campus.",
+          "googleMaps": "https://maps.google.com/?q=New+Vishwanath+Temple+BHU"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Tulsi Manas Mandir",
+          "description": "Explore the temple associated with the Ramcharitmanas.",
+          "googleMaps": "https://maps.google.com/?q=Tulsi+Manas+Mandir"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Blue Lassi Shop",
+          "description": "Taste the famous Banarasi lassi.",
+          "googleMaps": "https://maps.google.com/?q=Blue+Lassi+Shop+Varanasi"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Assi Ghat Evening",
+          "description": "Enjoy cultural performances and the vibrant riverside atmosphere.",
+          "googleMaps": "https://maps.google.com/?q=Assi+Ghat"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 4",
+      "title": "Markets & Departure",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Bharat Mata Temple",
+          "description": "Visit the unique temple dedicated to Mother India.",
+          "googleMaps": "https://maps.google.com/?q=Bharat+Mata+Temple+Varanasi"
+        },
+        {
+          "time": "10:00 AM",
+          "place": "Manikarnika Ghat",
+          "description": "Observe one of Hinduism's most sacred cremation ghats with respect and sensitivity.",
+          "googleMaps": "https://maps.google.com/?q=Manikarnika+Ghat"
+        },
+        {
+          "time": "12:00 PM",
+          "place": "Shopping",
+          "description": "Purchase Banarasi silk sarees, handicrafts, and traditional items.",
+          "googleMaps": "https://maps.google.com/?q=Thatheri+Bazaar+Varanasi"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy a final taste of Varanasi's culinary delights.",
+          "googleMaps": "https://maps.google.com/?q=Kashi+Chat+Bhandar"
+        },
+        {
+          "time": "04:00 PM",
+          "place": "Departure",
+          "description": "Proceed to airport, railway station, or onward destination.",
+          "googleMaps": "https://maps.google.com/?q=Lal+Bahadur+Shastri+International+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "Varanasi is a city of spirituality, culture, and timeless tradition. The sunrise boat ride on the Ganges, the mesmerizing Ganga Aarti, the sacred Kashi Vishwanath Temple, and the historic lanes of old Banaras together create an unforgettable experience."
+}

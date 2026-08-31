@@ -1,0 +1,296 @@
+{
+  "title": "Haridwar",
+  "hero": "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+
+  "bestTime": "October - March",
+  "recommendedDays": "2-3 Days",
+  "budget": "₹5,000 - ₹15,000",
+  "state": "Uttarakhand",
+
+  "images": [
+    "https://images.unsplash.com/photo-1518005020951-eccb494ad742",
+    "https://images.unsplash.com/photo-1524499982521-1ffd58dd89ea",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e"
+  ],
+
+  "description": "Haridwar, meaning 'Gateway to God', is one of the seven holiest cities of India. Situated on the banks of the sacred River Ganga, the city is renowned for its spiritual atmosphere, ancient temples, holy ghats, yoga centers, and the mesmerizing Ganga Aarti at Har Ki Pauri. Millions of pilgrims and tourists visit Haridwar every year to experience its faith, culture, and natural beauty.",
+
+  "reach": {
+    "airport": {
+      "name": "Jolly Grant Airport, Dehradun",
+      "distance": "38 km",
+      "travelTime": "1 hr"
+    },
+    "railwayStation": {
+      "name": "Haridwar Junction",
+      "distance": "2 km",
+      "travelTime": "10 mins"
+    },
+    "busStand": {
+      "name": "Haridwar ISBT",
+      "distance": "1 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Ganga Lahari",
+      "rating": "★ 4.8",
+      "type": "Luxury Riverfront Hotel",
+      "priceRange": "₹8,000 - ₹18,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=Ganga+Lahari+Haridwar",
+      "highlights": [
+        "Har Ki Pauri View",
+        "Ganga Facing Rooms",
+        "Spiritual Experience"
+      ]
+    },
+    {
+      "name": "Amatra By The Ganges",
+      "rating": "★ 4.7",
+      "type": "Luxury Resort",
+      "priceRange": "₹10,000 - ₹25,000",
+      "distanceFromCenter": "20 km",
+      "googleMaps": "https://maps.google.com/?q=Amatra+By+The+Ganges",
+      "highlights": [
+        "Riverfront Resort",
+        "Spa",
+        "Nature Retreat"
+      ]
+    },
+    {
+      "name": "Fortune Park Haridwar",
+      "rating": "★ 4.5",
+      "type": "Premium Hotel",
+      "priceRange": "₹4,500 - ₹10,000",
+      "distanceFromCenter": "7 km",
+      "googleMaps": "https://maps.google.com/?q=Fortune+Park+Haridwar",
+      "highlights": [
+        "Modern Facilities",
+        "Restaurant",
+        "Family Stay"
+      ]
+    },
+    {
+      "name": "Zostel Haridwar",
+      "rating": "★ 4.4",
+      "type": "Hostel",
+      "priceRange": "₹700 - ₹2,000",
+      "distanceFromCenter": "3 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Haridwar",
+      "highlights": [
+        "Budget Friendly",
+        "Backpacker Hub",
+        "Community Events"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Har Ki Pauri",
+    "Mansa Devi Temple",
+    "Chandi Devi Temple",
+    "Daksh Mahadev Temple",
+    "Bharat Mata Mandir",
+    "Shantikunj Ashram",
+    "Sapt Rishi Ashram",
+    "Pawan Dham",
+    "Rajaji National Park",
+    "Patanjali Yogpeeth"
+  ],
+
+  "food": [
+    {
+      "name": "Hoshiyar Puri",
+      "rating": "★ 4.7",
+      "speciality": "Traditional North Indian",
+      "priceRange": "₹150 - ₹500",
+      "googleMaps": "https://maps.google.com/?q=Hoshiyar+Puri+Haridwar",
+      "mustTry": [
+        "Puri Sabzi",
+        "Kachori"
+      ]
+    },
+    {
+      "name": "Chotiwala",
+      "rating": "★ 4.5",
+      "speciality": "North Indian",
+      "priceRange": "₹250 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Chotiwala+Haridwar",
+      "mustTry": [
+        "Thali",
+        "Paneer Butter Masala"
+      ]
+    },
+    {
+      "name": "Mathura Walo Ki Pracheen Dukaan",
+      "rating": "★ 4.6",
+      "speciality": "Sweets & Snacks",
+      "priceRange": "₹100 - ₹300",
+      "googleMaps": "https://maps.google.com/?q=Mathura+Walo+Ki+Pracheen+Dukaan+Haridwar",
+      "mustTry": [
+        "Rabri",
+        "Jalebi"
+      ]
+    },
+    {
+      "name": "Mohan Ji Puri Wale",
+      "rating": "★ 4.5",
+      "speciality": "Street Food",
+      "priceRange": "₹100 - ₹250",
+      "googleMaps": "https://maps.google.com/?q=Mohan+Ji+Puri+Wale+Haridwar",
+      "mustTry": [
+        "Aloo Puri",
+        "Lassi"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Auto Rickshaw",
+    "E-Rickshaw",
+    "Taxi",
+    "Local Bus",
+    "Ropeway",
+    "Private Cab"
+  ],
+
+  "packing": [
+    "Comfortable Walking Shoes",
+    "Traditional Clothing",
+    "Power Bank",
+    "Camera",
+    "Water Bottle",
+    "Light Jacket"
+  ],
+
+  "tips": [
+    "Attend the evening Ganga Aarti at Har Ki Pauri.",
+    "Carry cash for temple offerings and local shopping.",
+    "Dress modestly while visiting religious places.",
+    "Reach temples early to avoid crowds.",
+    "Use ropeways for Mansa Devi and Chandi Devi temples."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Spiritual Haridwar",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Har Ki Pauri",
+          "description": "Start your journey at Haridwar's most sacred ghat and experience the holy Ganga.",
+          "googleMaps": "https://maps.google.com/?q=Har+Ki+Pauri"
+        },
+        {
+          "time": "10:30 AM",
+          "place": "Mansa Devi Temple",
+          "description": "Take the ropeway ride to the popular hilltop temple.",
+          "googleMaps": "https://maps.google.com/?q=Mansa+Devi+Temple"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch at Hoshiyar Puri",
+          "description": "Taste authentic vegetarian North Indian cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Hoshiyar+Puri+Haridwar"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Bharat Mata Mandir",
+          "description": "Visit the unique temple dedicated to Mother India.",
+          "googleMaps": "https://maps.google.com/?q=Bharat+Mata+Mandir+Haridwar"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Ganga Aarti",
+          "description": "Witness the mesmerizing Ganga Aarti with thousands of lamps and devotional chants.",
+          "googleMaps": "https://maps.google.com/?q=Har+Ki+Pauri"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Temples & Ashrams",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Chandi Devi Temple",
+          "description": "Visit the famous hilltop temple via ropeway.",
+          "googleMaps": "https://maps.google.com/?q=Chandi+Devi+Temple"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Daksh Mahadev Temple",
+          "description": "Explore one of Haridwar's most important Shiva temples.",
+          "googleMaps": "https://maps.google.com/?q=Daksh+Mahadev+Temple"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch at Chotiwala",
+          "description": "Enjoy traditional North Indian dishes.",
+          "googleMaps": "https://maps.google.com/?q=Chotiwala+Haridwar"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Shantikunj Ashram",
+          "description": "Experience the spiritual and educational center of the Gayatri Pariwar.",
+          "googleMaps": "https://maps.google.com/?q=Shantikunj+Haridwar"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Sapt Rishi Ashram",
+          "description": "Visit the sacred ashram associated with the seven great sages.",
+          "googleMaps": "https://maps.google.com/?q=Sapt+Rishi+Ashram"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Nature & Departure",
+      "activities": [
+        {
+          "time": "07:00 AM",
+          "place": "Rajaji National Park",
+          "description": "Enjoy wildlife, birdwatching and scenic nature trails.",
+          "googleMaps": "https://maps.google.com/?q=Rajaji+National+Park"
+        },
+        {
+          "time": "10:30 AM",
+          "place": "Patanjali Yogpeeth",
+          "description": "Explore one of the world's largest yoga and wellness centers.",
+          "googleMaps": "https://maps.google.com/?q=Patanjali+Yogpeeth"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Shopping",
+          "description": "Purchase Rudraksha beads, spiritual items and local souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Haridwar+Market"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Departure",
+          "description": "Proceed to Haridwar Junction or Jolly Grant Airport.",
+          "googleMaps": "https://maps.google.com/?q=Haridwar+Junction"
+        }
+      ]
+    }
+  ],
+
+  "note": "The soul of Haridwar lies in the evening Ganga Aarti at Har Ki Pauri. Watching thousands of diyas floating on the sacred river while temple bells and chants echo through the air is an unforgettable spiritual experience."
+}
