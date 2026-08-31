@@ -1,109 +1,258 @@
 {
-  "title": "Munnar",
-  "hero": "https://images.unsplash.com/photo-1637066742971-726bee8d9f56",
-
-  "images": [
-    "https://images.unsplash.com/photo-1592726129893-0b0ff79c8a2b",
-    "https://plus.unsplash.com/premium_photo-1697730314165-2cd71dc3a6a4"
-  ],
-
-  "description": "Munnar is one of the most beautiful hill stations in Kerala famous for tea plantations, cool weather and mountain scenery.",
-
-  "reach": {
-    "airport": {
-      "name": "Cochin International Airport",
-      "distance": "110 km",
-      "travelTime": "3.5 hrs"
-    },
-
-    "railwayStation": {
-      "name": "Aluva Railway Station",
-      "distance": "108 km",
-      "travelTime": "3 hrs"
-    },
-
-    "busStand": {
-      "name": "Munnar Bus Stand",
-      "distance": "0 km"
-    }
-  },
-
-  "stay": [
-    "Tea Estate Resorts",
-    "Luxury Resorts",
-    "Homestays",
-    "Budget Hotels"
-  ],
-
-  "explore": [
-    "Eravikulam National Park",
-    "Tea Museum",
-    "Mattupetty Dam",
-    "Echo Point",
-    "Top Station"
-  ],
-
-  "food": [
-    "Kerala Sadya",
-    "Appam and Stew",
-    "Malabar Parotta",
-    "Tea Estate Cafes"
-  ],
-
-  "transport": [
-    "Taxi",
-    "Rental Car",
-    "KSRTC Bus",
-    "Private Cab"
-  ],
-
-  "packing": [
-    "Jacket",
-    "Comfortable Shoes",
-    "Power Bank",
-    "Medicines"
-  ],
-
-  "tips": [
-    "Visit between October and March",
-    "Start sightseeing early",
-    "Carry cash for remote places"
-  ],
-
-  "itinerary": [
-    {
-      "day": "Day 1",
-      "title": "Arrival and Local Exploration",
-      "activities": [
-        "Arrival at Munnar",
-        "Check-in Hotel",
-        "Visit Tea Museum",
-        "Explore Local Market"
-      ]
-    },
-
-    {
-      "day": "Day 2",
-      "title": "Nature Day",
-      "activities": [
-        "Eravikulam National Park",
-        "Mattupetty Dam",
-        "Echo Point",
-        "Photo Stops"
-      ]
-    },
-
-    {
-      "day": "Day 3",
-      "title": "Departure",
-      "activities": [
-        "Top Station Sunrise",
-        "Tea Garden Walk",
-        "Shopping",
-        "Departure"
-      ]
-    }
-  ],
-
-  "note": "The best views are usually available before 8 AM when the valleys are covered with mist."
+	"title": "Munnar",
+	"hero": "https://images.unsplash.com/photo-1637066742971-726bee8d9f56",
+	"images": [
+		"https://images.unsplash.com/photo-1592726129893-0b0ff79c8a2b",
+		"https://plus.unsplash.com/premium_photo-1697730314165-2cd71dc3a6a4"
+	],
+	"description": "Munnar is one of Kerala's most beautiful hill stations known for tea plantations, mist-covered valleys, waterfalls and cool weather throughout the year.",
+	"reach": {
+		"airport": {
+			"name": "Cochin International Airport",
+			"distance": "110 km",
+			"travelTime": "3.5 hrs"
+		},
+		"railwayStation": {
+			"name": "Aluva Railway Station",
+			"distance": "108 km",
+			"travelTime": "3 hrs"
+		},
+		"busStand": {
+			"name": "Munnar KSRTC Bus Stand",
+			"distance": "0 km"
+		}
+	},
+	"stay": [
+		{
+			"name": "Parakkat Nature Resort",
+			"type": "Luxury Resort",
+			"priceRange": "₹7000 - ₹15000",
+			"distanceFromCenter": "4 km",
+			"googleMaps": "https://maps.google.com/?q=Parakkat+Nature+Resort+Munnar",
+			"highlights": [
+				"Valley View",
+				"Infinity Pool",
+				"Family Friendly"
+			]
+		},
+		{
+			"name": "Fragrant Nature Munnar",
+			"type": "Premium Resort",
+			"priceRange": "₹8000 - ₹18000",
+			"distanceFromCenter": "6 km",
+			"googleMaps": "https://maps.google.com/?q=Fragrant+Nature+Munnar",
+			"highlights": [
+				"Mountain View",
+				"Spa",
+				"Restaurant"
+			]
+		},
+		{
+			"name": "Mistletoe Homestay",
+			"type": "Homestay",
+			"priceRange": "₹2500 - ₹5000",
+			"distanceFromCenter": "2 km",
+			"googleMaps": "https://maps.google.com/?q=Mistletoe+Homestay+Munnar",
+			"highlights": [
+				"Budget Friendly",
+				"Local Experience",
+				"Tea Estate View"
+			]
+		},
+		{
+			"name": "Zostel Munnar",
+			"type": "Hostel",
+			"priceRange": "₹800 - ₹2000",
+			"distanceFromCenter": "8 km",
+			"googleMaps": "https://maps.google.com/?q=Zostel+Munnar",
+			"highlights": [
+				"Backpackers",
+				"Shared Dorms",
+				"Community Events"
+			]
+		}
+	],
+	
+	"explore": [
+		"Eravikulam National Park",
+		"Mattupetty Dam",
+		"Echo Point",
+		"Top Station",
+		"Tea Museum",
+		"Blossom International Park"
+	],
+	"food": [
+		{
+			"name": "Rapsy Restaurant",
+			"speciality": "Kerala Meals & Biryani",
+			"priceRange": "₹200 - ₹500",
+			"googleMaps": "https://maps.google.com/?q=Rapsy+Restaurant+Munnar",
+			"mustTry": [
+				"Chicken Biryani",
+				"Kerala Meals"
+			]
+		},
+		{
+			"name": "Saravana Bhavan",
+			"speciality": "South Indian",
+			"priceRange": "₹150 - ₹400",
+			"googleMaps": "https://maps.google.com/?q=Saravana+Bhavan+Munnar",
+			"mustTry": [
+				"Masala Dosa",
+				"Idli Sambar"
+			]
+		},
+		{
+			"name": "Tea Tales Café",
+			"speciality": "Tea & Snacks",
+			"priceRange": "₹150 - ₹350",
+			"googleMaps": "https://maps.google.com/?q=Tea+Tales+Cafe+Munnar",
+			"mustTry": [
+				"Cardamom Tea",
+				"Brownies"
+			]
+		},
+		{
+			"name": "Royal Retreat",
+			"speciality": "Multi Cuisine",
+			"priceRange": "₹500 - ₹1000",
+			"googleMaps": "https://maps.google.com/?q=Royal+Retreat+Munnar",
+			"mustTry": [
+				"Kerala Fish Curry",
+				"Appam & Stew"
+			]
+		}
+	],
+	"transport": [
+		"Private Taxi",
+		"Rental Car",
+		"Sightseeing Cab",
+		"KSRTC Bus",
+		"Auto Rickshaw"
+	],
+	"packing": [
+		"Light Sweater",
+		"Comfortable Walking Shoes",
+		"Umbrella",
+		"Power Bank",
+		"Camera",
+		"Medicines"
+	],
+	"tips": [
+		"Start sightseeing before 9 AM.",
+		"Carry a light jacket even during summer.",
+		"Book Eravikulam tickets online during peak season.",
+		"Keep cash for local shops."
+	],
+	"itinerary": [
+		{
+			"day": "Day 1",
+			"title": "Arrival & Local Exploration",
+			"activities": [
+				{
+					"time": "09:00 AM",
+					"place": "Arrival at Munnar",
+					"description": "Check-in to hotel and freshen up.",
+					"googleMaps": "https://maps.google.com/?q=Munnar"
+				},
+				{
+					"time": "11:00 AM",
+					"place": "Tea Museum",
+					"description": "Learn about Munnar's tea heritage and tea-making process.",
+					"googleMaps": "https://maps.google.com/?q=KDHP+Tea+Museum+Munnar"
+				},
+				{
+					"time": "01:00 PM",
+					"place": "Lunch",
+					"description": "Enjoy authentic Kerala cuisine.",
+					"googleMaps": "https://maps.google.com/?q=Munnar+Restaurants"
+				},
+				{
+					"time": "03:00 PM",
+					"place": "Blossom International Park",
+					"description": "Relax amidst landscaped gardens and boating areas.",
+					"googleMaps": "https://maps.google.com/?q=Blossom+International+Park+Munnar"
+				},
+				{
+					"time": "05:30 PM",
+					"place": "Munnar Market",
+					"description": "Tea shopping and local handicrafts.",
+					"googleMaps": "https://maps.google.com/?q=Munnar+Market"
+				}
+			]
+		},
+		{
+			"day": "Day 2",
+			"title": "Nature & Sightseeing Day",
+			"activities": [
+				{
+					"time": "07:00 AM",
+					"place": "Eravikulam National Park",
+					"description": "Home to Nilgiri Tahr and spectacular mountain views.",
+					"googleMaps": "https://maps.google.com/?q=Eravikulam+National+Park"
+				},
+				{
+					"time": "11:00 AM",
+					"place": "Mattupetty Dam",
+					"description": "Boat rides and scenic reservoir views.",
+					"googleMaps": "https://maps.google.com/?q=Mattupetty+Dam"
+				},
+				{
+					"time": "01:00 PM",
+					"place": "Lunch",
+					"description": "Local restaurant near Mattupetty.",
+					"googleMaps": "https://maps.google.com/?q=Mattupetty+Restaurants"
+				},
+				{
+					"time": "02:30 PM",
+					"place": "Echo Point",
+					"description": "Popular viewpoint famous for natural echo phenomenon.",
+					"googleMaps": "https://maps.google.com/?q=Echo+Point+Munnar"
+				},
+				{
+					"time": "04:00 PM",
+					"place": "Kundala Lake",
+					"description": "Pedal boating and photography.",
+					"googleMaps": "https://maps.google.com/?q=Kundala+Lake"
+				},
+				{
+					"time": "06:00 PM",
+					"place": "Hotel Return",
+					"description": "Leisure evening.",
+					"googleMaps": "https://maps.google.com/?q=Munnar"
+				}
+			]
+		},
+		{
+			"day": "Day 3",
+			"title": "Sunrise & Departure",
+			"activities": [
+				{
+					"time": "05:30 AM",
+					"place": "Top Station",
+					"description": "Witness sunrise and panoramic Western Ghats views.",
+					"googleMaps": "https://maps.google.com/?q=Top+Station+Munnar"
+				},
+				{
+					"time": "08:30 AM",
+					"place": "Tea Plantation Walk",
+					"description": "Photography and guided plantation experience.",
+					"googleMaps": "https://maps.google.com/?q=Munnar+Tea+Plantations"
+				},
+				{
+					"time": "11:00 AM",
+					"place": "Shopping",
+					"description": "Purchase tea, spices and souvenirs.",
+					"googleMaps": "https://maps.google.com/?q=Munnar+Market"
+				},
+				{
+					"time": "01:00 PM",
+					"place": "Checkout & Departure",
+					"description": "Proceed to railway station or airport.",
+					"googleMaps": "https://maps.google.com/?q=Cochin+International+Airport"
+				}
+			]
+		}
+	],
+	"note": "For the best experience, wake up early and visit viewpoints before sunrise when clouds and mist cover the valleys."
 }
