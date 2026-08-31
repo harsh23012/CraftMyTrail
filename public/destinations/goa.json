@@ -1,0 +1,300 @@
+{
+  "title": "Goa",
+  "hero": "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2",
+
+  "bestTime": "November - February",
+  "recommendedDays": "3 Days",
+  "budget": "₹10,000 - ₹25,000",
+  "state": "Goa",
+
+  "images": [
+    "https://images.unsplash.com/photo-1587922546307-776227941871",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+],
+
+  "description": "Goa is India's most popular beach destination, famous for its golden beaches, vibrant nightlife, Portuguese heritage, water sports, churches, seafood, and scenic coastal beauty.",
+
+  "reach": {
+    "airport": {
+      "name": "Manohar International Airport (Mopa)",
+      "distance": "35 km",
+      "travelTime": "45 mins"
+    },
+    "railwayStation": {
+      "name": "Madgaon Railway Station",
+      "distance": "28 km",
+      "travelTime": "40 mins"
+    },
+    "busStand": {
+      "name": "Panaji Kadamba Bus Stand",
+      "distance": "0 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Taj Resort & Convention Centre",
+      "rating": "★ 4.8",
+      "type": "Luxury Resort",
+      "priceRange": "₹12,000 - ₹25,000",
+      "distanceFromCenter": "3 km",
+      "googleMaps": "https://maps.google.com/?q=Taj+Resort+Convention+Centre+Goa",
+      "highlights": [
+        "Sea View",
+        "Infinity Pool",
+        "Luxury Dining"
+      ]
+    },
+    {
+      "name": "The Leela Goa",
+      "rating": "★ 4.9",
+      "type": "Luxury Resort",
+      "priceRange": "₹15,000 - ₹30,000",
+      "distanceFromCenter": "12 km",
+      "googleMaps": "https://maps.google.com/?q=The+Leela+Goa",
+      "highlights": [
+        "Private Beach",
+        "Golf Course",
+        "Spa"
+      ]
+    },
+    {
+      "name": "Caravela Beach Resort",
+      "rating": "★ 4.6",
+      "type": "Beach Resort",
+      "priceRange": "₹8,000 - ₹18,000",
+      "distanceFromCenter": "10 km",
+      "googleMaps": "https://maps.google.com/?q=Caravela+Beach+Resort+Goa",
+      "highlights": [
+        "Beach Access",
+        "Swimming Pool",
+        "Casino Nearby"
+      ]
+    },
+    {
+      "name": "Zostel Goa",
+      "rating": "★ 4.5",
+      "type": "Hostel",
+      "priceRange": "₹800 - ₹2,500",
+      "distanceFromCenter": "5 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Goa",
+      "highlights": [
+        "Backpacker Friendly",
+        "Beach Nearby",
+        "Social Events"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Calangute Beach",
+    "Baga Beach",
+    "Fort Aguada",
+    "Dona Paula",
+    "Basilica of Bom Jesus",
+    "Dudhsagar Falls",
+    "Miramar Beach",
+    "Colva Beach"
+  ],
+
+  "food": [
+    {
+      "name": "Britto's",
+      "rating": "★ 4.5",
+      "speciality": "Seafood & Goan Cuisine",
+      "priceRange": "₹500 - ₹1500",
+      "googleMaps": "https://maps.google.com/?q=Britto's+Baga+Goa",
+      "mustTry": [
+        "Prawn Curry",
+        "Fish Thali"
+      ]
+    },
+    {
+      "name": "Martin's Corner",
+      "rating": "★ 4.7",
+      "speciality": "Authentic Goan Food",
+      "priceRange": "₹700 - ₹2000",
+      "googleMaps": "https://maps.google.com/?q=Martins+Corner+Goa",
+      "mustTry": [
+        "Crab Xec Xec",
+        "Goan Fish Curry"
+      ]
+    },
+    {
+      "name": "Thalassa",
+      "rating": "★ 4.6",
+      "speciality": "Greek & Mediterranean",
+      "priceRange": "₹1000 - ₹2500",
+      "googleMaps": "https://maps.google.com/?q=Thalassa+Goa",
+      "mustTry": [
+        "Greek Platter",
+        "Cocktails"
+      ]
+    },
+    {
+      "name": "Mum's Kitchen",
+      "rating": "★ 4.4",
+      "speciality": "Traditional Goan",
+      "priceRange": "₹500 - ₹1200",
+      "googleMaps": "https://maps.google.com/?q=Mums+Kitchen+Goa",
+      "mustTry": [
+        "Pork Vindaloo",
+        "Bebinca"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Taxi",
+    "Rental Scooters",
+    "Rental Bikes",
+    "Self Drive Cars",
+    "Local Buses"
+  ],
+
+  "packing": [
+    "Sunscreen",
+    "Beach Wear",
+    "Sunglasses",
+    "Flip Flops",
+    "Power Bank",
+    "Light Cotton Clothes"
+  ],
+
+  "tips": [
+    "Rent a scooter for easy local travel.",
+    "Book water sports in advance during peak season.",
+    "Carry sunscreen and stay hydrated.",
+    "Avoid isolated beaches late at night."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "North Goa Beaches & Nightlife",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Calangute Beach",
+          "description": "Start the day with a walk along Goa's most popular beach and enjoy water activities.",
+          "googleMaps": "https://maps.google.com/?q=Calangute+Beach+Goa"
+        },
+        {
+          "time": "10:30 AM",
+          "place": "Baga Beach",
+          "description": "Relax on the beach and experience parasailing, jet skiing, and beach shacks.",
+          "googleMaps": "https://maps.google.com/?q=Baga+Beach+Goa"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch at Britto's",
+          "description": "Enjoy seafood and Goan delicacies overlooking the sea.",
+          "googleMaps": "https://maps.google.com/?q=Britto's+Baga+Goa"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Fort Aguada",
+          "description": "Explore the historic Portuguese fort and enjoy panoramic sea views.",
+          "googleMaps": "https://maps.google.com/?q=Fort+Aguada+Goa"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Sinquerim Beach",
+          "description": "Watch the sunset and enjoy the peaceful coastline.",
+          "googleMaps": "https://maps.google.com/?q=Sinquerim+Beach+Goa"
+        },
+        {
+          "time": "08:00 PM",
+          "place": "Tito's Lane",
+          "description": "Experience Goa's famous nightlife with clubs, music, and restaurants.",
+          "googleMaps": "https://maps.google.com/?q=Titos+Lane+Goa"
+        }
+      ]
+    },
+    {
+      "day": "Day 2",
+      "title": "South Goa Sightseeing",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Colva Beach",
+          "description": "Enjoy a peaceful morning at one of South Goa's most beautiful beaches.",
+          "googleMaps": "https://maps.google.com/?q=Colva+Beach+Goa"
+        },
+        {
+          "time": "10:30 AM",
+          "place": "Basilica of Bom Jesus",
+          "description": "Visit the UNESCO-listed church and experience Portuguese heritage.",
+          "googleMaps": "https://maps.google.com/?q=Basilica+of+Bom+Jesus+Goa"
+        },
+        {
+          "time": "12:30 PM",
+          "place": "Lunch at Martin's Corner",
+          "description": "Taste authentic Goan cuisine and seafood specialities.",
+          "googleMaps": "https://maps.google.com/?q=Martins+Corner+Goa"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Dona Paula View Point",
+          "description": "Admire panoramic views of the Arabian Sea.",
+          "googleMaps": "https://maps.google.com/?q=Dona+Paula+Goa"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Miramar Beach",
+          "description": "Take an evening walk and enjoy a beautiful sunset.",
+          "googleMaps": "https://maps.google.com/?q=Miramar+Beach+Goa"
+        },
+        {
+          "time": "07:30 PM",
+          "place": "Mandovi River Cruise",
+          "description": "Enjoy Goan folk performances and river views.",
+          "googleMaps": "https://maps.google.com/?q=Mandovi+River+Cruise+Goa"
+        }
+      ]
+    },
+    {
+      "day": "Day 3",
+      "title": "Adventure & Departure",
+      "activities": [
+        {
+          "time": "07:00 AM",
+          "place": "Dudhsagar Falls",
+          "description": "Visit one of India's tallest and most beautiful waterfalls.",
+          "googleMaps": "https://maps.google.com/?q=Dudhsagar+Falls+Goa"
+        },
+        {
+          "time": "11:30 AM",
+          "place": "Spice Plantation Tour",
+          "description": "Experience Goa's famous spice farms and traditional cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Sahakari+Spice+Farm+Goa"
+        },
+        {
+          "time": "02:30 PM",
+          "place": "Panjim Market",
+          "description": "Shop for souvenirs, spices, cashews, and local handicrafts.",
+          "googleMaps": "https://maps.google.com/?q=Panjim+Market+Goa"
+        },
+        {
+          "time": "04:00 PM",
+          "place": "Hotel Checkout",
+          "description": "Complete checkout and proceed towards departure point.",
+          "googleMaps": "https://maps.google.com/?q=Goa"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Dabolim Airport",
+          "description": "Departure with memorable experiences from Goa.",
+          "googleMaps": "https://maps.google.com/?q=Dabolim+Airport+Goa"
+        }
+      ]
+    }
+  ],
+
+  "note": "The best Goa experience comes from combining beach relaxation, historic sightseeing, local cuisine, water sports, and nightlife. Plan beach visits early morning or sunset to avoid peak heat."
+}

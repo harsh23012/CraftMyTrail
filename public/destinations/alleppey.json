@@ -1,0 +1,302 @@
+{
+  "title": "Alleppey",
+  "hero": "https://images.unsplash.com/photo-1602216056096-3b40cc0c994",
+
+  "bestTime": "November - February",
+  "recommendedDays": "2-3 Days",
+  "budget": "₹6,000 - ₹18,000",
+  "state": "Kerala",
+
+  "images": [
+    "https://images.unsplash.com/photo-1602216056096-3b40cc0c994",
+    "https://images.unsplash.com/photo-1593693397690-362cb9666fc2",
+    "https://images.unsplash.com/photo-1589308078059-be1415eab4c3",
+    "https://images.unsplash.com/photo-1621335223658-0ebd89004d02",
+    "https://images.unsplash.com/photo-1512343879784-a960bf40e7f2",
+    "https://images.unsplash.com/photo-1595815771614-ade9d652a65d",
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4"
+  ],
+
+  "description": "Alleppey, officially known as Alappuzha, is the backwater capital of Kerala. Famous for its houseboat cruises, coconut-lined canals, peaceful villages, lagoons, beaches, and breathtaking sunsets, Alleppey offers one of the most relaxing experiences in South India.",
+
+  "reach": {
+    "airport": {
+      "name": "Cochin International Airport",
+      "distance": "83 km",
+      "travelTime": "2 hrs"
+    },
+    "railwayStation": {
+      "name": "Alappuzha Railway Station",
+      "distance": "4 km",
+      "travelTime": "15 mins"
+    },
+    "busStand": {
+      "name": "Alappuzha KSRTC Bus Stand",
+      "distance": "2 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Punnamada Resort",
+      "rating": "★ 4.5",
+      "type": "Luxury Backwater Resort",
+      "priceRange": "₹8,000 - ₹18,000",
+      "distanceFromCenter": "5 km",
+      "googleMaps": "https://maps.google.com/?q=Punnamada+Resort+Alleppey",
+      "highlights": [
+        "Backwater View",
+        "Infinity Pool",
+        "Ayurvedic Spa"
+      ]
+    },
+    {
+      "name": "Lake Palace Resort",
+      "rating": "★ 4.6",
+      "type": "Luxury Resort",
+      "priceRange": "₹10,000 - ₹20,000",
+      "distanceFromCenter": "6 km",
+      "googleMaps": "https://maps.google.com/?q=Lake+Palace+Resort+Alleppey",
+      "highlights": [
+        "Private Lagoon",
+        "Traditional Architecture",
+        "Houseboat Access"
+      ]
+    },
+    {
+      "name": "Citrus Retreats",
+      "rating": "★ 4.4",
+      "type": "Premium Resort",
+      "priceRange": "₹6,000 - ₹12,000",
+      "distanceFromCenter": "4 km",
+      "googleMaps": "https://maps.google.com/?q=Citrus+Retreats+Alleppey",
+      "highlights": [
+        "Family Friendly",
+        "Waterfront View",
+        "Swimming Pool"
+      ]
+    },
+    {
+      "name": "Zostel Alleppey",
+      "rating": "★ 4.3",
+      "type": "Hostel",
+      "priceRange": "₹700 - ₹2,000",
+      "distanceFromCenter": "3 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Alleppey",
+      "highlights": [
+        "Backpacker Friendly",
+        "Lake View",
+        "Community Events"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Alleppey Backwaters",
+    "Punnamada Lake",
+    "Alleppey Beach",
+    "Marari Beach",
+    "Pathiramanal Island",
+    "Vembanad Lake",
+    "Krishnapuram Palace",
+    "Kuttanad",
+    "Revi Karunakaran Museum",
+    "Mullakkal Temple"
+  ],
+
+  "food": [
+    {
+      "name": "Thaff Restaurant",
+      "rating": "★ 4.4",
+      "speciality": "Kerala Seafood",
+      "priceRange": "₹300 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Thaff+Restaurant+Alleppey",
+      "mustTry": [
+        "Karimeen Pollichathu",
+        "Fish Curry Meals"
+      ]
+    },
+    {
+      "name": "Cassia Restaurant",
+      "rating": "★ 4.5",
+      "speciality": "Kerala & Continental",
+      "priceRange": "₹500 - ₹1200",
+      "googleMaps": "https://maps.google.com/?q=Cassia+Restaurant+Alleppey",
+      "mustTry": [
+        "Kerala Sadya",
+        "Appam and Stew"
+      ]
+    },
+    {
+      "name": "Indian Coffee House",
+      "rating": "★ 4.2",
+      "speciality": "South Indian",
+      "priceRange": "₹100 - ₹400",
+      "googleMaps": "https://maps.google.com/?q=Indian+Coffee+House+Alleppey",
+      "mustTry": [
+        "Masala Dosa",
+        "Filter Coffee"
+      ]
+    },
+    {
+      "name": "Halais Restaurant",
+      "rating": "★ 4.3",
+      "speciality": "Malabar Cuisine",
+      "priceRange": "₹250 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Halais+Restaurant+Alleppey",
+      "mustTry": [
+        "Malabar Biryani",
+        "Chicken Roast"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Houseboats",
+    "Auto Rickshaw",
+    "Taxi",
+    "Rental Scooters",
+    "Local Ferry",
+    "KSRTC Bus"
+  ],
+
+  "packing": [
+    "Light Cotton Clothes",
+    "Sunglasses",
+    "Power Bank",
+    "Sunscreen",
+    "Camera",
+    "Umbrella"
+  ],
+
+  "tips": [
+    "Book houseboats in advance during peak season.",
+    "Choose sunset cruises for the best experience.",
+    "Carry cash for village-side purchases.",
+    "Try authentic Kerala seafood dishes.",
+    "Early morning canal rides are less crowded."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Backwaters & Houseboat Experience",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Punnamada Lake",
+          "description": "Begin your Alleppey journey with beautiful lake views and photography.",
+          "googleMaps": "https://maps.google.com/?q=Punnamada+Lake+Alleppey"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Houseboat Check-In",
+          "description": "Board a traditional Kerala houseboat and begin your cruise.",
+          "googleMaps": "https://maps.google.com/?q=Alleppey+Houseboat+Jetty"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch on Houseboat",
+          "description": "Enjoy fresh Kerala cuisine prepared onboard.",
+          "googleMaps": "https://maps.google.com/?q=Alleppey+Houseboat+Jetty"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Kuttanad Backwaters",
+          "description": "Cruise through village canals, paddy fields, and coconut groves.",
+          "googleMaps": "https://maps.google.com/?q=Kuttanad+Kerala"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Sunset Cruise",
+          "description": "Witness one of Kerala's most picturesque sunsets.",
+          "googleMaps": "https://maps.google.com/?q=Vembanad+Lake"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Beach & Local Sightseeing",
+      "activities": [
+        {
+          "time": "07:00 AM",
+          "place": "Alleppey Beach",
+          "description": "Enjoy a peaceful morning walk along the coast.",
+          "googleMaps": "https://maps.google.com/?q=Alleppey+Beach"
+        },
+        {
+          "time": "09:30 AM",
+          "place": "Marari Beach",
+          "description": "Relax at one of Kerala's cleanest and most beautiful beaches.",
+          "googleMaps": "https://maps.google.com/?q=Marari+Beach"
+        },
+        {
+          "time": "12:30 PM",
+          "place": "Lunch",
+          "description": "Taste fresh seafood and traditional Kerala dishes.",
+          "googleMaps": "https://maps.google.com/?q=Restaurants+Alleppey"
+        },
+        {
+          "time": "02:30 PM",
+          "place": "Krishnapuram Palace",
+          "description": "Explore Kerala's heritage architecture and murals.",
+          "googleMaps": "https://maps.google.com/?q=Krishnapuram+Palace"
+        },
+        {
+          "time": "04:30 PM",
+          "place": "Revi Karunakaran Museum",
+          "description": "Discover unique collections of art and cultural artifacts.",
+          "googleMaps": "https://maps.google.com/?q=Revi+Karunakaran+Museum"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Alleppey Lighthouse",
+          "description": "Capture sunset views from the historic lighthouse area.",
+          "googleMaps": "https://maps.google.com/?q=Alleppey+Lighthouse"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Village Life & Departure",
+      "activities": [
+        {
+          "time": "07:30 AM",
+          "place": "Village Canoe Ride",
+          "description": "Explore narrow canals and witness local village life.",
+          "googleMaps": "https://maps.google.com/?q=Alleppey+Canal+Tour"
+        },
+        {
+          "time": "10:00 AM",
+          "place": "Pathiramanal Island",
+          "description": "Enjoy birdwatching and peaceful lake views.",
+          "googleMaps": "https://maps.google.com/?q=Pathiramanal+Island"
+        },
+        {
+          "time": "12:30 PM",
+          "place": "Shopping",
+          "description": "Purchase spices, coir products, and souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Alleppey+Market"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Departure",
+          "description": "Proceed towards railway station or airport.",
+          "googleMaps": "https://maps.google.com/?q=Alappuzha+Railway+Station"
+        }
+      ]
+    }
+  ],
+
+  "note": "The best Alleppey experience comes from spending a night on a traditional houseboat and watching the sunrise over Kerala's tranquil backwaters."
+}

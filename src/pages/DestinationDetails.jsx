@@ -2,6 +2,12 @@ import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
+import { Swiper, SwiperSlide } from "swiper/react";
+import { Autoplay, Pagination, Navigation } from "swiper/modules";
+
+import "swiper/css";
+import "swiper/css/pagination";
+import "swiper/css/navigation";
 
 function DestinationDetails() {
 	const { name } = useParams();
@@ -51,13 +57,27 @@ function DestinationDetails() {
 			<Navbar />
 
 			{/* Hero */}
-			<div className="relative h-[300px] md:h-[450px]">
+			<div className="relative h-[350px] md:h-[550px] overflow-hidden rounded-b-[40px]">
 				<img src={place.hero} alt={name} />
 
-				<div className="absolute inset-0 bg-black/50 flex items-center justify-center">
-					<h1 className="text-3xl md:text-6xl font-bold text-white text-center px-4">
+				<div className="absolute inset-0 bg-gradient-to-t from-black via-black/40 to-transparent" />
+
+				<div className="absolute bottom-10 left-8 md:left-16 text-white">
+					<p className="uppercase tracking-[4px] text-sm opacity-80">
+						Discover
+					</p>
+
+					<h1 className="text-4xl md:text-7xl font-bold">
 						{place.title}
 					</h1>
+					<h3 className="text-2xl md:text-4xl">
+						{place.state}
+					</h3>
+
+					<p className="mt-3 max-w-xl text-gray-200">
+						Plan your perfect trip with curated stays,
+						restaurants, local transport, and itinerary.
+					</p>
 				</div>
 			</div>
 
@@ -70,17 +90,70 @@ function DestinationDetails() {
 					</p>
 				</div>
 
-				{/* Gallery */}
-				<div>
-					<h2 className="text-2xl font-bold text-[#0A2342] mb-4">
-						📸 Gallery
-					</h2>
-
-					<div className="grid md:grid-cols-3 gap-4">
-						{place.images?.map((img) => (
-							<img src={img} alt={name} />
-						))}
+				<div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+					<div className="bg-white rounded-2xl p-5 text-center shadow">
+						<h3 className="text-3xl">📆</h3>
+						<p className="font-bold mt-2">{place.recommendedDays}</p>
+						<p className="text-gray-500 text-sm">Recommended Stay</p>
 					</div>
+
+					<div className="bg-white rounded-2xl p-5 text-center shadow">
+						<h3 className="text-3xl">☀️</h3>
+						<p className="font-bold mt-2">{place.bestTime}</p>
+						<p className="text-gray-500 text-sm">Best Season</p>
+					</div>
+
+					<div className="bg-white rounded-2xl p-5 text-center shadow">
+						<h3 className="text-3xl">💰</h3>
+						<p className="font-bold mt-2">{place.budget}</p>
+						<p className="text-gray-500 text-sm">Avg Budget</p>
+					</div>
+				</div>
+
+				{/* Gallery */}
+				<div className="bg-white rounded-3xl p-4 shadow-lg">
+				<div className="flex items-center justify-between mb-5">
+				  <h2 className="text-3xl font-bold text-[#0A2342]">
+				    📸 Photo Gallery
+				  </h2>
+
+				  <span className="text-sm text-gray-500">
+				    {place.images?.length} Photos
+				  </span>
+				</div>
+				  <Swiper
+				    modules={[Autoplay, Pagination, Navigation]}
+				    spaceBetween={20}
+				    slidesPerView={1}
+				    loop={true}
+				    autoplay={{
+				      delay: 3000,
+				      disableOnInteraction: false,
+				    }}
+				    pagination={{
+				      clickable: true,
+				    }}
+				    navigation
+				    breakpoints={{
+				      640: {
+				        slidesPerView: 1,
+				      },
+				      768: {
+				        slidesPerView: 2,
+				      },
+				      1024: {
+				        slidesPerView: 3,
+				      },
+				    }}
+				  >
+				    {place.images?.map((img, index) => (
+				      <SwiperSlide key={index}>
+				        <div className="overflow-hidden rounded-2xl">
+				          <img src={img} alt={name}/>
+				        </div>
+				      </SwiperSlide>
+				    ))}
+				  </Swiper>
 				</div>
 
 				{/* Reach */}
@@ -118,10 +191,10 @@ Travel Time: ${place.reach?.railwayStation?.travelTime}`}
 						🏨 Recommended Stays
 					</h2>
 
-					<div className="grid md:grid-cols-2 gap-5">
+					<div className="grid md:grid-cols-3 gap-5">
 						{(showAllHotels
 							? place.stay
-							: place.stay?.slice(0, 2)
+							: place.stay?.slice(0, 3)
 						)?.map((hotel, index) => (
 							<div
 								key={index}
@@ -131,14 +204,18 @@ Travel Time: ${place.reach?.railwayStation?.travelTime}`}
 									{hotel.name}
 								</h3>
 
+								<span className="bg-green-500 text-white text-xs px-2 py-1 rounded">
+									{hotel.rating}
+								</span>
+
 								<p>{hotel.type}</p>
 
 								<p className="text-sm text-gray-600">
-									💰 {hotel.priceRange}
+									Price Range: {hotel.priceRange}
 								</p>
 
 								<p className="text-sm text-gray-600">
-									📍 {hotel.distanceFromCenter}
+									Center of City: {hotel.distanceFromCenter}
 								</p>
 
 								<div className="mt-2 flex flex-wrap gap-2">
@@ -172,7 +249,7 @@ Travel Time: ${place.reach?.railwayStation?.travelTime}`}
 						))}
 
 					</div>
-					{place.stay?.length > 2 && (
+					{place.stay?.length > 3 && (
 						<div className="flex justify-center mt-6">
 							<button
 								onClick={() => setShowAllHotels(!showAllHotels)}
@@ -197,10 +274,10 @@ Travel Time: ${place.reach?.railwayStation?.travelTime}`}
 						🍽️ Food & Restaurants
 					</h2>
 
-					<div className="grid md:grid-cols-2 gap-5">
+					<div className="grid md:grid-cols-3 gap-5">
 						{(showAllFood
 							? place.food
-							: place.food?.slice(0, 2)
+							: place.food?.slice(0, 3)
 						)?.map((food, index) => (
 							<div
 								key={index}
@@ -209,6 +286,10 @@ Travel Time: ${place.reach?.railwayStation?.travelTime}`}
 								<h3 className="font-bold text-lg text-[#0A2342]">
 									{food.name}
 								</h3>
+								
+								<span className="bg-green-500 text-white text-xs px-2 py-1 rounded">
+									{food.rating}
+								</span>
 
 								<p>
 									Specialty: {food.speciality}
@@ -218,19 +299,16 @@ Travel Time: ${place.reach?.railwayStation?.travelTime}`}
 									Price: {food.priceRange}
 								</p>
 
-								{food.mustTry?.length > 0 && (
-									<div className="mt-2">
-										<p className="font-medium">
-											Must Try:
-										</p>
-
-										<ul className="list-disc pl-5">
-											{food.mustTry.map((item, i) => (
-												<li key={i}>{item}</li>
-											))}
-										</ul>
-									</div>
-								)}
+								<div className="flex flex-wrap gap-2 mt-3">
+									{food.mustTry?.map((item, i) => (
+										<span
+											key={i}
+											className="bg-orange-100 text-orange-700 px-2 py-1 rounded-full text-xs"
+										>
+											{item}
+										</span>
+									))}
+								</div>
 
 								{food.googleMaps && (
 									<button
@@ -248,7 +326,7 @@ Travel Time: ${place.reach?.railwayStation?.travelTime}`}
 							</div>
 						))}
 					</div>
-					{place.food?.length > 2 && (
+					{place.food?.length > 3 && (
 						<div className="flex justify-center mt-6">
 							<button
 								onClick={() => setShowAllFood(!showAllFood)}

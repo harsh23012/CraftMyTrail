@@ -1,6 +1,10 @@
 {
 	"title": "Munnar",
 	"hero": "https://images.unsplash.com/photo-1637066742971-726bee8d9f56",
+	"bestTime": "October - March",
+	"recommendedDays": "3 Days",
+	"budget": "₹8,000 - ₹15,000",
+	"state": "Kerala",
 	"images": [
 		"https://images.unsplash.com/photo-1592726129893-0b0ff79c8a2b",
 		"https://plus.unsplash.com/premium_photo-1697730314165-2cd71dc3a6a4"
@@ -25,6 +29,7 @@
 	"stay": [
 		{
 			"name": "Parakkat Nature Resort",
+			"rating": "★ 4.1",
 			"type": "Luxury Resort",
 			"priceRange": "₹7000 - ₹15000",
 			"distanceFromCenter": "4 km",
@@ -37,6 +42,7 @@
 		},
 		{
 			"name": "Fragrant Nature Munnar",
+			"rating": "★ 4.6",
 			"type": "Premium Resort",
 			"priceRange": "₹8000 - ₹18000",
 			"distanceFromCenter": "6 km",
@@ -49,6 +55,7 @@
 		},
 		{
 			"name": "Mistletoe Homestay",
+			"rating": "★ 4.0",
 			"type": "Homestay",
 			"priceRange": "₹2500 - ₹5000",
 			"distanceFromCenter": "2 km",
@@ -61,6 +68,7 @@
 		},
 		{
 			"name": "Zostel Munnar",
+			"rating": "★ 4.2",
 			"type": "Hostel",
 			"priceRange": "₹800 - ₹2000",
 			"distanceFromCenter": "8 km",
@@ -84,6 +92,7 @@
 	"food": [
 		{
 			"name": "Rapsy Restaurant",
+			"rating": "★ 4.4",
 			"speciality": "Kerala Meals & Biryani",
 			"priceRange": "₹200 - ₹500",
 			"googleMaps": "https://maps.google.com/?q=Rapsy+Restaurant+Munnar",
@@ -94,6 +103,7 @@
 		},
 		{
 			"name": "Saravana Bhavan",
+			"rating": "★ 4.4",
 			"speciality": "South Indian",
 			"priceRange": "₹150 - ₹400",
 			"googleMaps": "https://maps.google.com/?q=Saravana+Bhavan+Munnar",
@@ -104,6 +114,7 @@
 		},
 		{
 			"name": "Tea Tales Café",
+			"rating": "★ 4.4",
 			"speciality": "Tea & Snacks",
 			"priceRange": "₹150 - ₹350",
 			"googleMaps": "https://maps.google.com/?q=Tea+Tales+Cafe+Munnar",
@@ -114,6 +125,7 @@
 		},
 		{
 			"name": "Royal Retreat",
+			"rating": "★ 4.1",
 			"speciality": "Multi Cuisine",
 			"priceRange": "₹500 - ₹1000",
 			"googleMaps": "https://maps.google.com/?q=Royal+Retreat+Munnar",

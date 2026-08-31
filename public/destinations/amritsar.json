@@ -1,0 +1,344 @@
+{
+  "title": "Amritsar",
+  "hero": "https://images.unsplash.com/photo-1587474260584-136574528ed5",
+
+  "bestTime": "October -March",
+  "recommendedDays": "2-3 Days",
+  "budget": "₹6,000 - ₹20,000",
+  "state": "Punjab",
+
+  "images": [
+    "https://images.unsplash.com/photo-1587474260584-136574528ed5",
+    "https://images.unsplash.com/photo-1548013146-72479768bada",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1449824913935-59a10b8d2000",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+  ],
+
+  "description": "Amritsar is the spiritual and cultural capital of Punjab, best known for the Golden Temple, rich Sikh heritage, vibrant bazaars, delicious Punjabi cuisine, and the famous Wagah Border ceremony. The city offers a unique blend of spirituality, history, patriotism, and hospitality.",
+
+  "reach": {
+    "airport": {
+      "name": "Sri Guru Ram Dass Jee International Airport",
+      "distance": "11 km",
+      "travelTime": "25 mins"
+    },
+    "railwayStation": {
+      "name": "Amritsar Junction",
+      "distance": "2 km",
+      "travelTime": "10 mins"
+    },
+    "busStand": {
+      "name": "Amritsar ISBT",
+      "distance": "3 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Taj Swarna",
+      "rating": "★ 4.8",
+      "type": "Luxury Hotel",
+      "priceRange": "₹10,000 - ₹25,000",
+      "distanceFromCenter": "5 km",
+      "googleMaps": "https://maps.google.com/?q=Taj+Swarna+Amritsar",
+      "highlights": [
+        "Luxury Rooms",
+        "Spa",
+        "Fine Dining"
+      ]
+    },
+    {
+      "name": "Hyatt Regency Amritsar",
+      "rating": "★ 4.7",
+      "type": "Luxury Hotel",
+      "priceRange": "₹8,000 - ₹18,000",
+      "distanceFromCenter": "6 km",
+      "googleMaps": "https://maps.google.com/?q=Hyatt+Regency+Amritsar",
+      "highlights": [
+        "Swimming Pool",
+        "Mall Access",
+        "Family Friendly"
+      ]
+    },
+    {
+      "name": "Ramada by Wyndham",
+      "rating": "★ 4.6",
+      "type": "Premium Hotel",
+      "priceRange": "₹5,000 - ₹12,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Ramada+Amritsar",
+      "highlights": [
+        "Near Golden Temple",
+        "Rooftop Restaurant",
+        "Comfort Stay"
+      ]
+    },
+    {
+      "name": "Bloom Boutique",
+      "rating": "★ 4.5",
+      "type": "Boutique Hotel",
+      "priceRange": "₹3,000 - ₹7,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Bloom+Boutique+Amritsar",
+      "highlights": [
+        "Modern Interiors",
+        "Great Location",
+        "Affordable Luxury"
+      ]
+    },
+    {
+      "name": "Zostel Amritsar",
+      "rating": "★ 4.4",
+      "type": "Hostel",
+      "priceRange": "₹700 - ₹2,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Amritsar",
+      "highlights": [
+        "Backpacker Friendly",
+        "Community Activities",
+        "Budget Stay"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Golden Temple",
+    "Jallianwala Bagh",
+    "Wagah Border",
+    "Partition Museum",
+    "Durgiana Temple",
+    "Gobindgarh Fort",
+    "Hall Bazaar",
+    "Maharaja Ranjit Singh Museum",
+    "Akal Takht",
+    "Ram Tirath Temple"
+  ],
+
+  "food": [
+    {
+      "name": "Kesar Da Dhaba",
+      "rating": "★ 4.7",
+      "speciality": "Authentic Punjabi Cuisine",
+      "priceRange": "₹300 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Kesar+Da+Dhaba+Amritsar",
+      "mustTry": [
+        "Dal Makhani",
+        "Laccha Paratha"
+      ]
+    },
+    {
+      "name": "Kulcha Land",
+      "rating": "★ 4.6",
+      "speciality": "Amritsari Special",
+      "priceRange": "₹150 - ₹500",
+      "googleMaps": "https://maps.google.com/?q=Kulcha+Land+Amritsar",
+      "mustTry": [
+        "Amritsari Kulcha",
+        "Lassi"
+      ]
+    },
+    {
+      "name": "Bharawan Da Dhaba",
+      "rating": "★ 4.5",
+      "speciality": "Punjabi Vegetarian",
+      "priceRange": "₹250 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Bharawan+Da+Dhaba+Amritsar",
+      "mustTry": [
+        "Chole Kulche",
+        "Paneer Bhurji"
+      ]
+    },
+    {
+      "name": "Kanha Sweets",
+      "rating": "★ 4.3",
+      "speciality": "Sweets & Snacks",
+      "priceRange": "₹100 - ₹300",
+      "googleMaps": "https://maps.google.com/?q=Kanha+Sweets+Amritsar",
+      "mustTry": [
+        "Jalebi",
+        "Gulab Jamun"
+      ]
+    },
+    {
+      "name": "Brother's Dhaba",
+      "rating": "★ 4.4",
+      "speciality": "North Indian",
+      "priceRange": "₹300 - ₹900",
+      "googleMaps": "https://maps.google.com/?q=Brothers+Dhaba+Amritsar",
+      "mustTry": [
+        "Butter Chicken",
+        "Amritsari Fish"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Auto Rickshaw",
+    "E-Rickshaw",
+    "Taxi",
+    "App-Based Cabs",
+    "Cycle Rickshaw",
+    "Local Buses"
+  ],
+
+  "packing": [
+    "Comfortable Walking Shoes",
+    "Cap",
+    "Water Bottle",
+    "Power Bank",
+    "Light Jacket (Winter)",
+    "Camera"
+  ],
+
+  "tips": [
+    "Visit the Golden Temple early morning for a peaceful experience.",
+    "Carry a scarf or handkerchief to cover your head inside gurudwaras.",
+    "Reach Wagah Border at least 1 hour early.",
+    "Try authentic Amritsari Kulcha and Lassi.",
+    "Keep some cash for local markets and street food."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Golden Temple & Heritage Walk",
+      "activities": [
+        {
+          "time": "06:00 AM",
+          "place": "Golden Temple",
+          "description": "Begin your journey with prayers and witness the serene beauty of the Golden Temple at sunrise.",
+          "googleMaps": "https://maps.google.com/?q=Golden+Temple+Amritsar"
+        },
+        {
+          "time": "08:00 AM",
+          "place": "Guru Ka Langar",
+          "description": "Experience the world's largest free community kitchen.",
+          "googleMaps": "https://maps.google.com/?q=Golden+Temple+Langar"
+        },
+        {
+          "time": "10:00 AM",
+          "place": "Jallianwala Bagh",
+          "description": "Explore the historic memorial dedicated to India's freedom struggle.",
+          "googleMaps": "https://maps.google.com/?q=Jallianwala+Bagh"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch at Kesar Da Dhaba",
+          "description": "Enjoy traditional Punjabi cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Kesar+Da+Dhaba+Amritsar"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Partition Museum",
+          "description": "Discover stories from the Partition of India.",
+          "googleMaps": "https://maps.google.com/?q=Partition+Museum+Amritsar"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Hall Bazaar",
+          "description": "Shop for phulkari, Punjabi juttis, and souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Hall+Bazaar+Amritsar"
+        },
+        {
+          "time": "08:00 PM",
+          "place": "Golden Temple Night Visit",
+          "description": "Witness the beautifully illuminated temple reflecting in the holy sarovar.",
+          "googleMaps": "https://maps.google.com/?q=Golden+Temple+Amritsar"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Patriotism & Cultural Experiences",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Gobindgarh Fort",
+          "description": "Explore Punjab's military and cultural heritage.",
+          "googleMaps": "https://maps.google.com/?q=Gobindgarh+Fort"
+        },
+        {
+          "time": "11:30 AM",
+          "place": "Durgiana Temple",
+          "description": "Visit the famous Hindu temple inspired by Golden Temple architecture.",
+          "googleMaps": "https://maps.google.com/?q=Durgiana+Temple"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy local Punjabi specialties.",
+          "googleMaps": "https://maps.google.com/?q=Restaurants+Amritsar"
+        },
+        {
+          "time": "03:30 PM",
+          "place": "Wagah Border",
+          "description": "Reach the border area early for the iconic Beating Retreat Ceremony.",
+          "googleMaps": "https://maps.google.com/?q=Wagah+Border"
+        },
+        {
+          "time": "06:00 PM",
+          "place": "Wagah Border Ceremony",
+          "description": "Witness patriotic celebrations and the famous flag-lowering ceremony.",
+          "googleMaps": "https://maps.google.com/?q=Wagah+Border"
+        },
+        {
+          "time": "08:30 PM",
+          "place": "Dinner at Kulcha Land",
+          "description": "Taste the world-famous Amritsari Kulcha.",
+          "googleMaps": "https://maps.google.com/?q=Kulcha+Land+Amritsar"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Local Experiences & Departure",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Ram Tirath Temple",
+          "description": "Visit the historic temple associated with the Ramayana.",
+          "googleMaps": "https://maps.google.com/?q=Ram+Tirath+Temple"
+        },
+        {
+          "time": "10:30 AM",
+          "place": "Maharaja Ranjit Singh Museum",
+          "description": "Learn about Punjab's legendary ruler and Sikh history.",
+          "googleMaps": "https://maps.google.com/?q=Maharaja+Ranjit+Singh+Museum"
+        },
+        {
+          "time": "12:30 PM",
+          "place": "Shopping & Souvenirs",
+          "description": "Purchase local handicrafts, spices, and traditional Punjabi products.",
+          "googleMaps": "https://maps.google.com/?q=Hall+Bazaar+Amritsar"
+        },
+        {
+          "time": "02:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy a final Punjabi meal before departure.",
+          "googleMaps": "https://maps.google.com/?q=Bharawan+Da+Dhaba+Amritsar"
+        },
+        {
+          "time": "04:00 PM",
+          "place": "Airport / Railway Station",
+          "description": "Depart with unforgettable memories of Amritsar.",
+          "googleMaps": "https://maps.google.com/?q=Sri+Guru+Ram+Dass+Jee+International+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "The most magical moments in Amritsar are watching sunrise and night illumination at the Golden Temple, experiencing the vibrant Langar service, and witnessing the patriotic Wagah Border ceremony."
+}

@@ -1,0 +1,325 @@
+{
+  "title": "Darjeeling",
+  "hero": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+
+  "bestTime": "March - May, October - December",
+  "recommendedDays": "3-4 Days",
+  "budget": "₹8,000 - ₹25,000",
+  "state": "West Bengal",
+
+  "images": [
+    "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+    "https://images.unsplash.com/photo-1469474968028-56623f02e42e",
+    "https://images.unsplash.com/photo-1470770841072-f978cf4d019e",
+    "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee",
+    "https://images.unsplash.com/photo-1439066615861-d1af74d74000",
+    "https://images.unsplash.com/photo-1501785888041-af3ef285b470",
+    "https://images.unsplash.com/photo-1482192505345-5655af888cc4",
+    "https://images.unsplash.com/photo-1526778548025-fa2f459cd5ce",
+    "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+    "https://images.unsplash.com/photo-1441974231531-c6227db76b6e",
+    "https://images.unsplash.com/photo-1511497584788-876760111969",
+    "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86",
+    "https://images.unsplash.com/photo-1489515217757-5fd1be406fef",
+    "https://images.unsplash.com/photo-1519389950473-47ba0277781c",
+    "https://images.unsplash.com/photo-1507525428034-b723cf961d3e"
+  ],
+
+  "description": "Darjeeling, known as the Queen of Hills, is one of India's most famous hill stations. Nestled in the Himalayas, it is renowned for its tea gardens, breathtaking views of Kanchenjunga, the Darjeeling Himalayan Railway, monasteries, colonial charm, and pleasant weather throughout the year.",
+
+  "reach": {
+    "airport": {
+      "name": "Bagdogra Airport",
+      "distance": "70 km",
+      "travelTime": "3 hrs"
+    },
+    "railwayStation": {
+      "name": "New Jalpaiguri Railway Station",
+      "distance": "72 km",
+      "travelTime": "3 hrs"
+    },
+    "busStand": {
+      "name": "Darjeeling Bus Stand",
+      "distance": "0 km"
+    }
+  },
+
+  "stay": [
+    {
+      "name": "Mayfair Darjeeling",
+      "rating": "★ 4.8",
+      "type": "Luxury Resort",
+      "priceRange": "₹12,000 - ₹30,000",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Mayfair+Darjeeling",
+      "highlights": [
+        "Luxury Spa",
+        "Mountain Views",
+        "Heritage Property"
+      ]
+    },
+    {
+      "name": "Elgin Darjeeling",
+      "rating": "★ 4.7",
+      "type": "Heritage Hotel",
+      "priceRange": "₹8,000 - ₹20,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=Elgin+Darjeeling",
+      "highlights": [
+        "Colonial Architecture",
+        "Fireplace Lounge",
+        "Premium Service"
+      ]
+    },
+    {
+      "name": "Summit Swiss Heritage Hotel",
+      "rating": "★ 4.5",
+      "type": "Boutique Hotel",
+      "priceRange": "₹4,000 - ₹10,000",
+      "distanceFromCenter": "1 km",
+      "googleMaps": "https://maps.google.com/?q=Summit+Swiss+Heritage+Darjeeling",
+      "highlights": [
+        "Kanchenjunga View",
+        "Family Friendly",
+        "Central Location"
+      ]
+    },
+    {
+      "name": "Zostel Darjeeling",
+      "rating": "★ 4.4",
+      "type": "Hostel",
+      "priceRange": "₹800 - ₹2,500",
+      "distanceFromCenter": "2 km",
+      "googleMaps": "https://maps.google.com/?q=Zostel+Darjeeling",
+      "highlights": [
+        "Backpacker Friendly",
+        "Mountain Views",
+        "Community Events"
+      ]
+    },
+    {
+      "name": "Tea Garden Homestay",
+      "rating": "★ 4.3",
+      "type": "Homestay",
+      "priceRange": "₹2,000 - ₹5,000",
+      "distanceFromCenter": "5 km",
+      "googleMaps": "https://maps.google.com/?q=Tea+Garden+Homestay+Darjeeling",
+      "highlights": [
+        "Tea Estate Stay",
+        "Local Experience",
+        "Home Cooked Food"
+      ]
+    }
+  ],
+
+  "explore": [
+    "Tiger Hill",
+    "Batasia Loop",
+    "Darjeeling Himalayan Railway",
+    "Peace Pagoda",
+    "Japanese Temple",
+    "Himalayan Mountaineering Institute",
+    "Padmaja Naidu Zoo",
+    "Happy Valley Tea Estate",
+    "Rock Garden",
+    "Ghoom Monastery"
+  ],
+
+  "food": [
+    {
+      "name": "Kunga Restaurant",
+      "rating": "★ 4.7",
+      "speciality": "Tibetan Cuisine",
+      "priceRange": "₹200 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Kunga+Restaurant+Darjeeling",
+      "mustTry": [
+        "Momos",
+        "Thukpa"
+      ]
+    },
+    {
+      "name": "Glenary's",
+      "rating": "★ 4.6",
+      "speciality": "Bakery & Continental",
+      "priceRange": "₹400 - ₹1200",
+      "googleMaps": "https://maps.google.com/?q=Glenarys+Darjeeling",
+      "mustTry": [
+        "Chocolate Pastry",
+        "English Breakfast"
+      ]
+    },
+    {
+      "name": "Keventers",
+      "rating": "★ 4.5",
+      "speciality": "Breakfast & Café",
+      "priceRange": "₹300 - ₹800",
+      "googleMaps": "https://maps.google.com/?q=Keventers+Darjeeling",
+      "mustTry": [
+        "Hot Chocolate",
+        "Sausages"
+      ]
+    },
+    {
+      "name": "Sonam's Kitchen",
+      "rating": "★ 4.6",
+      "speciality": "Breakfast & Organic Food",
+      "priceRange": "₹250 - ₹700",
+      "googleMaps": "https://maps.google.com/?q=Sonams+Kitchen+Darjeeling",
+      "mustTry": [
+        "Pancakes",
+        "Omelette"
+      ]
+    },
+    {
+      "name": "Hasty Tasty",
+      "rating": "★ 4.3",
+      "speciality": "Vegetarian",
+      "priceRange": "₹150 - ₹500",
+      "googleMaps": "https://maps.google.com/?q=Hasty+Tasty+Darjeeling",
+      "mustTry": [
+        "Veg Momos",
+        "Fried Rice"
+      ]
+    }
+  ],
+
+  "transport": [
+    "Shared Jeeps",
+    "Taxi",
+    "Local Buses",
+    "Toy Train",
+    "Private Cab"
+  ],
+
+  "packing": [
+    "Warm Jacket",
+    "Comfortable Walking Shoes",
+    "Umbrella",
+    "Power Bank",
+    "Camera",
+    "Woollen Cap"
+  ],
+
+  "tips": [
+    "Visit Tiger Hill before sunrise for the best Kanchenjunga views.",
+    "Carry warm clothing throughout the year.",
+    "Book Toy Train rides in advance.",
+    "Keep cash for local tea gardens and markets.",
+    "Avoid heavy travel during monsoon months."
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival & Local Sightseeing",
+      "activities": [
+        {
+          "time": "09:00 AM",
+          "place": "Arrival in Darjeeling",
+          "description": "Check into hotel and enjoy the cool mountain weather.",
+          "googleMaps": "https://maps.google.com/?q=Darjeeling"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Himalayan Mountaineering Institute",
+          "description": "Learn about Himalayan expeditions and mountaineering history.",
+          "googleMaps": "https://maps.google.com/?q=Himalayan+Mountaineering+Institute"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch at Glenary's",
+          "description": "Enjoy delicious food with mountain views.",
+          "googleMaps": "https://maps.google.com/?q=Glenarys+Darjeeling"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Happy Valley Tea Estate",
+          "description": "Explore one of the oldest tea estates in Darjeeling.",
+          "googleMaps": "https://maps.google.com/?q=Happy+Valley+Tea+Estate"
+        },
+        {
+          "time": "05:30 PM",
+          "place": "Chowrasta Mall Road",
+          "description": "Stroll through the town center and shop for souvenirs.",
+          "googleMaps": "https://maps.google.com/?q=Chowrasta+Darjeeling"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Sunrise & Heritage Attractions",
+      "activities": [
+        {
+          "time": "04:30 AM",
+          "place": "Tiger Hill",
+          "description": "Witness the famous sunrise over Kanchenjunga.",
+          "googleMaps": "https://maps.google.com/?q=Tiger+Hill+Darjeeling"
+        },
+        {
+          "time": "07:00 AM",
+          "place": "Ghoom Monastery",
+          "description": "Visit one of the oldest Tibetan monasteries in the region.",
+          "googleMaps": "https://maps.google.com/?q=Ghoom+Monastery"
+        },
+        {
+          "time": "08:00 AM",
+          "place": "Batasia Loop",
+          "description": "Enjoy spectacular mountain views and the iconic railway loop.",
+          "googleMaps": "https://maps.google.com/?q=Batasia+Loop"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Darjeeling Toy Train Ride",
+          "description": "Experience the UNESCO-listed Himalayan Railway.",
+          "googleMaps": "https://maps.google.com/?q=Darjeeling+Himalayan+Railway"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Peace Pagoda",
+          "description": "Enjoy panoramic views and peaceful surroundings.",
+          "googleMaps": "https://maps.google.com/?q=Peace+Pagoda+Darjeeling"
+        }
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Nature & Departure",
+      "activities": [
+        {
+          "time": "08:00 AM",
+          "place": "Rock Garden",
+          "description": "Explore terraced gardens, waterfalls and scenic beauty.",
+          "googleMaps": "https://maps.google.com/?q=Rock+Garden+Darjeeling"
+        },
+        {
+          "time": "11:00 AM",
+          "place": "Japanese Temple",
+          "description": "Visit the peaceful Buddhist temple complex.",
+          "googleMaps": "https://maps.google.com/?q=Japanese+Temple+Darjeeling"
+        },
+        {
+          "time": "01:00 PM",
+          "place": "Lunch",
+          "description": "Enjoy authentic Tibetan and Nepali cuisine.",
+          "googleMaps": "https://maps.google.com/?q=Kunga+Restaurant+Darjeeling"
+        },
+        {
+          "time": "03:00 PM",
+          "place": "Tea & Souvenir Shopping",
+          "description": "Buy authentic Darjeeling tea and handicrafts.",
+          "googleMaps": "https://maps.google.com/?q=Darjeeling+Market"
+        },
+        {
+          "time": "05:00 PM",
+          "place": "Departure",
+          "description": "Proceed towards NJP Railway Station or Bagdogra Airport.",
+          "googleMaps": "https://maps.google.com/?q=Bagdogra+Airport"
+        }
+      ]
+    }
+  ],
+
+  "note": "The best Darjeeling experience begins before sunrise at Tiger Hill. Watching the first rays of sunlight illuminate Kanchenjunga while sipping authentic Darjeeling tea is truly unforgettable."
+}
