@@ -148,7 +148,7 @@ function DestinationDetails() {
 				  >
 				    {place.images?.map((img, index) => (
 				      <SwiperSlide key={index}>
-				        <div className="overflow-hidden rounded-2xl">
+				        <div className="overflow-hidden rounded-2xl h-[250px] md:h-[300px]">
 				          <img src={img} alt={name}/>
 				        </div>
 				      </SwiperSlide>
