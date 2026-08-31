@@ -1,34 +1,184 @@
 const destinationCards = [
-    {
-      name: "Munnar",
-      slug: "munnar",
-      image: "https://images.unsplash.com/photo-1600210492493-0946911123ea",
-      desc: "Beautiful tea gardens and misty hills.",
-    },
-    {
-      name: "Goa",
-      slug: "goa",
-      image: "https://images.unsplash.com/photo-1591017403286-fd8493524e1e",
-      desc: "Beaches and nightlife.",
-    },
-    {
-      name: "Coorg",
-      slug: "coorg",
-      image: "https://images.unsplash.com/photo-1605538883669-8258e57a2cda",
-      desc: "Coffee estates and peaceful nature.",
-    },
-    {
-      name: "Manali",
-      slug: "manali",
-      image: "https://images.unsplash.com/photo-1505765050516-f72dcac9c60d",
-      desc: "Snow and adventure.",
-    },
-    {
-      name: "Jaipur",
-      slug: "jaipur",
-      image: "https://images.unsplash.com/photo-1599661046827-c6a1b6aa0cc1",
-      desc: "Royal heritage.",
-    },
-  ];
-  
-  export default destinationCards;
+  {
+    name: "Munnar",
+    slug: "munnar",
+    image: "https://images.unsplash.com/photo-1600210492493-0946911123ea?w=600",
+    desc: "Beautiful tea gardens and misty hills.",
+  },
+  {
+    name: "Goa",
+    slug: "goa",
+    image: "https://images.unsplash.com/photo-1591017403286-fd8493524e1e?w=600",
+    desc: "Beaches and nightlife.",
+  },
+  {
+    name: "Coorg",
+    slug: "coorg",
+    image: "https://images.unsplash.com/photo-1605538883669-8258e57a2cda?w=600",
+    desc: "Coffee estates and peaceful nature.",
+  },
+  {
+    name: "Manali",
+    slug: "manali",
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600",
+    desc: "Snow-capped mountains and adventure sports.",
+  },
+  {
+    name: "Jaipur",
+    slug: "jaipur",
+    image: "https://images.unsplash.com/photo-1477587458883-47145ed94245?w=600",
+    desc: "The Pink City of royal palaces and forts.",
+  },
+  {
+    name: "Gokarna",
+    slug: "gokarna",
+    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600",
+    desc: "Peaceful beaches and stunning sunsets.",
+  },
+  {
+    name: "Ooty",
+    slug: "ooty",
+    image: "https://images.unsplash.com/photo-1587135941948-670b381f08ce?w=600",
+    desc: "Queen of Hill Stations in Tamil Nadu.",
+  },
+  {
+    name: "Wayanad",
+    slug: "wayanad",
+    image: "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?w=600",
+    desc: "Forests, waterfalls, and wildlife.",
+  },
+  {
+    name: "Mysore",
+    slug: "mysore",
+    image: "https://images.unsplash.com/photo-1590766940554-634a7ed41450?w=600",
+    desc: "Historic palaces and cultural heritage.",
+  },
+  {
+    name: "Udaipur",
+    slug: "udaipur",
+    image: "https://images.unsplash.com/photo-1599661046289-e31897846e41?w=600",
+    desc: "The City of Lakes.",
+  },
+  {
+    name: "Jaisalmer",
+    slug: "jaisalmer",
+    image: "https://images.unsplash.com/photo-1599997756547-d3a34b2d9f25?w=600",
+    desc: "Golden Fort and desert adventures.",
+  },
+  {
+    name: "Rishikesh",
+    slug: "rishikesh",
+    image: "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=600",
+    desc: "Yoga capital and river rafting hub.",
+  },
+  {
+    name: "Haridwar",
+    slug: "haridwar",
+    image: "https://images.unsplash.com/photo-1570560258879-af7f8e1447ac?w=600",
+    desc: "Sacred ghats and Ganga Aarti.",
+  },
+  {
+    name: "Shimla",
+    slug: "shimla",
+    image: "https://images.unsplash.com/photo-1622308644420-b20142dc993c?w=600",
+    desc: "Colonial charm and mountain views.",
+  },
+  {
+    name: "Dharamshala",
+    slug: "dharamshala",
+    image: "https://images.unsplash.com/photo-1625047509248-ec889cbff17f?w=600",
+    desc: "Home of the Dalai Lama and Himalayan beauty.",
+  },
+  {
+    name: "Leh Ladakh",
+    slug: "leh-ladakh",
+    image: "https://images.unsplash.com/photo-1581793745862-99fde7fa73d2?w=600",
+    desc: "High-altitude deserts and stunning landscapes.",
+  },
+  {
+    name: "Srinagar",
+    slug: "srinagar",
+    image: "https://images.unsplash.com/photo-1598091383021-15b4e6e5f4c0?w=600",
+    desc: "Houseboats, lakes, and Kashmir beauty.",
+  },
+  {
+    name: "Amritsar",
+    slug: "amritsar",
+    image: "https://images.unsplash.com/photo-1587474260584-136574528ed5?w=600",
+    desc: "The spiritual home of the Golden Temple.",
+  },
+  {
+    name: "Varanasi",
+    slug: "varanasi",
+    image: "https://images.unsplash.com/photo-1561361513-2d000a50f0dc?w=600",
+    desc: "One of the world's oldest living cities.",
+  },
+  {
+    name: "Agra",
+    slug: "agra",
+    image: "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=600",
+    desc: "Home of the iconic Taj Mahal.",
+  },
+  {
+    name: "Khajuraho",
+    slug: "khajuraho",
+    image: "https://images.unsplash.com/photo-1586253634021-e41444f1d7e8?w=600",
+    desc: "Ancient temple architecture.",
+  },
+  {
+    name: "Hampi",
+    slug: "hampi",
+    image: "https://images.unsplash.com/photo-1619946794135-5bc917a27793?w=600",
+    desc: "UNESCO World Heritage ruins.",
+  },
+  {
+    name: "Pondicherry",
+    slug: "pondicherry",
+    image: "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600",
+    desc: "French colonial charm by the sea.",
+  },
+  {
+    name: "Kodaikanal",
+    slug: "kodaikanal",
+    image: "https://images.unsplash.com/photo-1593693411515-c20261bcad6e?w=600",
+    desc: "Misty hills and serene lakes.",
+  },
+  {
+    name: "Alleppey",
+    slug: "alleppey",
+    image: "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?w=600",
+    desc: "Famous Kerala backwaters and houseboats.",
+  },
+  {
+    name: "Andaman",
+    slug: "andaman",
+    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600",
+    desc: "Pristine beaches and coral reefs.",
+  },
+  {
+    name: "Darjeeling",
+    slug: "darjeeling",
+    image: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=600",
+    desc: "Tea gardens and Himalayan views.",
+  },
+  {
+    name: "Gangtok",
+    slug: "gangtok",
+    image: "https://images.unsplash.com/photo-1595815771614-ade501d3b2ea?w=600",
+    desc: "Gateway to the Eastern Himalayas.",
+  },
+  {
+    name: "Kaziranga",
+    slug: "kaziranga",
+    image: "https://images.unsplash.com/photo-1549366021-9f761d450615?w=600",
+    desc: "Famous for the one-horned rhinoceros.",
+  },
+  {
+    name: "Meghalaya",
+    slug: "meghalaya",
+    image: "https://images.unsplash.com/photo-1626621341517-bbf3d9990a23?w=600",
+    desc: "Living root bridges and waterfalls.",
+  },
+];
+
+export default destinationCards;

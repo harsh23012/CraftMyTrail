@@ -1,0 +1,109 @@
+{
+  "title": "Munnar",
+  "hero": "https://images.unsplash.com/photo-1637066742971-726bee8d9f56",
+
+  "images": [
+    "https://images.unsplash.com/photo-1592726129893-0b0ff79c8a2b",
+    "https://plus.unsplash.com/premium_photo-1697730314165-2cd71dc3a6a4"
+  ],
+
+  "description": "Munnar is one of the most beautiful hill stations in Kerala famous for tea plantations, cool weather and mountain scenery.",
+
+  "reach": {
+    "airport": {
+      "name": "Cochin International Airport",
+      "distance": "110 km",
+      "travelTime": "3.5 hrs"
+    },
+
+    "railwayStation": {
+      "name": "Aluva Railway Station",
+      "distance": "108 km",
+      "travelTime": "3 hrs"
+    },
+
+    "busStand": {
+      "name": "Munnar Bus Stand",
+      "distance": "0 km"
+    }
+  },
+
+  "stay": [
+    "Tea Estate Resorts",
+    "Luxury Resorts",
+    "Homestays",
+    "Budget Hotels"
+  ],
+
+  "explore": [
+    "Eravikulam National Park",
+    "Tea Museum",
+    "Mattupetty Dam",
+    "Echo Point",
+    "Top Station"
+  ],
+
+  "food": [
+    "Kerala Sadya",
+    "Appam and Stew",
+    "Malabar Parotta",
+    "Tea Estate Cafes"
+  ],
+
+  "transport": [
+    "Taxi",
+    "Rental Car",
+    "KSRTC Bus",
+    "Private Cab"
+  ],
+
+  "packing": [
+    "Jacket",
+    "Comfortable Shoes",
+    "Power Bank",
+    "Medicines"
+  ],
+
+  "tips": [
+    "Visit between October and March",
+    "Start sightseeing early",
+    "Carry cash for remote places"
+  ],
+
+  "itinerary": [
+    {
+      "day": "Day 1",
+      "title": "Arrival and Local Exploration",
+      "activities": [
+        "Arrival at Munnar",
+        "Check-in Hotel",
+        "Visit Tea Museum",
+        "Explore Local Market"
+      ]
+    },
+
+    {
+      "day": "Day 2",
+      "title": "Nature Day",
+      "activities": [
+        "Eravikulam National Park",
+        "Mattupetty Dam",
+        "Echo Point",
+        "Photo Stops"
+      ]
+    },
+
+    {
+      "day": "Day 3",
+      "title": "Departure",
+      "activities": [
+        "Top Station Sunrise",
+        "Tea Garden Walk",
+        "Shopping",
+        "Departure"
+      ]
+    }
+  ],
+
+  "note": "The best views are usually available before 8 AM when the valleys are covered with mist."
+}

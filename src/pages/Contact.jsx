@@ -45,7 +45,7 @@ function Contact() {
               href="tel:+916205093779"
               className="text-gray-600 hover:text-[#F7941D]"
             >
-              +91 62050 93779
+              +91 84345 80656
             </a>
           </div>
 

@@ -53,7 +53,7 @@ function Footer() {
         <div>
           <h3 className="font-semibold mb-2">Contact</h3>
           <ul className="space-y-1 text-gray-300">
-            <li>📞 +91 62050 93779</li>
+            <li>📞 +91 84345 80656</li>
             <li className="flex items-center gap-2">
 			<a href="mailto:craftmytrail@gmail.com"
 				className="hover:text-[#F7941D]"
