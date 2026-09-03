@@ -42,7 +42,7 @@ function Contact() {
           <div className="hover:scale-105 transition">
             <p className="text-lg font-semibold">📞 Phone</p>
             <a
-              href="tel:+916205093779"
+              href="tel:+918434580656"
               className="text-gray-600 hover:text-[#F7941D]"
             >
               +91 84345 80656
