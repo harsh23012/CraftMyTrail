@@ -116,10 +116,10 @@ function PrivacyPolicy() {
               <br />
               📞{" "}
               <a
-                href="tel:+916205093779"
+                href="tel:+918434580656"
                 className="hover:text-[#F7941D]"
               >
-                +91 62050 93779
+                +91 84345 80656
               </a>
             </p>
           </motion.div>
