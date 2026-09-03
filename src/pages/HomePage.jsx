@@ -16,12 +16,12 @@ function Home() {
   };
   
   const featuredDestinations = [
-  "gokarna",
-  "pondicherry",
-  "rishikesh",
-  "goa",
-  "munnar",
-  "coorg",
+  "agra",
+  "alleppey",
+  "leh-ladakh",
+  "jaipur",
+  "mysore",
+  "kodaikanal",
   ];
   const featuredCards = destinationsCards.filter((place) =>
   featuredDestinations.includes(place.slug)
